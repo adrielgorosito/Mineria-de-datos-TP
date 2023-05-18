@@ -56,9 +56,28 @@ print(data_numeric.cov())
 
 
 
-# Gráfica de dispersión de "ComproBicicleta" vs "Edad"
-sns.scatterplot(data=data, x="ComproBicicleta", y="Edad", color="grey")
-plt.title("Gráfica de dispersión ComproBicicleta vs Edad")
+# Gráficas de dispersión
+sns.set_style("whitegrid")
+fig, ax = plt.subplots(2, 3, figsize=(11, 6))
+plt.subplots_adjust(bottom=0.2, wspace=0.5, hspace=0.4)
+
+sns.scatterplot(data=data, x="Edad", y="IngresoAnual", ax=ax[0, 0], color="steelblue", hue="ComproBicicleta")
+ax[0, 0].set_title("Edad vs. IngresoAnual")
+
+sns.scatterplot(data=data, x="Edad", y="TotalHijos", ax=ax[0, 1], color="steelblue", hue="ComproBicicleta")
+ax[0, 1].set_title("Edad vs. TotalHijos")
+
+sns.scatterplot(data=data, x="Edad", y="CantAutomoviles", ax=ax[0, 2], color="steelblue", hue="ComproBicicleta")
+ax[0, 2].set_title("Edad vs. CantAutomoviles")
+
+sns.scatterplot(data=data, x="TotalHijos", y="IngresoAnual", ax=ax[1, 0], color="steelblue", hue="ComproBicicleta")
+ax[1, 0].set_title("TotalHijos vs. IngresoAnual")
+
+sns.scatterplot(data=data, x="TotalHijos", y="CantAutomoviles", ax=ax[1, 1], color="steelblue", hue="ComproBicicleta")
+ax[1, 1].set_title("TotalHijos vs. CantAutomoviles")
+
+sns.scatterplot(data=data, x="IngresoAnual", y="CantAutomoviles", ax=ax[1, 2], color="steelblue", hue="ComproBicicleta")
+ax[1, 2].set_title("IngresoAnual vs. CantAutomoviles")
 
 plt.show()
 
