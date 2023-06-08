@@ -85,7 +85,7 @@ plt.show()
 
 # Rellenamos los datos nulos de "IngresoAnual"
 # Primero analizamos con qué valor imputar, si la media o mediana
-sns.histplot(data=data, x="IngresoAnual", color="steelblue") # Histograma de la variable "Velocidad"
+sns.histplot(data=data, x="IngresoAnual", color="steelblue") # Histograma de la variable "IngresoAnual"
 plt.title("Histograma del ingreso anual")
 plt.show()
 
@@ -109,5 +109,67 @@ print(data[data["CantAutomoviles"] > 3])        # 480 valores
 
 
 
+# Histogramas de las variables numéricas
+sns.set_style("whitegrid")
+fig, ax = plt.subplots(2, 2, figsize=(11, 6))
+plt.subplots_adjust(bottom=0.2, wspace=0.5, hspace=0.4)
+
+sns.histplot(data=data, x="CantAutomoviles", ax=ax[0, 0], color="steelblue")
+ax[0, 0].set_title("Histograma de la cantidad de autos")
+
+sns.histplot(data=data, x="Edad", ax=ax[0, 1], color="steelblue")
+ax[0, 1].set_title("Histograma de la edad")
+
+sns.histplot(data=data, x="TotalHijos", ax=ax[1, 0], color="steelblue")
+ax[1, 0].set_title("Histograma del total de hijos")
+
+sns.histplot(data=data, x="IngresoAnual", ax=ax[1, 1], color="steelblue")
+ax[1, 1].set_title("Histograma del ingreso anual")
+
+plt.show()
+
+
+
+# Gráficos de barra para las variables categóricas
+
+# Recuentos de cada categoría
+educacion_counts = data['Educacion'].value_counts()
+ocupacion_counts = data['Ocupacion'].value_counts()
+distancia_counts = data['Distancia'].value_counts()
+region_counts = data['Region'].value_counts()
+
+# Conversión de recuentos a dataFrame
+educacion_counts_df = pd.DataFrame({'Educacion': educacion_counts.index, 'Count': educacion_counts.values})
+ocupacion_counts_df = pd.DataFrame({'Ocupacion': ocupacion_counts.index, 'Count': ocupacion_counts.values})
+distancia_counts_df = pd.DataFrame({'Distancia': distancia_counts.index, 'Count': distancia_counts.values})
+region_counts_df = pd.DataFrame({'Region': region_counts.index, 'Count': region_counts.values})
+
+# Gráficas
+sns.barplot(data=educacion_counts_df, y='Count', x='Educacion', color="steelblue")
+plt.title("Gráfico de barras de la educación")
+plt.show()
+
+sns.barplot(data=ocupacion_counts_df, y='Count', x='Ocupacion', color="steelblue")
+plt.title("Gráfico de barras de la ocupación")
+plt.show()
+
+sns.barplot(data=distancia_counts_df, y='Count', x='Distancia', color="steelblue")
+plt.title("Gráfico de barras de la distancia")
+plt.show()
+
+sns.barplot(data=region_counts_df, y='Count', x='Region', color="steelblue")
+plt.title("Gráfico de barras de la región")
+plt.show()
+
+
+
+
+
+
+
+
+
+
+
 # Exportamos el CSV ya sin datos nulos
-data.to_csv('clientes_sin_nulos.csv', index=False)
+# data.to_csv('clientes_sin_nulos.csv', index=False)
