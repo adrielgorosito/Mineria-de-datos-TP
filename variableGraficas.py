@@ -80,8 +80,7 @@ sns.histplot(data=data, x="Distancia", color="steelblue")
 plt.title("Gráfico de barras de 'Distancia'")
 plt.show()
 
-
-Región
+# Región
 data = [1880, 1, 3310, 1209]
 labels = ['Centro', 'Noroeste', 'Norte', 'Sur']
 plt.pie(data, labels=labels, autopct = '%0.0f%%')

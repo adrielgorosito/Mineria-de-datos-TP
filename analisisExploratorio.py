@@ -163,13 +163,5 @@ plt.show()
 
 
 
-
-
-
-
-
-
-
-
 # Exportamos el CSV ya sin datos nulos
-# data.to_csv('clientes_sin_nulos.csv', index=False)
+data.to_csv('clientes_sin_nulos.csv', index=False)
