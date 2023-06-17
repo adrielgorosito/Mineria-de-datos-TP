@@ -1,0 +1,567 @@
+﻿IdCiudad;Nombre;Apellido;FechaNacimiento;EstadoCivil;Genero;Email;IngresoAnual;TotalHijos;CantHijosEnCasa;Educacion;Ocupacion;Propietario;CantAutomoviles;Direccion;Telefono;Distancia;Region;Edad;prediction(ComproBicicleta)
+383;Marcus;Campbell;23/5/1980 00:00;S;M;marcus44@mineriadedatos.com.ar;100000;3;0;Licenciatura;Gestión;1;3;'8819 Camino Norte';911-555-0178;'2-5 Km.';Norte;32;1
+311;Adriana;Malhotra;24/4/1965 00:00;C;F;adriana5@mineriadedatos.com.ar;80000;3;3;Licenciatura;'Obrero especializado';1;3;'1944 Serene Court';911-555-0122;'10+ Km.';Norte;48;1
+32;Daisy;Navarro;24/4/1957 00:00;S;F;daisy6@mineriadedatos.com.ar;70000;2;0;'Educación secundaria';'Obrero especializado';0;2;'7427 Grove Way';'500 555-0120';'1-2 Km.';Sur;56;1
+553;Hunter;Li;6/12/1958 00:00;S;M;hunter21@mineriadedatos.com.ar;60000;1;0;Licenciatura;Profesional;1;1;'2612 Berry Dr';402-555-0113;'2-5 Km.';Norte;54;1
+177;Ebony;Martinez;5/10/1965 00:00;S;F;ebony18@mineriadedatos.com.ar;20000;2;2;'Educación secundaria';Obrero;1;0;'Heideweg 1442';'500 555-0165';'0-1 Km.';Centro;47;1
+244;Derrick;Moreno;13/6/1972 00:00;S;M;derrick6@mineriadedatos.com.ar;30000;0;0;'Educación secundaria';Obrero;0;1;'8942 Sierra Road';'500 555-0195';'1-2 Km.';Centro;40;1
+162;Katie;Becker;23/7/1972 00:00;C;F;katie23@mineriadedatos.com.ar;40000;2;2;'Estudios universitarios (en curso)';Administrativo;1;0;'Husemann Straße 2464';'500 555-0140';'1-2 Km.';Centro;40;1
+307;Patricia;Rodriguez;8/9/1965 00:00;S;F;patricia21@mineriadedatos.com.ar;40000;0;0;Licenciatura;Profesional;1;1;'417 Silver Oak Pl';152-555-0182;'2-5 Km.';Norte;47;1
+9;Jay;Martin;25/9/1967 00:00;C;M;jay29@mineriadedatos.com.ar;90000;4;4;Licenciatura;Profesional;1;0;'8384 Potomac Drive';'500 555-0160';'0-1 Km.';Sur;45;1
+39;Darryl;Liu;26/5/1975 00:00;S;M;darryl4@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;2;'4404 Mildred Avenue';'500 555-0157';'5-10 Km.';Sur;37;1
+209;Katelyn;Peterson;20/1/1973 00:00;S;F;katelyn3@mineriadedatos.com.ar;30000;0;0;'Estudios universitarios (en curso)';Administrativo;1;1;'332  boulevard d´Albi';'500 555-0137';'2-5 Km.';Centro;40;1
+187;Bryan;Bell;7/6/1967 00:00;S;M;bryan14@mineriadedatos.com.ar;10000;3;3;'Educación secundaria';Obrero;1;1;'34  place Beaubernard';'500 555-0171';'0-1 Km.';Centro;45;1
+23;Alexis;Long;7/4/1979 00:00;S;F;alexis32@mineriadedatos.com.ar;10000;1;1;'Educación secundaria';Obrero;0;0;'3376 Jacaranda Dr.';'500 555-0174';'1-2 Km.';Sur;34;1
+133;Cynthia;Perez;19/3/1957 00:00;C;F;cynthia27@mineriadedatos.com.ar;130000;2;4;'Estudios universitarios (en curso)';Profesional;1;2;'Im Himmelsweg 89';'500 555-0142';'0-1 Km.';Centro;56;1
+25;Seth;Campbell;1/8/1968 00:00;C;M;seth43@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;1;'3639 Blackridge Drive';'500 555-0180';'0-1 Km.';Sur;44;1
+369;Hannah;Price;19/3/1974 00:00;S;F;hannah23@mineriadedatos.com.ar;30000;0;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'8586 D Kiska Ct.';657-555-0114;'5-10 Km.';Norte;39;1
+168;Meredith;Sai;25/3/1961 00:00;C;F;meredith4@mineriadedatos.com.ar;30000;4;0;'Estudios de postgrado';Administrativo;1;0;'Parkstr 4852';'500 555-0158';'0-1 Km.';Centro;52;1
+634;Luke;Hernandez;5/7/1962 00:00;C;M;luke47@mineriadedatos.com.ar;70000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'5749 Elkwood Dr.';367-555-0120;'2-5 Km.';Norte;50;1
+22;Dana;Diaz;1/4/1971 00:00;C;F;dana19@mineriadedatos.com.ar;160000;4;5;'Educación secundaria (en curso)';Gestión;0;4;'2241 Concord Place';'500 555-0194';'10+ Km.';Sur;42;1
+18;Cesar;Kapoor;28/1/1957 00:00;C;M;cesar1@mineriadedatos.com.ar;70000;2;0;'Educación secundaria';'Obrero especializado';1;2;'6387 Scenic Avenue';'500 555-0118';'5-10 Km.';Sur;56;1
+301;Clinton;Serrano;6/12/1965 00:00;C;M;clinton13@mineriadedatos.com.ar;110000;2;2;Licenciatura;Gestión;1;3;'7700 Meaham Drive';158-555-0197;'2-5 Km.';Norte;47;1
+22;Lacey;Pal;16/2/1955 00:00;S;F;lacey2@mineriadedatos.com.ar;80000;2;0;'Estudios universitarios (en curso)';'Obrero especializado';0;2;'6890 Highland Road';'500 555-0197';'1-2 Km.';Sur;58;1
+245;Randall;Torres;17/10/1964 00:00;C;M;randall13@mineriadedatos.com.ar;40000;1;0;Licenciatura;'Obrero especializado';1;0;'2319 Hilltop Dr.';'500 555-0160';'0-1 Km.';Centro;48;1
+50;Edward;Foster;23/7/1968 00:00;C;M;edward64@mineriadedatos.com.ar;90000;4;4;Licenciatura;Gestión;1;1;'2106 Chilpancingo Pkwy.';829-555-0111;'0-1 Km.';Norte;44;1
+20;Latoya;Nath;12/3/1970 00:00;S;F;latoya17@mineriadedatos.com.ar;90000;2;0;Licenciatura;Profesional;0;0;'1362 Geary Road';'500 555-0183';'0-1 Km.';Sur;43;1
+261;Sandra;Zhao;6/7/1966 00:00;C;F;sandra17@mineriadedatos.com.ar;40000;0;0;Licenciatura;Profesional;1;0;'4698 G Street';'500 555-0162';'0-1 Km.';Centro;46;1
+246;Kate;Jai;26/5/1972 00:00;S;F;kate9@mineriadedatos.com.ar;40000;2;2;'Estudios universitarios (en curso)';Administrativo;1;0;'8307 Monument Blvd.';'500 555-0150';'0-1 Km.';Centro;40;1
+322;Brianna;Moore;20/2/1969 00:00;C;F;brianna6@mineriadedatos.com.ar;50000;2;2;Licenciatura;'Obrero especializado';1;0;'2545 Crowe Place';590-555-0112;'0-1 Km.';Norte;44;1
+60;David;Powell;6/4/1961 00:00;C;M;david41@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'6774 Alier Drive';205-555-0184;'2-5 Km.';Norte;52;1
+7;Carrie;Munoz;8/4/1976 00:00;C;F;carrie7@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;1;3;'5558 Kaitlin Pl.';'500 555-0120';'10+ Km.';Sur;37;1
+70;Amanda;Collins;17/3/1959 00:00;C;F;amanda46@mineriadedatos.com.ar;550000;4;0;'Estudios de postgrado';'Obrero especializado';1;0;'9663 East 38th St';806-555-0151;'1-2 Km.';Norte;54;1
+185;Ruben;Chandra;2/3/1971 00:00;C;M;ruben2@mineriadedatos.com.ar;30000;0;0;'Educación secundaria';Obrero;0;1;Midi-Couleurs;'500 555-0180';'1-2 Km.';Centro;42;1
+312;Abigail;Jenkins;15/4/1969 00:00;S;F;abigail32@mineriadedatos.com.ar;50000;2;2;Licenciatura;'Obrero especializado';0;0;'4838 Second Street';135-555-0132;'0-1 Km.';Norte;44;1
+260;Jay;Sanz;9/10/1959 00:00;S;M;jay50@mineriadedatos.com.ar;30000;3;0;'Estudios de postgrado';Administrativo;1;0;'5591 Garcia Ranch Road';'500 555-0159';'0-1 Km.';Centro;53;1
+34;Robin;Carlson;28/7/1956 00:00;C;F;robin14@mineriadedatos.com.ar;80000;2;0;'Educación secundaria';'Obrero especializado';1;2;'4579 Glenside Drive';'500 555-0170';'5-10 Km.';Sur;56;1
+31;Colin;Xu;15/6/1960 00:00;S;M;colin13@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'5133 Serrana Ct.';'500 555-0179';'5-10 Km.';Sur;52;1
+641;Tyler;Robinson;23/10/1970 00:00;C;M;tyler16@mineriadedatos.com.ar;70000;3;0;'Estudios de postgrado';Profesional;1;0;'8069 Vine Hill Way';936-555-0175;'2-5 Km.';Norte;42;1
+151;Marvin;Browning;24/10/1965 00:00;C;M;marvin16@mineriadedatos.com.ar;40000;1;0;Licenciatura;'Obrero especializado';1;0;'Buergermeister-ulrich-str 098';'500 555-0155';'0-1 Km.';Centro;47;1
+644;Brianna;Alexander;20/3/1938 00:00;C;F;brianna64@mineriadedatos.com.ar;90000;5;0;Licenciatura;Gestión;1;2;'6608 Calle Verde Dr.';242-555-0137;'5-10 Km.';Norte;75;1
+40;Glenn;Wu;14/4/1940 00:00;C;M;glenn7@mineriadedatos.com.ar;40000;2;0;Licenciatura;Gestión;0;2;'5934 Warmcastle Ct.';'500 555-0127';'0-1 Km.';Sur;73;1
+300;Jada;Collins;7/9/1967 00:00;S;F;jada15@mineriadedatos.com.ar;70000;2;2;Licenciatura;'Obrero especializado';1;1;'1978 Medina Dr.';169-555-0194;'2-5 Km.';Norte;45;1
+254;Cindy;Garcia;9/4/1944 00:00;C;F;cindy15@mineriadedatos.com.ar;130000;3;4;Licenciatura;Gestión;1;4;'1775 Chocolate Court';'500 555-0178';'0-1 Km.';Centro;69;1
+20;Meagan;Raman;21/11/1972 00:00;S;F;meagan12@mineriadedatos.com.ar;90000;0;0;Licenciatura;Profesional;1;3;'5640 Icicle Way';'500 555-0151';'10+ Km.';Sur;40;1
+36;Jarrod;Suri;20/12/1963 00:00;S;M;jarrod0@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;2;'7265 Mt. Dell Dr.';'500 555-0128';'0-1 Km.';Sur;49;1
+49;Kristi;Ramos;1/3/1973 00:00;C;F;kristi13@mineriadedatos.com.ar;70000;0;0;'Estudios universitarios (en curso)';Profesional;1;2;'4594 Springer Court';187-555-0112;'5-10 Km.';Norte;40;1
+24;Sheena;Pal;22/1/1961 00:00;S;F;sheena10@mineriadedatos.com.ar;60000;1;0;Licenciatura;Profesional;1;1;'4399 Price Lane';'500 555-0169';'5-10 Km.';Sur;52;1
+383;David;Long;16/11/1956 00:00;C;M;david42@mineriadedatos.com.ar;80000;2;0;'Educación secundaria (en curso)';'Obrero especializado';1;2;'1180 Rhea Ct';415-555-0123;'5-10 Km.';Norte;56;1
+329;Taylor;Richardson;21/1/1960 00:00;C;F;taylor12@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'6369 Ellis Street';545-555-0144;'2-5 Km.';Norte;53;1
+623;Alyssa;Bailey;5/4/1957 00:00;C;F;alyssa33@mineriadedatos.com.ar;70000;2;0;'Educación secundaria (en curso)';'Obrero especializado';1;2;'8811 Lombardy Lane';715-555-0165;'5-10 Km.';Norte;56;1
+124;Brandy;Malhotra;14/6/1972 00:00;C;F;brandy0@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';1;1;'Heiderplatz 789';'500 555-0121';'1-2 Km.';Centro;40;1
+31;Marshall;She;28/4/1969 00:00;C;M;marshall21@mineriadedatos.com.ar;110000;1;0;'Estudios de postgrado';Gestión;1;1;'3140 Park Tree Ct';'500 555-0120';'5-10 Km.';Sur;44;1
+13;Randy;Zheng;21/3/1979 00:00;C;M;randy22@mineriadedatos.com.ar;10000;0;0;'Estudios universitarios (en curso)';Obrero;0;1;'4798 San Benito Dr.';'500 555-0182';'0-1 Km.';Sur;34;1
+18;Luke;Foster;13/8/1972 00:00;C;M;luke5@mineriadedatos.com.ar;100000;0;5;'Educación secundaria';Gestión;1;3;'2024 Belle Dr';'500 555-0115';'10+ Km.';Sur;40;1
+10;Cristina;Tang;10/11/1958 00:00;C;F;cristina4@mineriadedatos.com.ar;100000;4;0;Licenciatura;Gestión;1;2;'7223 Brush Creek Court';'500 555-0188';'0-1 Km.';Sur;54;1
+300;Seth;Anderson;21/5/1961 00:00;C;M;seth10@mineriadedatos.com.ar;110000;1;3;Licenciatura;Gestión;1;3;'8922 Lindley Ct.';485-555-0124;'5-10 Km.';Norte;52;1
+361;Dalton;Washington;9/11/1966 00:00;C;M;dalton59@mineriadedatos.com.ar;70000;4;0;'Estudios de postgrado';Profesional;1;0;'4575 Pinehurst Court';914-555-0114;'0-1 Km.';Norte;46;1
+315;Xavier;Ramirez;20/2/1971 00:00;S;M;xavier73@mineriadedatos.com.ar;70000;3;0;'Estudios de postgrado';Profesional;0;0;'4451 Argonne Dr.';436-555-0119;'0-1 Km.';Norte;42;1
+24;Terry;Lal;14/9/1962 00:00;C;M;terry12@mineriadedatos.com.ar;60000;1;0;Licenciatura;Profesional;1;1;'2241 V St.';'500 555-0172';'0-1 Km.';Sur;50;1
+17;Jay;Arthur;11/1/1972 00:00;S;M;jay13@mineriadedatos.com.ar;120000;0;5;'Educación secundaria (en curso)';Profesional;1;4;'5898 Mt. Dell';'500 555-0169';'10+ Km.';Sur;41;1
+241;Riley;Hayes;13/6/1962 00:00;S;F;riley19@mineriadedatos.com.ar;30000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'4766 Palm Ave';'500 555-0110';'2-5 Km.';Centro;50;1
+59;Kayla;Flores;19/5/1974 00:00;S;F;kayla36@mineriadedatos.com.ar;50000;0;0;'Estudios de postgrado';'Obrero especializado';1;0;'1956 Sequoia Dr.';797-555-0199;'1-2 Km.';Norte;39;1
+51;Kaylee;Phillips;26/2/1962 00:00;C;F;kaylee27@mineriadedatos.com.ar;70000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'531 Northridge Drive';745-555-0127;'0-1 Km.';Norte;51;1
+374;Megan;Moore;25/2/1969 00:00;C;F;megan11@mineriadedatos.com.ar;80000;3;0;'Estudios de postgrado';Profesional;0;0;'4612 Merriewood Drive';838-555-0114;'0-1 Km.';Norte;44;1
+25;Adrian;Watson;18/5/1970 00:00;S;M;adrian2@mineriadedatos.com.ar;90000;0;0;Licenciatura;Profesional;0;4;'3205 Sierra Drive';'500 555-0143';'10+ Km.';Sur;43;1
+38;Bob;Alan;10/4/1971 00:00;S;M;bob6@mineriadedatos.com.ar;100000;0;5;'Educación secundaria';Gestión;1;4;'2371 Deerfield Dr.';'500 555-0179';'10+ Km.';Sur;42;1
+2;Bryant;Perez;21/1/1977 00:00;S;M;bryant20@mineriadedatos.com.ar;20000;0;0;'Estudios universitarios (en curso)';Obrero;0;0;'1502 Marion Ct.';'500 555-0189';'0-1 Km.';Sur;36;1
+612;Linda;Hernandez;3/3/1973 00:00;C;F;linda18@mineriadedatos.com.ar;70000;0;0;'Estudios universitarios (en curso)';Profesional;1;2;'582 Ofarrell Dr';591-555-0144;'5-10 Km.';Norte;40;1
+274;Kristen;Ye;10/2/1964 00:00;S;F;kristen8@mineriadedatos.com.ar;20000;3;3;'Educación secundaria';Obrero;1;0;'579 Meager Dr.';'500 555-0146';'0-1 Km.';Centro;49;1
+190;Ramon;Zhao;20/5/1971 00:00;S;M;ramon10@mineriadedatos.com.ar;40000;2;2;'Estudios universitarios (en curso)';Administrativo;1;1;'1234  rue Ste-Honoré';'500 555-0192';'1-2 Km.';Centro;42;1
+644;Hunter;Johnson;4/12/1960 00:00;C;M;hunter60@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'1958 Weaver Court';436-555-0161;'2-5 Km.';Norte;52;1
+355;Brittany;Foster;4/4/1972 00:00;C;F;brittany14@mineriadedatos.com.ar;70000;2;0;'Estudios de postgrado';Profesional;1;0;'2546 Woodchuck Pl';442-555-0178;'2-5 Km.';Norte;41;1
+39;Jason;Butler;23/9/1955 00:00;S;M;jason11@mineriadedatos.com.ar;80000;2;0;'Educación secundaria';'Obrero especializado';1;2;'3608 Sinclair Avenue';'500 555-0130';'5-10 Km.';Sur;57;1
+218;Misty;Yuan;22/9/1970 00:00;S;F;misty8@mineriadedatos.com.ar;30000;0;0;Licenciatura;Administrativo;1;0;'11  rue du Départ';'500 555-0182';'0-1 Km.';Centro;42;1
+372;Maria;Ross;22/5/1957 00:00;C;F;maria27@mineriadedatos.com.ar;70000;2;0;'Educación secundaria (en curso)';'Obrero especializado';1;2;'7134 Oakwood Cir';669-555-0171;'5-10 Km.';Norte;56;1
+115;Alvin;Xu;12/3/1961 00:00;C;M;alvin12@mineriadedatos.com.ar;30000;4;0;'Estudios de postgrado';Administrativo;1;0;'Rehstr 1346';'500 555-0115';'0-1 Km.';Centro;52;1
+211;Alvin;Liu;12/10/1970 00:00;C;M;alvin5@mineriadedatos.com.ar;30000;0;0;Licenciatura;Administrativo;0;0;'4775 Imperial Dr.';'500 555-0111';'0-1 Km.';Centro;42;1
+648;Austin;Flores;9/1/1969 00:00;C;M;austin8@mineriadedatos.com.ar;50000;2;2;Licenciatura;'Obrero especializado';1;0;'6940 Hilltop Dr';690-555-0141;'2-5 Km.';Norte;44;1
+627;Marcus;Brooks;16/3/1962 00:00;S;M;marcus75@mineriadedatos.com.ar;100000;1;2;'Estudios universitarios (en curso)';Profesional;0;3;'7008 Buckingham Dr.';134-555-0197;'1-2 Km.';Norte;51;1
+26;Jon;Yang;8/4/1966 00:00;C;M;jon24@mineriadedatos.com.ar;90000;2;0;Licenciatura;Profesional;1;0;'3761 N. 14th St';'500 555-0162';'1-2 Km.';Sur;47;1
+52;Timothy;Morgan;7/10/1961 00:00;C;M;timothy14@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'3605 Sinclair Ave.';209-555-0183;'2-5 Km.';Norte;51;1
+177;Damien;He;16/4/1963 00:00;C;M;damien14@mineriadedatos.com.ar;20000;3;3;'Educación secundaria';Obrero;1;1;'Hellweg 4244';'500 555-0141';'0-1 Km.';Centro;50;1
+374;Connor;Hernandez;7/10/1955 00:00;C;M;connor45@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'9340 Long Brook Way';141-555-0193;'1-2 Km.';Norte;57;1
+616;Miguel;Miller;1/7/1958 00:00;C;M;miguel5@mineriadedatos.com.ar;80000;5;4;'Estudios de postgrado';Profesional;1;0;'4293 Concord Ct.';397-555-0155;'0-1 Km.';Norte;54;1
+347;Kayla;Harrison;6/6/1973 00:00;C;F;kayla14@mineriadedatos.com.ar;40000;1;0;'Estudios de postgrado';'Obrero especializado';1;0;'5966 El Molino Dr.';116-555-0154;'1-2 Km.';Norte;39;1
+246;Terrance;Jordan;28/8/1959 00:00;C;M;terrance1@mineriadedatos.com.ar;20000;2;0;'Estudios universitarios (en curso)';Obrero;1;1;'112 Kathleen Drive';'500 555-0145';'0-1 Km.';Centro;53;1
+10;Philip;Rubio;26/4/1976 00:00;S;M;philip20@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;2;'3586 Everett Court';'500 555-0147';'10+ Km.';Sur;37;1
+607;Abigail;Peterson;16/2/1957 00:00;C;F;abigail19@mineriadedatos.com.ar;70000;2;0;'Educación secundaria (en curso)';'Obrero especializado';1;2;'3886 Valencia Place';751-555-0198;'5-10 Km.';Norte;56;1
+635;Anna;Price;22/5/1968 00:00;S;F;anna25@mineriadedatos.com.ar;60000;2;2;Licenciatura;'Obrero especializado';0;0;'3884 Beauty Street';398-555-0123;'0-1 Km.';Norte;45;1
+203;Micheal;Suarez;7/11/1966 00:00;S;M;micheal15@mineriadedatos.com.ar;20000;1;1;'Educación secundaria';Obrero;1;1;'44  rue Saint Denis';'500 555-0182';'2-5 Km.';Centro;46;1
+13;Monique;Navarro;7/10/1953 00:00;C;F;monique6@mineriadedatos.com.ar;40000;2;0;Licenciatura;Gestión;1;1;'8486 Hazelwood Lane';'500 555-0114';'0-1 Km.';Sur;59;1
+178;Tabitha;Jimenez;11/9/1955 00:00;C;F;tabitha25@mineriadedatos.com.ar;130000;3;4;'Estudios universitarios (en curso)';Profesional;1;3;'Helsenbergbogen 6';'500 555-0146';'0-1 Km.';Centro;57;1
+239;Theodore;Vazquez;12/5/1955 00:00;C;M;theodore15@mineriadedatos.com.ar;130000;3;4;'Estudios universitarios (en curso)';Profesional;1;3;'7490 Sharon Dr';'500 555-0126';'0-1 Km.';Centro;58;1
+23;Miguel;Wright;26/7/1976 00:00;S;M;miguel28@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;2;'3070 Sahara Drive';'500 555-0159';'5-10 Km.';Sur;36;1
+5;Lori;Moreno;5/11/1963 00:00;S;F;lori9@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;2;'792 Myrtle Drive';'500 555-0192';'0-1 Km.';Sur;49;1
+278;Alberto;Romero;15/12/1965 00:00;C;M;alberto10@mineriadedatos.com.ar;40000;1;0;Licenciatura;'Obrero especializado';1;0;'2348 Fruitwood';'500 555-0133';'0-1 Km.';Centro;47;1
+310;Barry;Garcia;20/8/1950 00:00;S;M;barry15@mineriadedatos.com.ar;60000;2;1;'Estudios universitarios (en curso)';Profesional;0;1;'3831 Golden Gate Way';774-555-0124;'2-5 Km.';Norte;62;1
+536;Audrey;Gill;13/7/1953 00:00;C;F;audrey15@mineriadedatos.com.ar;30000;1;0;Licenciatura;'Obrero especializado';1;1;'5989 Concord Ave';208-555-0186;'1-2 Km.';Norte;59;1
+312;Isaac;Ward;12/5/1952 00:00;S;M;isaac12@mineriadedatos.com.ar;70000;2;1;'Educación secundaria (en curso)';'Obrero especializado';1;3;'8380 Toyon Dr.';272-555-0189;'10+ Km.';Norte;61;1
+314;Hunter;Rodriguez;4/11/1954 00:00;C;M;hunter53@mineriadedatos.com.ar;80000;2;0;'Educación secundaria (en curso)';'Obrero especializado';1;2;'4343 Cook Street';996-555-0142;'5-10 Km.';Norte;58;1
+301;Heidi;Perez;10/3/1968 00:00;S;F;heidi24@mineriadedatos.com.ar;130000;1;0;'Estudios de postgrado';Gestión;0;2;'6110 Price Lane';904-555-0191;'0-1 Km.';Norte;45;1
+24;Marc;Alvarez;19/8/1971 00:00;C;M;marc8@mineriadedatos.com.ar;160000;5;5;'Educación secundaria (en curso)';Gestión;0;4;'498 Willow Pass Rd';'500 555-0181';'10+ Km.';Sur;41;1
+20;Lacey;Li;19/1/1958 00:00;S;F;lacey15@mineriadedatos.com.ar;130000;0;0;'Estudios de postgrado';Gestión;0;3;'826 Coggins Dr.';'500 555-0141';'0-1 Km.';Sur;55;1
+361;Kevin;Green;8/2/1958 00:00;C;M;kevin52@mineriadedatos.com.ar;60000;1;0;Licenciatura;Profesional;1;1;'9475 Bellwood Dr.';147-555-0128;'2-5 Km.';Norte;55;1
+6;Kari;Sanz;21/9/1976 00:00;S;F;kari41@mineriadedatos.com.ar;80000;0;0;Licenciatura;Profesional;0;2;'1884 Scottsdale Road';'500 555-0142';'10+ Km.';Sur;36;1
+243;Gerald;Sai;6/8/1959 00:00;S;M;gerald35@mineriadedatos.com.ar;20000;2;0;'Estudios universitarios (en curso)';Obrero;1;1;'7144 Flagstone Way';'500 555-0182';'2-5 Km.';Centro;53;1
+361;Antonio;Price;20/7/1955 00:00;C;M;antonio0@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'4451 Carmel Dr.';652-555-0177;'1-2 Km.';Norte;57;1
+209;Stacey;Lu;16/5/1963 00:00;S;F;stacey12@mineriadedatos.com.ar;30000;3;3;'Estudios universitarios (en curso)';Administrativo;1;0;'67  avenue de l´ Union Centrale';'500 555-0157';'0-1 Km.';Centro;50;1
+38;Edwin;Bhat;26/2/1957 00:00;S;M;edwin43@mineriadedatos.com.ar;80000;2;0;'Educación secundaria';Profesional;0;2;'4779 Scenic Dr.';'500 555-0137';'5-10 Km.';Sur;56;1
+9;Lacey;Raje;26/2/1970 00:00;C;F;lacey4@mineriadedatos.com.ar;100000;0;5;'Educación secundaria (en curso)';Profesional;1;4;'8986 Rubiem Ct';'500 555-0115';'10+ Km.';Sur;43;1
+345;Jose;Gonzalez;5/3/1970 00:00;C;M;jose44@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';1;0;'3648 Willow Drive';655-555-0121;'0-1 Km.';Norte;43;1
+175;Daisy;Alonso;13/4/1970 00:00;C;F;daisy4@mineriadedatos.com.ar;40000;2;2;'Estudios universitarios (en curso)';Administrativo;1;0;'Buergermeister-ulrich-str 4111';'500 555-0126';'1-2 Km.';Centro;43;1
+263;Shawn;Deng;2/9/1953 00:00;C;M;shawn3@mineriadedatos.com.ar;150000;3;5;Licenciatura;Gestión;1;3;'4678 Pelican Loop';'500 555-0164';'10+ Km.';Centro;59;1
+60;Ryan;Anderson;20/12/1933 00:00;C;M;ryan49@mineriadedatos.com.ar;50000;2;0;'Estudios de postgrado';Gestión;1;2;'9093 Gilardy Dr.';630-555-0121;'5-10 Km.';Norte;79;1
+20;Kristen;Hu;18/6/1956 00:00;S;F;kristen17@mineriadedatos.com.ar;80000;2;0;'Educación secundaria';'Obrero especializado';0;2;'6049 Dalis Dr.';'500 555-0112';'1-2 Km.';Sur;56;1
+226;Ricardo;Luo;19/5/1957 00:00;C;M;ricardo5@mineriadedatos.com.ar;100000;2;3;'Estudios universitarios (en curso)';Profesional;1;3;'6  route de Marseille';'500 555-0114';'5-10 Km.';Centro;56;1
+69;Brandon;Perry;15/10/1955 00:00;S;M;brandon5@mineriadedatos.com.ar;90000;2;1;'Educación secundaria';Profesional;1;1;'384 Dayton Court';758-555-0120;'10+ Km.';Norte;57;1
+339;Lucas;Gonzalez;20/8/1978 00:00;S;M;lucas0@mineriadedatos.com.ar;60000;0;0;'Estudios universitarios (en curso)';'Obrero especializado';1;2;'304 Diver Way';213-555-0171;'5-10 Km.';Norte;34;1
+260;Tamara;Andersen;17/6/1966 00:00;C;F;tamara24@mineriadedatos.com.ar;40000;0;0;Licenciatura;Profesional;1;0;'5047 Northwood Dr.';'500 555-0133';'0-1 Km.';Centro;46;1
+211;Terrence;Anand;13/4/1971 00:00;S;M;terrence23@mineriadedatos.com.ar;40000;2;2;'Estudios universitarios (en curso)';Administrativo;1;1;'9215  rue Léo Delibes';'500 555-0160';'1-2 Km.';Centro;42;1
+24;Katrina;Nara;2/10/1972 00:00;C;F;katrina15@mineriadedatos.com.ar;110000;0;5;'Educación secundaria';Gestión;1;3;'5828 E. 102nd Street';'500 555-0135';'10+ Km.';Sur;40;1
+310;Mariah;Coleman;17/4/1968 00:00;C;F;mariah10@mineriadedatos.com.ar;80000;0;0;Licenciatura;Gestión;0;1;'9815 Marlboro Court';632-555-0154;'0-1 Km.';Norte;45;1
+536;Tamara;Nath;13/9/1966 00:00;S;F;tamara28@mineriadedatos.com.ar;70000;5;0;'Estudios de postgrado';Profesional;1;0;'4555 Hackney Lane';961-555-0131;'2-5 Km.';Norte;46;1
+314;Bryce;Peterson;17/9/1970 00:00;C;M;bryce5@mineriadedatos.com.ar;70000;4;0;'Estudios de postgrado';Profesional;1;0;'6451 Greenwood Pl.';492-555-0163;'0-1 Km.';Norte;42;1
+609;Jacquelyn;Saunders;21/2/1959 00:00;C;F;jacquelyn21@mineriadedatos.com.ar;80000;1;0;'Estudios de postgrado';Profesional;1;0;'1694 All Dr.';574-555-0154;'0-1 Km.';Norte;54;1
+199;Cesar;Garcia;1/4/1970 00:00;S;M;cesar14@mineriadedatos.com.ar;40000;2;2;'Estudios universitarios (en curso)';Administrativo;1;0;'444  chaussée de Tournai';'500 555-0119';'1-2 Km.';Centro;43;1
+211;Bradley;Nara;28/10/1956 00:00;C;M;bradley19@mineriadedatos.com.ar;20000;1;0;Licenciatura;Administrativo;1;0;'2  avenue des Champs-Elysées';'500 555-0174';'0-1 Km.';Centro;56;1
+307;Tamara;Chander;26/7/1959 00:00;C;F;tamara27@mineriadedatos.com.ar;80000;4;0;'Estudios de postgrado';Profesional;1;0;'6344 Dartmouth Way';112-555-0164;'0-1 Km.';Norte;53;1
+171;Roger;Sharma;17/8/1967 00:00;C;M;roger37@mineriadedatos.com.ar;40000;0;0;Licenciatura;Administrativo;1;0;'Pflugstr 65';'500 555-0174';'0-1 Km.';Centro;45;1
+326;Isabella;Jackson;18/2/1974 00:00;S;F;isabella67@mineriadedatos.com.ar;50000;0;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'5028 Tanager Road';363-555-0165;'5-10 Km.';Norte;39;1
+147;Victor;Moreno;24/12/1968 00:00;S;M;victor8@mineriadedatos.com.ar;40000;0;0;'Estudios de postgrado';Administrativo;1;0;'Parkstr 42';'500 555-0134';'0-1 Km.';Centro;44;1
+269;Wesley;Guo;9/11/1975 00:00;C;M;wesley17@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';1;0;'9353 Kirkwood Dr.';'500 555-0164';'1-2 Km.';Centro;37;1
+222;Candace;Perez;14/2/1968 00:00;C;F;candace19@mineriadedatos.com.ar;10000;3;3;'Educación secundaria';Obrero;0;0;'34  boulevard Tremblay';'500 555-0124';'0-1 Km.';Centro;45;1
+36;Luis;Hill;13/9/1955 00:00;S;M;luis46@mineriadedatos.com.ar;80000;2;0;'Estudios universitarios (en curso)';'Obrero especializado';1;2;'5203 Foothill Way';'500 555-0139';'5-10 Km.';Sur;57;1
+189;Noah;Long;15/8/1962 00:00;C;M;noah6@mineriadedatos.com.ar;30000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'1798 Norfolk Rd';'500 555-0146';'0-1 Km.';Centro;50;1
+325;Marissa;Perry;27/7/1967 00:00;S;F;marissa5@mineriadedatos.com.ar;60000;0;0;'Estudios de postgrado';Profesional;1;1;'8021 Dallas Drive';162-555-0133;'2-5 Km.';Norte;45;1
+257;Molly;Srini;9/6/1963 00:00;S;F;molly8@mineriadedatos.com.ar;20000;3;3;'Educación secundaria';Obrero;0;1;'8066 Peach Place';'500 555-0139';'0-1 Km.';Centro;49;1
+13;Roy;Suri;2/4/1971 00:00;C;M;roy0@mineriadedatos.com.ar;100000;0;5;'Educación secundaria';Gestión;1;3;'4557 Rolling Hill Way';'500 555-0164';'10+ Km.';Sur;42;1
+360;Jesse;Cook;5/1/1970 00:00;C;M;jesse22@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';1;1;'2928 Harmony Way';213-555-0154;'0-1 Km.';Norte;43;1
+329;Don;Roessler;9/3/1956 00:00;C;M;don7@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'9737 Colt Ct.';316-555-0133;'1-2 Km.';Norte;57;1
+29;Brittney;Sun;9/6/1979 00:00;S;F;brittney12@mineriadedatos.com.ar;10000;1;1;'Educación secundaria';Obrero;0;0;'8856 Mt. Wilson Way';'500 555-0155';'1-2 Km.';Sur;33;1
+209;Larry;Munoz;11/11/1957 00:00;C;M;larry9@mineriadedatos.com.ar;110000;2;4;'Estudios universitarios (en curso)';Profesional;1;3;Midi-Couleurs;'500 555-0193';'5-10 Km.';Centro;55;1
+616;Adam;Henderson;27/8/1958 00:00;C;M;adam3@mineriadedatos.com.ar;60000;1;0;Licenciatura;Profesional;1;1;'9152 L St.';200-555-0144;'0-1 Km.';Norte;54;1
+135;Kelli;Sun;7/6/1963 00:00;C;F;kelli14@mineriadedatos.com.ar;40000;1;0;Licenciatura;'Obrero especializado';1;0;'Haberstr 46';'500 555-0123';'0-1 Km.';Centro;49;1
+23;Julio;Serrano;16/7/1979 00:00;C;M;julio17@mineriadedatos.com.ar;20000;0;0;Licenciatura;Administrativo;1;0;'1343 Prospect St';'500 555-0143';'0-1 Km.';Sur;33;1
+26;Tyrone;Serrano;2/8/1978 00:00;S;M;tyrone15@mineriadedatos.com.ar;10000;0;0;'Estudios universitarios (en curso)';Obrero;1;1;'3767 View Dr.';'500 555-0176';'2-5 Km.';Sur;34;1
+274;Gregory;Goel;6/12/1968 00:00;S;M;gregory23@mineriadedatos.com.ar;30000;1;0;Licenciatura;Administrativo;0;0;'1680 I St.';'500 555-0152';'0-1 Km.';Centro;44;1
+170;Mitchell;Jai;22/7/1970 00:00;C;M;mitchell10@mineriadedatos.com.ar;30000;0;0;Licenciatura;Administrativo;1;0;'Curieweg 5777';'500 555-0113';'0-1 Km.';Centro;42;1
+200;Eddie;Serrano;4/11/1952 00:00;C;M;eddie16@mineriadedatos.com.ar;20000;2;0;'Estudios universitarios (en curso)';Obrero;1;1;'81  cours Mirabeau';'500 555-0186';'2-5 Km.';Centro;60;1
+300;Gary;Ramos;18/10/1969 00:00;C;M;gary28@mineriadedatos.com.ar;50000;2;2;Licenciatura;'Obrero especializado';1;0;'1342 Isla Bonita';880-555-0119;'0-1 Km.';Norte;43;1
+307;Barbara;Lu;13/7/1962 00:00;C;F;barbara21@mineriadedatos.com.ar;110000;1;3;Licenciatura;Gestión;1;2;'9450 Almond Street';173-555-0168;'5-10 Km.';Norte;50;1
+37;Regina;Arthur;12/10/1975 00:00;S;F;regina6@mineriadedatos.com.ar;90000;0;0;Licenciatura;Profesional;0;2;'3796 Keller Ridge';'500 555-0144';'10+ Km.';Sur;37;1
+335;Maria;Kelly;12/7/1973 00:00;S;F;maria21@mineriadedatos.com.ar;70000;0;0;'Estudios universitarios (en curso)';Profesional;0;2;'3035 Blackfield Dr.';617-555-0184;'0-1 Km.';Norte;39;1
+3;Dustin;Sharma;16/12/1955 00:00;S;M;dustin9@mineriadedatos.com.ar;80000;2;0;'Educación secundaria';'Obrero especializado';0;2;'4262 Monterey Ave.';'500 555-0113';'1-2 Km.';Sur;57;1
+235;Lindsey;Tang;13/2/1972 00:00;S;F;lindsey4@mineriadedatos.com.ar;30000;0;0;'Educación secundaria';Obrero;0;1;'6200 Mt. Pisgah';'500 555-0120';'1-2 Km.';Centro;41;1
+546;Maria;Rogers;10/10/1953 00:00;C;F;maria3@mineriadedatos.com.ar;30000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'7954 Monument Blvd';801-555-0117;'2-5 Km.';Norte;59;1
+31;Richard;Lee;19/4/1979 00:00;S;M;richard16@mineriadedatos.com.ar;10000;0;0;'Estudios universitarios (en curso)';Obrero;0;1;'7757 O Ct';'500 555-0130';'0-1 Km.';Sur;34;1
+150;Kristi;Saunders;12/12/1970 00:00;C;F;kristi16@mineriadedatos.com.ar;10000;2;2;'Educación secundaria';Obrero;1;0;'Zollstr 62';'500 555-0187';'0-1 Km.';Centro;42;1
+644;Chase;Rogers;9/11/1955 00:00;S;M;chase20@mineriadedatos.com.ar;80000;2;0;'Educación secundaria (en curso)';'Obrero especializado';0;2;'1862 Court Lane';713-555-0135;'1-2 Km.';Norte;57;1
+120;Jon;Chander;6/7/1957 00:00;C;M;jon12@mineriadedatos.com.ar;130000;2;4;'Estudios universitarios (en curso)';Profesional;1;2;'Auf Der Steige 123';'500 555-0170';'0-1 Km.';Centro;55;1
+3;Lori;Blanco;2/5/1970 00:00;C;F;lori16@mineriadedatos.com.ar;100000;0;5;'Educación secundaria (en curso)';Profesional;1;4;'6966 Eaker Way';'500 555-0118';'10+ Km.';Sur;43;1
+249;Dominic;Madan;26/5/1954 00:00;S;M;dominic7@mineriadedatos.com.ar;130000;4;5;'Educación secundaria';Profesional;0;1;'9680 Hungry Road';'500 555-0166';'0-1 Km.';Centro;58;1
+13;Monique;Blanco;6/10/1943 00:00;S;F;monique12@mineriadedatos.com.ar;40000;2;0;Licenciatura;Gestión;1;2;'6658 Rheem Blvd';'500 555-0125';'5-10 Km.';Sur;69;1
+23;Alison;Kumar;3/5/1961 00:00;S;F;alison7@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'5847 W. Buchanan';'500 555-0170';'5-10 Km.';Sur;52;1
+307;Hunter;Hernandez;6/7/1953 00:00;C;M;hunter44@mineriadedatos.com.ar;70000;3;0;'Estudios de postgrado';Gestión;1;2;'3861 Las Lomas Way';115-555-0196;'5-10 Km.';Norte;59;1
+170;Nicolas;Nara;18/7/1969 00:00;C;M;nicolas15@mineriadedatos.com.ar;40000;0;0;'Estudios de postgrado';Administrativo;1;0;'Galeriestr 6267';'500 555-0174';'0-1 Km.';Centro;43;1
+68;Mya;Russell;25/1/1947 00:00;C;F;mya20@mineriadedatos.com.ar;40000;2;1;'Educación secundaria';Profesional;0;2;'3797 Mt. Wilson Way';891-555-0132;'2-5 Km.';Norte;66;1
+315;Jack;Flores;15/3/1952 00:00;S;M;jack12@mineriadedatos.com.ar;70000;2;1;'Educación secundaria (en curso)';'Obrero especializado';1;2;'279 Inverness Drive';737-555-0162;'10+ Km.';Norte;61;1
+232;Barry;Rana;5/11/1963 00:00;C;M;barry12@mineriadedatos.com.ar;40000;1;0;Licenciatura;'Obrero especializado';1;0;'8434 Kenmore';'500 555-0127';'0-1 Km.';Centro;49;1
+335;Amanda;Sanders;3/7/1962 00:00;C;F;amanda20@mineriadedatos.com.ar;70000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'1456 Bouncing Road';231-555-0134;'2-5 Km.';Norte;50;1
+279;Jessica;Patterson;10/5/1958 00:00;S;F;jessica35@mineriadedatos.com.ar;170000;2;3;Licenciatura;Gestión;0;2;'2681 Woodside Way';'500 555-0117';'0-1 Km.';Centro;55;1
+133;Bailey;King;26/9/1959 00:00;C;F;bailey39@mineriadedatos.com.ar;20000;2;0;'Estudios universitarios (en curso)';Obrero;1;1;'Marketplatz 5492';'500 555-0183';'0-1 Km.';Centro;53;1
+154;Brandi;Carlson;5/3/1964 00:00;S;F;brandi17@mineriadedatos.com.ar;20000;3;3;'Educación secundaria';Obrero;1;0;'Buergermeister-ulrich-str 5';'500 555-0120';'0-1 Km.';Centro;49;1
+129;Bradley;Tang;15/9/1969 00:00;S;M;bradley6@mineriadedatos.com.ar;40000;0;0;'Estudios de postgrado';Administrativo;0;0;'Haberstr 77';'500 555-0197';'0-1 Km.';Centro;43;1
+11;Ann;Martinez;3/8/1957 00:00;S;F;ann22@mineriadedatos.com.ar;80000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'8794 Seagull Court';'500 555-0189';'5-10 Km.';Sur;55;1
+553;Shelby;Richardson;11/3/1954 00:00;C;F;shelby10@mineriadedatos.com.ar;30000;1;0;'Educación secundaria';Administrativo;1;1;'8403 Reality Drive';927-555-0154;'5-10 Km.';Norte;59;1
+307;Edgar;Patel;22/11/1936 00:00;C;M;edgar3@mineriadedatos.com.ar;70000;4;0;'Estudios de postgrado';Gestión;1;2;'1639 Atchinson Stage Ct.';529-555-0113;'5-10 Km.';Norte;76;1
+16;Colin;Zhu;15/10/1970 00:00;C;M;colin15@mineriadedatos.com.ar;90000;0;0;Licenciatura;Profesional;0;4;'3788 Bahia Vista Court';'500 555-0114';'10+ Km.';Sur;42;1
+154;Philip;Moreno;20/5/1971 00:00;S;M;philip6@mineriadedatos.com.ar;30000;0;0;'Educación secundaria';Obrero;0;1;'Im Himmelsweg 98';'500 555-0135';'2-5 Km.';Centro;42;1
+28;Tasha;Shan;25/10/1959 00:00;S;F;tasha11@mineriadedatos.com.ar;130000;0;1;'Estudios de postgrado';Gestión;0;3;'2552 Palm Ave';'500 555-0149';'0-1 Km.';Sur;53;1
+273;Carla;Martinez;3/1/1946 00:00;C;F;carla20@mineriadedatos.com.ar;170000;4;4;Licenciatura;Gestión;1;3;'55 St. George Dr.';'500 555-0150';'0-1 Km.';Centro;67;1
+121;David;Jenkins;6/12/1959 00:00;C;M;david39@mineriadedatos.com.ar;20000;2;0;'Estudios universitarios (en curso)';Obrero;1;1;'Kalkweg 4425';'500 555-0162';'0-1 Km.';Centro;53;1
+24;Toni;Rodriguez;22/6/1957 00:00;S;F;toni20@mineriadedatos.com.ar;70000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'5007 Castle Rock Rd.';'500 555-0114';'5-10 Km.';Sur;55;1
+273;Linda;Carlson;20/9/1959 00:00;C;F;linda33@mineriadedatos.com.ar;30000;0;0;Licenciatura;Administrativo;1;0;'6696 Adria Drive';'500 555-0140';'0-1 Km.';Centro;53;1
+325;Isabella;Johnson;21/1/1961 00:00;C;F;isabella58@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'2251 Temple Drive';941-555-0186;'2-5 Km.';Norte;52;1
+31;Michele;Xie;5/4/1977 00:00;S;F;michele3@mineriadedatos.com.ar;10000;1;1;'Educación secundaria';Obrero;0;0;'4951 Coralie Drive';'500 555-0140';'1-2 Km.';Sur;36;1
+5;Katie;Kumar;9/9/1976 00:00;C;F;katie10@mineriadedatos.com.ar;80000;0;0;Licenciatura;Profesional;1;2;'1463 Lincoln Dr';'500 555-0140';'10+ Km.';Sur;36;1
+337;Janet;Scott;18/8/1953 00:00;S;F;janet33@mineriadedatos.com.ar;70000;3;0;'Estudios de postgrado';Gestión;1;2;'2616 Northridge Drive';422-555-0144;'5-10 Km.';Norte;59;1
+542;Allison;Campbell;14/5/1961 00:00;C;F;allison29@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'45 Landing Terrace';735-555-0181;'2-5 Km.';Norte;52;1
+638;Rebecca;Mitchell;24/9/1954 00:00;C;F;rebecca13@mineriadedatos.com.ar;30000;1;0;'Educación secundaria';Obrero;1;1;'9809 St. Germain Lane';337-555-0114;'5-10 Km.';Norte;58;1
+20;Jessie;Ortega;26/2/1968 00:00;C;F;jessie41@mineriadedatos.com.ar;60000;2;2;Licenciatura;Profesional;1;1;'230 Daisy Way';'500 555-0131';'0-1 Km.';Sur;45;1
+315;Allison;Howard;16/6/1958 00:00;C;F;allison10@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'8788 Green Leaf Drive';548-555-0110;'0-1 Km.';Norte;54;1
+374;Samantha;Davis;17/5/1964 00:00;C;F;samantha6@mineriadedatos.com.ar;160000;1;1;Licenciatura;Gestión;1;3;'5972 Boxwood Dr.';805-555-0198;'0-1 Km.';Norte;49;1
+23;Tabitha;Prasad;4/7/1962 00:00;C;F;tabitha7@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'5778 Hames Dr.';'500 555-0130';'5-10 Km.';Sur;50;1
+301;Shannon;Huang;25/2/1954 00:00;C;F;shannon6@mineriadedatos.com.ar;30000;1;0;'Educación secundaria';Administrativo;1;1;'4679 Duke Way';458-555-0116;'2-5 Km.';Norte;59;1
+262;Morgan;Thompson;6/6/1961 00:00;S;F;morgan37@mineriadedatos.com.ar;30000;3;0;'Estudios de postgrado';Administrativo;1;0;'9173 Jill Ave';'500 555-0111';'0-1 Km.';Centro;51;1
+120;Claudia;Zhao;5/10/1968 00:00;S;F;claudia9@mineriadedatos.com.ar;40000;0;0;'Estudios de postgrado';Administrativo;1;0;'Lützowplatz 5928';'500 555-0141';'0-1 Km.';Centro;44;1
+20;Suzanne;Sun;10/9/1975 00:00;C;F;suzanne14@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;1;2;'7023 Stallion Way';'500 555-0157';'10+ Km.';Sur;37;1
+212;Paula;Navarro;23/4/1973 00:00;S;F;paula13@mineriadedatos.com.ar;30000;0;0;'Educación secundaria';Obrero;0;1;'6  route de Marseille';'500 555-0137';'2-5 Km.';Centro;40;1
+632;Kelly;Foster;3/8/1956 00:00;C;F;kelly21@mineriadedatos.com.ar;70000;3;0;'Estudios universitarios (en curso)';Profesional;0;2;'920 Broadway';847-555-0163;'5-10 Km.';Norte;56;1
+221;Willie;He;26/4/1967 00:00;C;M;willie17@mineriadedatos.com.ar;20000;1;1;'Estudios universitarios (en curso)';Obrero;1;1;'11  rue du Puits Dixme';'500 555-0159';'2-5 Km.';Centro;46;1
+612;Grant;She;13/5/1968 00:00;S;M;grant2@mineriadedatos.com.ar;70000;2;2;Licenciatura;'Obrero especializado';0;1;'5234 Martindale';588-555-0164;'0-1 Km.';Norte;45;1
+150;Nelson;Serrano;24/6/1968 00:00;S;M;nelson15@mineriadedatos.com.ar;40000;0;0;'Estudios de postgrado';Administrativo;0;0;'Conesweg 9';'500 555-0172';'0-1 Km.';Centro;44;1
+221;Grace;Bell;11/8/1971 00:00;S;F;grace30@mineriadedatos.com.ar;30000;0;0;'Educación secundaria';Obrero;0;1;'81  route de Marseille';'500 555-0118';'2-5 Km.';Centro;41;1
+7;Manuel;Fernandez;11/1/1980 00:00;S;M;manuel14@mineriadedatos.com.ar;10000;0;0;'Estudios universitarios (en curso)';Obrero;1;1;'251 Ravenwood Dr.';'500 555-0117';'1-2 Km.';Sur;33;1
+36;Edwin;Zhang;26/4/1962 00:00;S;M;edwin0@mineriadedatos.com.ar;70000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'5993 Baywood Drive';'500 555-0118';'5-10 Km.';Sur;51;1
+51;Nathan;Hughes;23/8/1951 00:00;C;M;nathan7@mineriadedatos.com.ar;70000;2;1;'Educación secundaria';Profesional;1;2;'1771 Coastal Blvd.';334-555-0173;'10+ Km.';Norte;61;1
+237;Kendra;Sanz;15/4/1960 00:00;S;F;kendra20@mineriadedatos.com.ar;30000;3;0;Licenciatura;Administrativo;1;0;'9525 Akyn Rock Dr.';'500 555-0160';'0-1 Km.';Centro;53;1
+215;Andres;Jai;5/11/1955 00:00;C;M;andres8@mineriadedatos.com.ar;90000;2;1;'Educación secundaria';Profesional;1;2;'625  rue Basse-du-Rocher';'500 555-0169';'2-5 Km.';Centro;57;1
+241;Shawn;Nara;26/10/1975 00:00;C;M;shawn18@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';1;0;'5497 Brandywine Way';'500 555-0170';'1-2 Km.';Centro;37;1
+334;Victoria;Walker;26/11/1966 00:00;C;F;victoria22@mineriadedatos.com.ar;130000;0;1;'Estudios de postgrado';Gestión;1;3;'5961 Crowe Pl.';465-555-0152;'0-1 Km.';Norte;46;1
+161;Adrian;Morris;18/8/1954 00:00;C;M;adrian19@mineriadedatos.com.ar;80000;3;2;'Estudios universitarios (en curso)';Profesional;1;1;'Bundesallee 6234';'500 555-0146';'2-5 Km.';Centro;58;1
+547;Seth;Bell;17/10/1957 00:00;C;M;seth85@mineriadedatos.com.ar;70000;2;0;'Educación secundaria (en curso)';'Obrero especializado';1;2;'5445 Tice Valley Blvd.';737-555-0162;'5-10 Km.';Norte;55;1
+352;Connor;Griffin;8/9/1955 00:00;C;M;connor15@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'400 Matterhorn Court';526-555-0175;'1-2 Km.';Norte;57;1
+607;Angela;Long;22/2/1954 00:00;S;F;angela12@mineriadedatos.com.ar;70000;2;0;'Educación secundaria (en curso)';'Obrero especializado';0;2;'1727 The Trees Drive';308-555-0112;'1-2 Km.';Norte;59;1
+4;Luke;Kumar;4/2/1980 00:00;C;M;luke17@mineriadedatos.com.ar;10000;0;0;'Estudios universitarios (en curso)';Obrero;1;1;'4882 Darlene Drive';'500 555-0117';'2-5 Km.';Sur;33;1
+254;Gerald;Madan;7/6/1961 00:00;S;M;gerald37@mineriadedatos.com.ar;30000;3;0;'Estudios de postgrado';Administrativo;1;0;'109 Clayton Road';'500 555-0120';'0-1 Km.';Centro;51;1
+220;Taylor;Henderson;20/5/1954 00:00;S;F;taylor30@mineriadedatos.com.ar;90000;4;2;'Educación secundaria';Profesional;1;1;'253  rue Lamarck';'500 555-0179';'10+ Km.';Centro;59;1
+251;Gerald;Gomez;14/9/1961 00:00;S;M;gerald9@mineriadedatos.com.ar;30000;3;0;'Estudios de postgrado';Administrativo;1;0;'5900 May Rd';'500 555-0132';'0-1 Km.';Centro;51;1
+32;Jimmy;Moreno;21/12/1946 00:00;C;M;jimmy9@mineriadedatos.com.ar;30000;2;0;'Estudios universitarios (en curso)';Administrativo;1;2;'6385 Mark Twain';'500 555-0146';'1-2 Km.';Sur;66;1
+641;Garrett;Murphy;23/10/1967 00:00;S;M;garrett19@mineriadedatos.com.ar;40000;0;0;Licenciatura;Profesional;0;1;'9186 West Boyd Rd.';344-555-0111;'2-5 Km.';Norte;45;1
+311;Russell;Jai;11/8/1971 00:00;C;M;russell14@mineriadedatos.com.ar;70000;3;0;'Estudios de postgrado';Profesional;1;0;'2728 River Ash Court';797-555-0152;'0-1 Km.';Norte;41;1
+644;Maria;Phillips;19/8/1939 00:00;S;F;maria49@mineriadedatos.com.ar;70000;5;0;'Estudios de postgrado';Gestión;1;2;'2650 Portside Ct';275-555-0132;'10+ Km.';Norte;73;1
+26;Brooke;James;18/10/1957 00:00;C;F;brooke8@mineriadedatos.com.ar;70000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'6140 Scenic Drive';'500 555-0127';'5-10 Km.';Sur;55;1
+192;Keith;Xie;12/9/1969 00:00;S;M;keith5@mineriadedatos.com.ar;30000;0;0;Licenciatura;Administrativo;0;0;'15  rue Basse-du-Rocher';'500 555-0148';'0-1 Km.';Centro;43;1
+618;Anna;Thomas;10/5/1962 00:00;C;F;anna48@mineriadedatos.com.ar;70000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'6189 Kirkwood Ct.';323-555-0116;'0-1 Km.';Norte;51;1
+644;Blake;Moore;21/6/1967 00:00;C;M;blake7@mineriadedatos.com.ar;70000;2;2;Licenciatura;'Obrero especializado';1;1;'1245 Clay Road';485-555-0144;'2-5 Km.';Norte;45;1
+258;Alvin;Luo;27/3/1949 00:00;C;M;alvin28@mineriadedatos.com.ar;160000;4;5;'Educación secundaria';Gestión;1;4;'2860 Mt. Tank Circle';'500 555-0113';'0-1 Km.';Centro;64;1
+300;Beth;Sanz;2/7/1962 00:00;C;F;beth22@mineriadedatos.com.ar;110000;1;3;Licenciatura;Gestión;1;2;'7207 St. Andrews Way';570-555-0136;'1-2 Km.';Norte;50;1
+17;Karl;Rai;5/6/1943 00:00;C;M;karl18@mineriadedatos.com.ar;60000;2;0;'Estudios de postgrado';Gestión;0;1;'9436 Oakmead';'500 555-0175';'1-2 Km.';Sur;69;1
+9;Gloria;Alvarez;26/8/1963 00:00;S;F;gloria6@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;2;'8373 Endriss';'500 555-0142';'5-10 Km.';Sur;49;1
+298;Jessie;Vazquez;11/3/1956 00:00;S;F;jessie33@mineriadedatos.com.ar;90000;2;1;'Estudios universitarios (en curso)';Profesional;1;1;'6483 Crystal Ave.';773-555-0121;'5-10 Km.';Norte;57;1
+623;Christina;Reed;21/3/1970 00:00;C;F;christina19@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';1;1;'9206 Listing Ct.';972-555-0157;'0-1 Km.';Norte;43;1
+135;Ricky;Torres;27/5/1971 00:00;S;M;ricky12@mineriadedatos.com.ar;30000;0;0;'Educación secundaria';Obrero;0;1;'Postfach 66 16 16';'500 555-0145';'2-5 Km.';Centro;41;1
+32;Willie;Deng;13/5/1977 00:00;C;M;willie21@mineriadedatos.com.ar;10000;1;1;'Educación secundaria';Obrero;0;0;'5990 Curletto Drive';'500 555-0143';'1-2 Km.';Sur;36;1
+146;Clinton;Alonso;17/12/1973 00:00;C;M;clinton5@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';1;1;'Hüttenstr 8095';'500 555-0165';'0-1 Km.';Centro;39;1
+218;Heather;Zhu;11/8/1960 00:00;C;F;heather13@mineriadedatos.com.ar;30000;3;0;'Estudios de postgrado';Administrativo;1;0;'51  rue Henri Gagnon';'500 555-0199';'0-1 Km.';Centro;52;1
+159;Crystal;Zhang;28/3/1973 00:00;C;F;crystal2@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';1;1;'Postfach 99 92 92';'500 555-0133';'1-2 Km.';Centro;40;1
+307;Sophia;Turner;24/5/1966 00:00;C;F;sophia3@mineriadedatos.com.ar;80000;0;0;'Estudios de postgrado';'Obrero especializado';1;0;'1646 Seal Way';340-555-0188;'1-2 Km.';Norte;46;1
+69;Natalie;Hill;28/4/1969 00:00;C;F;natalie65@mineriadedatos.com.ar;60000;2;2;Licenciatura;'Obrero especializado';1;0;'1397 Paradiso Ct.';894-555-0196;'2-5 Km.';Norte;44;1
+255;Dawn;Wu;2/12/1970 00:00;S;F;dawn8@mineriadedatos.com.ar;40000;2;2;'Estudios universitarios (en curso)';Administrativo;1;0;'6344 St Paul Way';'500 555-0139';'1-2 Km.';Centro;42;1
+212;Cindy;Weber;10/10/1969 00:00;S;F;cindy4@mineriadedatos.com.ar;40000;0;0;'Estudios de postgrado';Administrativo;1;0;'8344  rue de la Centenaire';'500 555-0169';'0-1 Km.';Centro;43;1
+234;Brett;Sanchez;9/11/1959 00:00;C;M;brett20@mineriadedatos.com.ar;30000;0;0;Licenciatura;Administrativo;1;0;'3260 Fountainhead Court';'500 555-0122';'0-1 Km.';Centro;53;1
+299;Neil;Carlson;22/10/1958 00:00;C;M;neil17@mineriadedatos.com.ar;40000;2;0;'Estudios universitarios (en curso)';Administrativo;1;1;'4496 Stroer Lane';296-555-0176;'0-1 Km.';Norte;54;1
+257;Kelsey;Kennedy;15/4/1954 00:00;S;F;kelsey7@mineriadedatos.com.ar;10000;2;0;'Estudios universitarios (en curso)';Obrero;0;1;'7660 Willow Creek Ct.';'500 555-0140';'0-1 Km.';Centro;59;1
+183;Alejandro;Ma;1/4/1955 00:00;S;M;alejandro19@mineriadedatos.com.ar;90000;2;1;'Educación secundaria';Profesional;1;2;'1010  impasse Notre-Dame';'500 555-0117';'10+ Km.';Centro;58;1
+211;Erik;Sanz;11/10/1968 00:00;C;M;erik20@mineriadedatos.com.ar;40000;0;0;'Estudios de postgrado';Administrativo;1;0;'22  rue du Départ';'500 555-0128';'0-1 Km.';Centro;44;1
+232;Shawna;Jai;23/11/1959 00:00;C;F;shawna12@mineriadedatos.com.ar;20000;2;0;'Estudios universitarios (en curso)';Obrero;1;1;'5253 Big Canyon Rd.';'500 555-0177';'0-1 Km.';Centro;53;1
+19;Kristine;Sandberg;6/11/1979 00:00;S;F;kristine21@mineriadedatos.com.ar;10000;0;0;'Estudios universitarios (en curso)';Obrero;0;1;'6141 Race Road';'500 555-0182';'0-1 Km.';Sur;33;1
+64;Arianna;Flores;24/6/1973 00:00;C;F;arianna10@mineriadedatos.com.ar;40000;0;0;'Estudios de postgrado';'Obrero especializado';1;0;'4082 Shell Ct';580-555-0124;'1-2 Km.';Norte;39;1
+616;Jack;Mitchell;22/2/1949 00:00;C;M;jack47@mineriadedatos.com.ar;1000000;2;1;'Estudios universitarios (en curso)';Profesional;0;2;'4160 Saranap';449-555-0192;'2-5 Km.';Norte;64;1
+176;Raymond;Sam;3/2/1972 00:00;S;M;raymond1@mineriadedatos.com.ar;30000;0;0;'Educación secundaria';Obrero;1;1;'Kalkweg 43';313-555-0100;'2-5 Km.';Centro;41;1
+325;Katherine;Coleman;19/2/1973 00:00;C;F;katherine31@mineriadedatos.com.ar;40000;1;0;'Estudios de postgrado';'Obrero especializado';1;0;'8120 E Lane';204-555-0163;'0-1 Km.';Norte;40;1
+310;Brendan;Lal;11/7/1973 00:00;S;M;brendan7@mineriadedatos.com.ar;40000;1;0;'Estudios de postgrado';'Obrero especializado';1;0;'651 Bridgeview St';660-555-0111;'1-2 Km.';Norte;39;1
+161;Zachary;Martinez;11/9/1953 00:00;C;M;zachary48@mineriadedatos.com.ar;120000;3;5;Licenciatura;Gestión;1;2;'Herzogstr 4662';'500 555-0190';'10+ Km.';Centro;59;1
+31;Savannah;Scott;12/6/1946 00:00;C;F;savannah36@mineriadedatos.com.ar;30000;2;0;'Estudios universitarios (en curso)';Administrativo;0;2;'7061 Eaker Way';'500 555-0128';'5-10 Km.';Sur;66;1
+239;Jake;Wu;20/10/1969 00:00;S;M;jake7@mineriadedatos.com.ar;40000;0;0;'Estudios de postgrado';Administrativo;0;0;'7522 Santa Ana Drive';'500 555-0122';'0-1 Km.';Centro;43;1
+358;Riley;Stewart;17/4/1960 00:00;C;F;riley40@mineriadedatos.com.ar;160000;1;3;'Estudios universitarios (en curso)';Profesional;0;3;'2369 Teak St.';618-555-0117;'2-5 Km.';Norte;53;1
+299;Raymond;Suri;18/5/1963 00:00;C;M;raymond2@mineriadedatos.com.ar;100000;0;2;'Estudios universitarios (en curso)';Profesional;1;2;'8245 Pinehurst Court';585-555-0180;'2-5 Km.';Norte;50;1
+37;Raymond;Arthur;23/6/1966 00:00;C;M;raymond8@mineriadedatos.com.ar;100000;0;0;'Estudios de postgrado';Gestión;1;0;'5643 Palms Dr.';'500 555-0164';'2-5 Km.';Sur;46;1
+10;Carla;Sanchez;23/11/1967 00:00;C;F;carla23@mineriadedatos.com.ar;90000;4;4;Licenciatura;Profesional;1;0;'8830 Versailles Pl';'500 555-0121';'0-1 Km.';Sur;45;1
+237;Andres;Raje;8/11/1974 00:00;C;M;andres11@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';1;0;'6296 Elmonte Drive';'500 555-0183';'1-2 Km.';Centro;38;1
+37;Ernest;Zhao;6/10/1968 01:00;S;M;ernest10@mineriadedatos.com.ar;60000;2;2;Licenciatura;Profesional;0;1;'1162 Relief Valley Ct';'500 555-0174';'0-1 Km.';Sur;44;1
+302;Samuel;Simmons;16/2/1973 00:00;C;M;samuel14@mineriadedatos.com.ar;40000;1;0;'Estudios de postgrado';'Obrero especializado';1;0;'7318 Lavene Way';991-555-0133;'0-1 Km.';Norte;40;1
+191;Terrence;Deng;18/2/1966 00:00;S;M;terrence2@mineriadedatos.com.ar;30000;2;2;'Estudios universitarios (en curso)';Obrero;1;0;'995  rue de Courtaboeuf';'500 555-0158';'0-1 Km.';Centro;47;1
+310;Dylan;Bryant;11/2/1968 00:00;S;M;dylan17@mineriadedatos.com.ar;60000;0;0;Licenciatura;Profesional;0;1;'4645 Mehaffey Way';161-555-0181;'2-5 Km.';Norte;45;1
+230;Drew;Yuan;8/10/1971 00:00;S;M;drew7@mineriadedatos.com.ar;30000;0;0;'Educación secundaria';Obrero;0;1;'4684 Frigate Ct.';'500 555-0185';'2-5 Km.';Centro;41;1
+34;Barbara;Nara;16/4/1971 00:00;C;F;barbara45@mineriadedatos.com.ar;120000;0;5;'Educación secundaria (en curso)';Gestión;1;4;'7933 Ashwood Dr';'500 555-0144';'10+ Km.';Sur;42;1
+229;Jacquelyn;Blanco;3/7/1955 00:00;C;F;jacquelyn16@mineriadedatos.com.ar;130000;3;4;'Estudios universitarios (en curso)';Profesional;0;3;'3894 Dennis Circle';'500 555-0116';'5-10 Km.';Centro;57;1
+12;Carolyn;Torres;21/12/1939 00:00;C;F;carolyn32@mineriadedatos.com.ar;40000;2;0;Licenciatura;Gestión;0;2;'8439 Rio Grande Drive';'500 555-0150';'0-1 Km.';Sur;73;1
+17;Jay;Browning;1/2/1947 00:00;S;M;jay45@mineriadedatos.com.ar;30000;2;0;'Estudios universitarios (en curso)';Administrativo;0;2;'4001 Camino Solano';'500 555-0168';'1-2 Km.';Sur;66;1
+27;Aimee;Zheng;21/3/1955 00:00;S;F;aimee14@mineriadedatos.com.ar;80000;2;0;'Estudios universitarios (en curso)';'Obrero especializado';0;2;'994 Counting Drive';'500 555-0116';'1-2 Km.';Sur;58;1
+49;Lucas;Martin;16/7/1953 00:00;C;M;lucas28@mineriadedatos.com.ar;70000;3;0;'Estudios de postgrado';Gestión;1;2;'191 Trail Way';434-555-0192;'5-10 Km.';Norte;59;1
+355;Natalie;Coleman;13/9/1973 00:00;C;F;natalie28@mineriadedatos.com.ar;40000;1;0;'Estudios de postgrado';'Obrero especializado';1;0;'5300 Turning Dr.';184-555-0115;'0-1 Km.';Norte;39;1
+35;Lucas;Foster;3/10/1978 00:00;S;M;lucas64@mineriadedatos.com.ar;10000;0;0;'Estudios universitarios (en curso)';Obrero;1;1;'8831 Versailles Pl.';'500 555-0176';'2-5 Km.';Sur;34;1
+338;Alexa;Stewart;22/8/1970 00:00;C;F;alexa21@mineriadedatos.com.ar;70000;4;0;'Estudios de postgrado';Profesional;0;0;'9534 Hartnell Court';776-555-0128;'0-1 Km.';Norte;42;1
+19;Felicia;Gomez;6/11/1970 00:00;C;F;felicia1@mineriadedatos.com.ar;120000;0;5;'Educación secundaria (en curso)';Profesional;1;4;'9790 Berrellesa St.';'500 555-0151';'10+ Km.';Sur;42;1
+361;Sean;Morris;7/2/1955 00:00;C;M;sean26@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'6603 Jennifer Way';951-555-0193;'1-2 Km.';Norte;58;1
+27;Damien;Liang;25/2/1947 00:00;C;M;damien13@mineriadedatos.com.ar;30000;2;0;'Estudios universitarios (en curso)';Administrativo;0;2;'1691 Boxer Blvd.';'500 555-0163';'5-10 Km.';Sur;66;1
+38;Kristopher;Suri;17/5/1973 00:00;C;M;kristopher0@mineriadedatos.com.ar;80000;0;0;Licenciatura;Profesional;1;3;'4088 Millfield Place';'500 555-0178';'10+ Km.';Sur;40;1
+231;Sydney;Perry;23/3/1965 00:00;C;F;sydney30@mineriadedatos.com.ar;40000;1;0;Licenciatura;'Obrero especializado';1;0;'7307 Corte Segundo';'500 555-0169';'0-1 Km.';Centro;48;1
+360;Tristan;Wood;1/5/1962 00:00;C;M;tristan2@mineriadedatos.com.ar;70000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'4580 Duck Horn Court';756-555-0133;'2-5 Km.';Norte;51;1
+10;Jessie;Rubio;13/9/1976 00:00;S;F;jessie40@mineriadedatos.com.ar;10000;1;1;'Educación secundaria';Obrero;0;0;'3883 Pheasant Ct.';'500 555-0113';'1-2 Km.';Sur;36;1
+53;Eduardo;Henderson;2/11/1968 00:00;C;M;eduardo49@mineriadedatos.com.ar;90000;4;4;Licenciatura;Gestión;1;1;'9754 Olivera';911-555-0117;'0-1 Km.';Norte;44;1
+240;Trisha;Sun;14/6/1969 00:00;S;F;trisha8@mineriadedatos.com.ar;30000;1;0;Licenciatura;Administrativo;1;0;'2877  rue des Ecoles';'500 555-0165';'0-1 Km.';Centro;43;1
+553;Mariah;Flores;16/9/1934 00:00;C;F;mariah17@mineriadedatos.com.ar;60000;2;0;'Estudios de postgrado';Gestión;1;2;'8574 Hillview Drive';861-555-0128;'5-10 Km.';Norte;78;1
+641;Sarah;Griffin;26/4/1958 00:00;C;F;sarah45@mineriadedatos.com.ar;60000;1;0;Licenciatura;Profesional;1;1;'4341 Lagoon Court';307-555-0166;'0-1 Km.';Norte;55;1
+360;Maria;Young;10/8/1961 00:00;C;F;maria65@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'631 Elliott Dr.';125-555-0197;'0-1 Km.';Norte;51;1
+205;Stacey;Hee;1/6/1970 00:00;S;F;stacey20@mineriadedatos.com.ar;40000;2;2;'Estudios universitarios (en curso)';Administrativo;1;0;'61  rue de Fontfroide';'500 555-0113';'1-2 Km.';Centro;42;1
+339;Thomas;Lopez;18/6/1955 00:00;C;M;thomas57@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'8574 Hidden Oak Ct.';429-555-0115;'0-1 Km.';Norte;57;1
+260;Grant;Shan;2/11/1974 00:00;C;M;grant12@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';0;0;'5566 Banyan Circle';'500 555-0157';'0-1 Km.';Centro;38;1
+302;Ian;Howard;17/6/1954 00:00;S;M;ian78@mineriadedatos.com.ar;70000;2;0;'Educación secundaria (en curso)';'Obrero especializado';0;2;'3001 Hanson Lane';535-555-0131;'1-2 Km.';Norte;58;1
+298;Ashley;Rodriguez;19/9/1963 00:00;C;F;ashley21@mineriadedatos.com.ar;100000;0;2;'Estudios universitarios (en curso)';Profesional;1;2;'1480 Shoenic';804-555-0168;'2-5 Km.';Norte;49;1
+265;Natalie;Alexander;5/12/1968 00:00;C;F;natalie41@mineriadedatos.com.ar;30000;1;0;Licenciatura;Administrativo;1;0;'6928 N. 8th Street';'500 555-0183';'1-2 Km.';Centro;44;1
+641;Haley;Gray;13/1/1972 00:00;C;F;haley15@mineriadedatos.com.ar;80000;0;0;Licenciatura;Gestión;1;1;'6885 Amending Drive';676-555-0155;'1-2 Km.';Norte;41;1
+322;James;Jones;16/4/1968 00:00;S;M;james78@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;1;'1141 Hale Court';145-555-0141;'0-1 Km.';Norte;45;1
+185;Leah;Liang;11/6/1964 00:00;S;F;leah13@mineriadedatos.com.ar;10000;3;2;'Educación secundaria (en curso)';Obrero;1;2;'99  avenue Reille';'500 555-0139';'0-1 Km.';Centro;48;1
+611;Isaiah;Watson;23/5/1968 00:00;C;M;isaiah0@mineriadedatos.com.ar;70000;2;2;Licenciatura;'Obrero especializado';1;1;'7223 Vinewood Dr.';385-555-0110;'2-5 Km.';Norte;44;1
+272;Lydia;Subram;25/7/1974 00:00;C;F;lydia12@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';1;0;'2575 Garcia';'500 555-0139';'1-2 Km.';Centro;38;1
+334;Katelyn;Sanchez;18/8/1961 00:00;C;F;katelyn26@mineriadedatos.com.ar;130000;1;3;Licenciatura;Gestión;1;3;'8869 Climbing Vine Court';395-555-0150;'2-5 Km.';Norte;51;1
+267;Hector;Diaz;10/6/1965 00:00;S;M;hector1@mineriadedatos.com.ar;20000;2;2;'Educación secundaria';Obrero;0;0;'7128 Joan Ave.';'500 555-0132';'0-1 Km.';Centro;47;1
+36;Ebony;Carlson;23/5/1969 00:00;C;F;ebony39@mineriadedatos.com.ar;120000;1;0;'Estudios de postgrado';Gestión;1;0;'1387 Dias Circle';'500 555-0113';'0-1 Km.';Sur;43;1
+265;Emma;Morris;22/11/1965 00:00;C;F;emma26@mineriadedatos.com.ar;40000;1;0;Licenciatura;'Obrero especializado';1;0;'6999 Salem St.';'500 555-0182';'0-1 Km.';Centro;47;1
+18;Evelyn;Rodriguez;11/1/1966 00:00;S;F;evelyn20@mineriadedatos.com.ar;110000;0;0;'Estudios de postgrado';Gestión;0;3;'9236 Hanson Lane';'500 555-0122';'0-1 Km.';Sur;47;1
+147;Jared;Ward;23/9/1959 00:00;S;M;jared6@mineriadedatos.com.ar;20000;2;0;'Estudios universitarios (en curso)';Obrero;0;1;'Erftplatz 876';'500 555-0135';'2-5 Km.';Centro;53;1
+28;Melinda;Suarez;13/5/1968 00:00;S;F;melinda14@mineriadedatos.com.ar;60000;2;2;Licenciatura;Profesional;0;1;'3823 Birch Bark Dr';'500 555-0132';'0-1 Km.';Sur;45;1
+49;Jerome;Navarro;17/3/1955 00:00;C;M;jerome8@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'9537 Ridgewood Drive';934-555-0191;'1-2 Km.';Norte;58;1
+631;Michelle;James;15/10/1957 00:00;S;F;michelle9@mineriadedatos.com.ar;80000;2;0;'Educación secundaria (en curso)';'Obrero especializado';0;2;'9772 Mountain View Drive';471-555-0167;'1-2 Km.';Norte;55;1
+252;Alvin;Zhao;4/9/1965 00:00;C;M;alvin10@mineriadedatos.com.ar;40000;1;0;Licenciatura;'Obrero especializado';1;0;'1312 Garland Dr.';'500 555-0175';'0-1 Km.';Centro;47;1
+359;Kimberly;Stewart;8/2/1954 00:00;C;F;kimberly24@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'6289 Via Del Verdes';732-555-0139;'0-1 Km.';Norte;59;1
+11;Cristina;Nara;26/8/1957 00:00;S;F;cristina15@mineriadedatos.com.ar;70000;2;0;'Educación secundaria';Profesional;0;2;'7128 Paris Lane';'500 555-0196';'1-2 Km.';Sur;55;1
+298;Rebecca;Evans;10/2/1954 00:00;C;F;rebecca4@mineriadedatos.com.ar;70000;3;1;'Educación secundaria';Profesional;1;0;'6154 Cleveland Rd';280-555-0162;'5-10 Km.';Norte;59;1
+34;Russell;Chander;10/5/1946 00:00;C;M;russell18@mineriadedatos.com.ar;40000;2;0;Licenciatura;Gestión;1;2;'8547 Lyon Circle';'500 555-0115';'5-10 Km.';Sur;67;1
+22;Troy;Suri;9/4/1977 00:00;C;M;troy0@mineriadedatos.com.ar;20000;0;0;'Estudios universitarios (en curso)';Obrero;1;0;'5948 Seeno St.';'500 555-0152';'0-1 Km.';Sur;36;1
+15;Gloria;Serrano;27/5/1974 00:00;S;F;gloria17@mineriadedatos.com.ar;90000;0;0;Licenciatura;Profesional;0;3;'9687 Maywood Ln.';'500 555-0133';'10+ Km.';Sur;38;1
+361;Elizabeth;Garcia;2/1/1957 00:00;C;F;elizabeth20@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'7807 Pine Creek Way';183-555-0159;'1-2 Km.';Norte;56;1
+358;Devin;Turner;2/7/1965 00:00;C;M;devin37@mineriadedatos.com.ar;130000;1;2;'Estudios de postgrado';Gestión;1;0;'6374 Las Palmas';859-555-0119;'0-1 Km.';Norte;47;1
+331;Zachary;Hayes;12/3/1935 00:00;C;M;zachary21@mineriadedatos.com.ar;120000;1;3;'Estudios de postgrado';Gestión;1;4;'8455 Mt. Davidson Court';713-555-0192;'2-5 Km.';Norte;78;1
+614;Noah;Williams;2/6/1972 00:00;S;M;noah58@mineriadedatos.com.ar;70000;0;0;'Estudios universitarios (en curso)';'Obrero especializado';1;2;'8100 Contra Loma Blvd.';477-555-0174;'5-10 Km.';Norte;40;1
+11;Laura;Zheng;17/7/1963 00:00;S;F;laura25@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;2;'4428 Jones Rd.';'500 555-0110';'0-1 Km.';Sur;49;1
+552;Riley;Cox;22/6/1967 00:00;S;F;riley30@mineriadedatos.com.ar;60000;0;0;'Estudios de postgrado';Profesional;0;1;'9002 Kathleen Drive';842-555-0194;'0-1 Km.';Norte;45;1
+132;Rebekah;Munoz;20/8/1966 00:00;S;F;rebekah27@mineriadedatos.com.ar;40000;0;0;Licenciatura;Profesional;1;0;'3229 Mark Twain Dr.';'500 555-0116';'0-1 Km.';Centro;46;1
+51;Victoria;Butler;10/8/1956 00:00;C;F;victoria61@mineriadedatos.com.ar;80000;3;0;'Estudios universitarios (en curso)';Profesional;0;2;'5423 Morengo Ct.';108-555-0122;'2-5 Km.';Norte;56;1
+20;Ricky;Martin;13/12/1975 00:00;S;M;ricky0@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;1;3;'2912 Guadalupe';'500 555-0133';'10+ Km.';Sur;37;1
+33;Louis;Ma;9/10/1974 00:00;S;M;louis10@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;3;'9593 Singingwood Court';'500 555-0180';'10+ Km.';Sur;38;1
+6;Levi;Sanchez;13/3/1943 00:00;S;M;levi18@mineriadedatos.com.ar;40000;2;0;Licenciatura;Gestión;1;2;'7226 Casa Real';'500 555-0117';'5-10 Km.';Sur;70;1
+31;Ian;Martinez;24/6/1979 00:00;C;M;ian15@mineriadedatos.com.ar;10000;1;1;'Educación secundaria';Obrero;1;0;'6422 Vista Diablo';'500 555-0140';'2-5 Km.';Sur;33;1
+63;Emily;Davis;24/8/1969 00:00;S;F;emily5@mineriadedatos.com.ar;60000;2;2;Licenciatura;'Obrero especializado';0;0;'7326 Kenmore';512-555-0123;'0-1 Km.';Norte;43;1
+343;Catherine;Brooks;20/3/1962 00:00;C;F;catherine2@mineriadedatos.com.ar;70000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'6866 Concord Blvd.';310-555-0159;'2-5 Km.';Norte;51;1
+547;Mackenzie;Cox;3/7/1967 00:00;C;F;mackenzie9@mineriadedatos.com.ar;110000;0;1;'Estudios de postgrado';Gestión;1;0;'6191 Story Lane';199-555-0157;'5-10 Km.';Norte;45;1
+265;Marshall;Lin;28/11/1958 00:00;C;M;marshall7@mineriadedatos.com.ar;150000;1;3;'Estudios universitarios (en curso)';Profesional;0;3;'7070 W. Watson Court';'500 555-0198';'5-10 Km.';Centro;54;1
+372;Hunter;Lewis;13/4/1972 00:00;S;M;hunter54@mineriadedatos.com.ar;80000;0;0;Licenciatura;Gestión;0;1;'4302 Oakleaf Ct.';197-555-0167;'0-1 Km.';Norte;41;1
+337;Jeremiah;King;10/9/1972 00:00;S;M;jeremiah14@mineriadedatos.com.ar;70000;1;0;'Estudios de postgrado';Profesional;1;0;'2741 Orangewood Dr.';698-555-0158;'2-5 Km.';Norte;40;1
+168;Cheryl;Martin;2/2/1962 00:00;C;F;cheryl2@mineriadedatos.com.ar;40000;1;0;Licenciatura;'Obrero especializado';1;1;'Haberstr 328';'500 555-0143';'0-1 Km.';Centro;51;1
+372;Natalie;Morris;13/9/1955 00:00;C;F;natalie2@mineriadedatos.com.ar;80000;3;2;'Estudios universitarios (en curso)';Profesional;1;1;'3159 C Wharton Way';479-555-0144;'5-10 Km.';Norte;57;1
+62;Caitlin;Murphy;24/11/1957 00:00;C;F;caitlin12@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'2318 Pleasant Circle';377-555-0119;'0-1 Km.';Norte;55;1
+322;Morgan;Murphy;25/3/1969 00:00;S;F;morgan53@mineriadedatos.com.ar;60000;2;2;Licenciatura;'Obrero especializado';0;0;'6681 Pestana Way';216-555-0146;'0-1 Km.';Norte;44;1
+176;Shaun;Deng;11/9/1968 00:00;S;M;shaun3@mineriadedatos.com.ar;10000;3;3;'Educación secundaria';Obrero;1;0;'Haberstr 41';'500 555-0172';'0-1 Km.';Centro;44;1
+39;Arturo;Gao;21/6/1966 00:00;S;M;arturo16@mineriadedatos.com.ar;90000;2;0;Licenciatura;Profesional;1;0;'4351 Charlotte Ave.';'500 555-0195';'1-2 Km.';Sur;46;1
+183;Deanna;Madan;20/3/1967 00:00;S;F;deanna11@mineriadedatos.com.ar;20000;1;1;'Educación secundaria';Obrero;0;1;'3  rue Jean Mermoz';'500 555-0177';'0-1 Km.';Centro;46;1
+609;Donna;Anand;5/3/1968 00:00;C;F;donna20@mineriadedatos.com.ar;70000;2;2;Licenciatura;'Obrero especializado';1;1;'1865 Scenic Ct.';784-555-0134;'2-5 Km.';Norte;45;1
+385;Angela;Patterson;19/4/1966 00:00;S;F;angela13@mineriadedatos.com.ar;70000;4;0;'Estudios de postgrado';Profesional;1;0;'3477 Mt. Washington Way';435-555-0136;'2-5 Km.';Norte;47;1
+35;Devin;Gonzalez;21/11/1955 00:00;S;M;devin31@mineriadedatos.com.ar;80000;2;0;'Educación secundaria';'Obrero especializado';1;2;'9618 San Rafael';'500 555-0110';'5-10 Km.';Sur;57;1
+189;Fernando;Collins;9/10/1967 00:00;S;M;fernando43@mineriadedatos.com.ar;40000;0;0;Licenciatura;Administrativo;1;0;'821  rue des Rosiers';'500 555-0169';'0-1 Km.';Centro;45;1
+33;Alícia;Anand;26/5/1956 00:00;S;F;alícia18@mineriadedatos.com.ar;80000;2;0;'Educación secundaria';'Obrero especializado';0;2;'2176 Apollo Way';'500 555-0159';'1-2 Km.';Sur;56;1
+644;Ariana;Peterson;9/12/1955 00:00;C;F;ariana4@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'9052 Blue Ridge Dr';298-555-0145;'0-1 Km.';Norte;57;1
+60;Rachel;Garcia;7/9/1958 00:00;C;F;rachel19@mineriadedatos.com.ar;80000;5;0;'Estudios de postgrado';Profesional;1;0;'8403 Esperanza';429-555-0199;'0-1 Km.';Norte;54;1
+53;Morgan;Turner;24/10/1966 00:00;C;F;morgan3@mineriadedatos.com.ar;70000;0;0;'Estudios de postgrado';Profesional;1;0;'6091 Bluefish Lane';856-555-0168;'2-5 Km.';Norte;46;1
+14;Alejandro;Kumar;3/7/1960 00:00;C;M;alejandro34@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'1689 Boxwood Ln.';'500 555-0133';'0-1 Km.';Sur;52;1
+369;Elizabeth;Coleman;11/8/1978 00:00;C;F;elizabeth35@mineriadedatos.com.ar;70000;0;0;'Estudios universitarios (en curso)';'Obrero especializado';0;2;'7546 Gonzalez Ct.';400-555-0120;'0-1 Km.';Norte;34;1
+238;Theodore;Moreno;21/2/1968 00:00;S;M;theodore7@mineriadedatos.com.ar;10000;3;3;'Educación secundaria';Obrero;1;0;'8381 Lake Place';'500 555-0184';'0-1 Km.';Centro;45;1
+18;Cindy;Raman;27/4/1969 00:00;C;F;cindy12@mineriadedatos.com.ar;90000;1;0;'Estudios de postgrado';Gestión;0;0;'7947 Stillman Court';'500 555-0182';'0-1 Km.';Sur;44;1
+33;Jerry;Chande;8/6/1940 00:00;C;M;jerry16@mineriadedatos.com.ar;30000;2;0;'Estudios universitarios (en curso)';Administrativo;0;2;'9950 Edward Ave';'500 555-0167';'0-1 Km.';Sur;72;1
+609;Isabella;Moore;24/12/1960 00:00;C;F;isabella63@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'2972 East Lake Court';207-555-0183;'2-5 Km.';Norte;52;1
+276;Marie;Sai;24/10/1947 00:00;C;F;marie10@mineriadedatos.com.ar;160000;5;5;'Educación secundaria (en curso)';Profesional;0;4;'4616 Sutcliffe Pl';'500 555-0115';'10+ Km.';Centro;65;1
+15;Monica;Martinez;18/10/1979 00:00;C;F;monica17@mineriadedatos.com.ar;20000;0;0;Licenciatura;Administrativo;1;0;'9018 Vallet Crest Drive';'500 555-0162';'0-1 Km.';Sur;33;1
+10;Latoya;She;24/3/1968 00:00;C;F;latoya0@mineriadedatos.com.ar;60000;2;2;Licenciatura;Profesional;1;1;'2681 Black Walnut Ct.';'500 555-0166';'0-1 Km.';Sur;45;1
+618;Justin;Zhang;14/9/1967 00:00;S;M;justin21@mineriadedatos.com.ar;40000;0;0;Licenciatura;Profesional;0;1;'4250 Park Tree Ct';431-555-0179;'2-5 Km.';Norte;45;1
+355;Rachel;Foster;21/3/1945 00:00;S;F;rachel64@mineriadedatos.com.ar;30000;2;1;'Educación secundaria (en curso)';'Obrero especializado';1;3;'6615 Winterglenn Way';525-555-0184;'10+ Km.';Norte;68;1
+171;Katherine;Edwards;15/11/1971 00:00;S;F;katherine50@mineriadedatos.com.ar;40000;2;2;'Estudios universitarios (en curso)';Administrativo;1;1;'Zollstr 62';'500 555-0172';'1-2 Km.';Centro;41;1
+310;Erik;Suarez;24/11/1966 00:00;S;M;erik19@mineriadedatos.com.ar;120000;2;2;Licenciatura;Gestión;0;3;'1157 Chilpancingo Pk.';177-555-0168;'0-1 Km.';Norte;46;1
+27;Sergio;Rodriguez;7/9/1956 00:00;C;M;sergio20@mineriadedatos.com.ar;70000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'6140 Mt. Whitney Way';'500 555-0119';'5-10 Km.';Sur;56;1
+6;Carly;Nath;3/9/1970 00:00;C;F;carly16@mineriadedatos.com.ar;100000;0;5;'Educación secundaria (en curso)';Profesional;1;4;'5884 Madhatter Circle';'500 555-0145';'10+ Km.';Sur;42;1
+3;Michele;Gonzalez;27/5/1957 00:00;S;F;michele32@mineriadedatos.com.ar;70000;2;0;'Educación secundaria';Profesional;1;2;'2748 Anyway St.';'500 555-0119';'5-10 Km.';Sur;55;1
+235;Erick;Vance;26/2/1973 00:00;C;M;erick3@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';1;1;'5265 Evergreen Ct';'500 555-0177';'1-2 Km.';Centro;40;1
+348;Jacob;Martinez;20/7/1953 00:00;C;M;jacob13@mineriadedatos.com.ar;30000;1;0;Licenciatura;'Obrero especializado';1;1;'551 Rainier Dr';983-555-0120;'2-5 Km.';Norte;59;1
+256;Alejandro;Xie;19/2/1944 00:00;S;M;alejandro29@mineriadedatos.com.ar;160000;3;4;Licenciatura;Gestión;0;3;'1374 Boatwright Dr.';'500 555-0137';'5-10 Km.';Centro;69;1
+246;Cassie;Sharma;4/8/1974 00:00;C;F;cassie8@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';1;0;'7281 Running Springs Rd.';'500 555-0195';'1-2 Km.';Centro;38;1
+33;Patricia;Saunders;7/2/1968 00:00;C;F;patricia14@mineriadedatos.com.ar;60000;2;2;Licenciatura;Profesional;1;1;'4908 Chickpea Ct.';'500 555-0186';'0-1 Km.';Sur;45;1
+648;Nathan;Ross;27/7/1970 00:00;C;M;nathan0@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';1;1;'316 Rambling Rose Ave';171-555-0176;'2-5 Km.';Norte;42;1
+302;Keith;Raji;25/1/1970 00:00;C;M;keith25@mineriadedatos.com.ar;70000;4;0;'Estudios de postgrado';Profesional;1;0;'7248 Holiday Hills Dr.';207-555-0133;'0-1 Km.';Norte;43;1
+626;Maria;Morgan;10/5/1965 00:00;S;F;maria6@mineriadedatos.com.ar;80000;3;3;Licenciatura;'Obrero especializado';1;2;'2187 S. Rising Ave';997-555-0135;'2-5 Km.';Norte;48;1
+352;Alex;Parker;8/9/1961 00:00;C;M;alex26@mineriadedatos.com.ar;130000;1;3;Licenciatura;Gestión;1;3;'7581 Alaska Dr.';613-555-0123;'0-1 Km.';Norte;51;1
+30;Krystal;Liu;24/7/1978 00:00;C;F;krystal4@mineriadedatos.com.ar;20000;0;0;Licenciatura;Administrativo;1;0;'7468 Franklin Canyon Road';'500 555-0163';'0-1 Km.';Sur;34;1
+52;Xavier;Mitchell;28/7/1968 00:00;C;M;xavier34@mineriadedatos.com.ar;80000;0;0;Licenciatura;Gestión;0;1;'7834 Roux Court';939-555-0178;'0-1 Km.';Norte;44;1
+175;Carol;Cooper;6/8/1960 00:00;C;F;carol26@mineriadedatos.com.ar;30000;3;0;Licenciatura;Administrativo;1;0;'Alderweg 6246';'500 555-0146';'0-1 Km.';Centro;52;1
+334;Abigail;Rodriguez;13/9/1963 00:00;C;F;abigail61@mineriadedatos.com.ar;60000;3;2;'Estudios de postgrado';Profesional;1;0;'7633 Stonehedge Dr.';771-555-0162;'0-1 Km.';Norte;49;1
+38;Erica;Chen;8/3/1956 00:00;S;F;erica2@mineriadedatos.com.ar;70000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'793 Crawford Street';'500 555-0158';'5-10 Km.';Sur;57;1
+221;Crystal;Lin;14/4/1968 00:00;S;F;crystal10@mineriadedatos.com.ar;10000;3;3;'Educación secundaria';Obrero;1;0;'2  avenue des Champs-Elysées';'500 555-0113';'0-1 Km.';Centro;45;1
+43;Oscar;Hayes;9/9/1952 00:00;C;M;oscar8@mineriadedatos.com.ar;70000;2;1;'Educación secundaria (en curso)';'Obrero especializado';1;2;'5897 Scottsdale Rd.';150-555-0146;'10+ Km.';Norte;60;1
+24;Rebekah;Ramos;2/3/1971 00:00;S;F;rebekah37@mineriadedatos.com.ar;100000;0;5;'Educación secundaria';Gestión;1;4;'Erlenweg 6664';'500 555-0165';'10+ Km.';Sur;42;1
+536;Abigail;Kelly;11/4/1962 00:00;C;F;abigail23@mineriadedatos.com.ar;70000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'896 Southdale';137-555-0115;'0-1 Km.';Norte;51;1
+359;Isaac;Bailey;3/11/1953 00:00;S;M;isaac15@mineriadedatos.com.ar;70000;3;0;'Estudios de postgrado';Gestión;1;2;'82 Mt. Dell Dr.';356-555-0182;'5-10 Km.';Norte;59;1
+383;Emma;Cooper;3/8/1954 00:00;C;F;emma35@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'2258 Pablo Neruda';418-555-0139;'0-1 Km.';Norte;58;1
+238;Tammy;Gonzalez;14/4/1962 00:00;C;F;tammy19@mineriadedatos.com.ar;40000;1;0;Licenciatura;'Obrero especializado';1;0;'2421 Norse Drive';'500 555-0142';'0-1 Km.';Centro;51;1
+219;Bianca;Huang;14/6/1958 00:00;C;F;bianca5@mineriadedatos.com.ar;30000;1;0;Licenciatura;Administrativo;1;0;'6058 Foothill Way';'500 555-0139';'0-1 Km.';Centro;54;1
+19;Fernando;Nelson;20/9/1977 00:00;S;M;fernando34@mineriadedatos.com.ar;10000;1;1;'Educación secundaria';Obrero;1;0;'4147 Alamo Court';'500 555-0167';'2-5 Km.';Sur;35;1
+32;Kathleen;Jimenez;26/7/1969 00:00;C;F;kathleen7@mineriadedatos.com.ar;90000;1;0;'Estudios de postgrado';Gestión;1;0;'1955 Montgomery Ave';'500 555-0156';'0-1 Km.';Sur;43;1
+4;Marcus;Henderson;14/7/1961 00:00;C;M;marcus54@mineriadedatos.com.ar;60000;1;0;Licenciatura;Profesional;1;1;'5979 La Corte Bonita';'500 555-0150';'5-10 Km.';Sur;51;1
+648;Dalton;White;7/7/1973 00:00;C;M;dalton12@mineriadedatos.com.ar;50000;1;0;'Estudios de postgrado';'Obrero especializado';1;0;'6384 Euclid Ave.';609-555-0146;'0-1 Km.';Norte;39;1
+338;Jasmine;Thompson;3/6/1956 00:00;C;F;jasmine13@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'5834 Vloching Circle';943-555-0196;'0-1 Km.';Norte;56;1
+28;Summer;Sai;12/2/1973 00:00;C;F;summer4@mineriadedatos.com.ar;110000;0;5;'Estudios universitarios (en curso)';Gestión;0;3;'2929 Marie Dr.';'500 555-0148';'10+ Km.';Sur;40;1
+299;Joanna;Moreno;24/6/1967 00:00;S;F;joanna5@mineriadedatos.com.ar;60000;0;0;'Estudios de postgrado';Profesional;1;1;'2393 Brook Hollow Ct.';256-555-0155;'2-5 Km.';Norte;45;1
+29;Jaime;Navarro;19/6/1967 00:00;C;F;jaime11@mineriadedatos.com.ar;90000;2;2;Licenciatura;Profesional;1;0;'6034 Bell Dr.';'500 555-0176';'0-1 Km.';Sur;45;1
+546;Sarah;Jones;14/11/1961 00:00;C;F;sarah5@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'2935 Pine Creek Way';585-555-0177;'0-1 Km.';Norte;51;1
+205;Brendan;Kumar;2/9/1968 00:00;C;M;brendan6@mineriadedatos.com.ar;40000;0;0;'Estudios de postgrado';Administrativo;1;0;'401  avenue Reille';'500 555-0119';'0-1 Km.';Centro;44;1
+29;Gloria;Diaz;3/9/1943 00:00;C;F;gloria5@mineriadedatos.com.ar;40000;2;0;Licenciatura;Gestión;0;2;'7770 Mota Dr.';'500 555-0157';'0-1 Km.';Sur;69;1
+36;Lisa;Wu;15/8/1957 00:00;C;F;lisa10@mineriadedatos.com.ar;70000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'8426 Easley Dr.';'500 555-0127';'5-10 Km.';Sur;55;1
+337;Noah;Green;15/2/1968 00:00;S;M;noah40@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;1;'1825 Village Pl.';335-555-0173;'2-5 Km.';Norte;45;1
+626;Gabrielle;Lopez;24/8/1953 00:00;S;F;gabrielle63@mineriadedatos.com.ar;70000;3;0;'Estudios de postgrado';Gestión;0;2;'8619 Parkside Dr.';783-555-0174;'1-2 Km.';Norte;59;1
+36;Evan;Parker;6/4/1960 00:00;S;M;evan23@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'7113 Eastgate Ave.';'500 555-0131';'5-10 Km.';Sur;53;1
+242;Clayton;Lu;22/2/1944 00:00;C;M;clayton10@mineriadedatos.com.ar;130000;3;4;Licenciatura;Gestión;1;4;'5927 Mt. Hood Circle';'500 555-0193';'0-1 Km.';Centro;69;1
+18;Kathleen;Alonso;13/5/1961 00:00;C;F;kathleen10@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'8425 W. Hookston Road';'500 555-0113';'5-10 Km.';Sur;52;1
+163;Douglas;Prasad;21/4/1964 00:00;S;M;douglas13@mineriadedatos.com.ar;20000;3;3;'Educación secundaria';Obrero;1;0;'Platz des Landtags 505';'500 555-0153';'0-1 Km.';Centro;49;1
+211;Gary;Alvarez;28/3/1973 00:00;S;M;gary15@mineriadedatos.com.ar;30000;0;0;'Educación secundaria';Obrero;0;1;'81  route de Marseille';'500 555-0182';'2-5 Km.';Centro;40;1
+24;Linda;Serrano;26/6/1955 00:00;S;F;linda31@mineriadedatos.com.ar;80000;2;0;'Educación secundaria';'Obrero especializado';1;2;'9808 Shaw Rd.';'500 555-0130';'5-10 Km.';Sur;57;1
+118;Donna;Chander;25/7/1973 00:00;C;F;donna14@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';1;1;'Postfach 8 11 99';'500 555-0172';'1-2 Km.';Centro;39;1
+276;Lisa;Zhu;14/9/1959 00:00;C;F;lisa17@mineriadedatos.com.ar;30000;3;0;'Estudios de postgrado';Administrativo;1;0;'3359 Northwood Dr';'500 555-0175';'0-1 Km.';Centro;53;1
+612;Thomas;Anderson;26/5/1972 00:00;C;M;thomas71@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';1;0;'8307 Monument Blvd.';315-555-0121;'0-1 Km.';Norte;40;1
+138;Kendra;Romero;6/7/1966 00:00;S;F;kendra9@mineriadedatos.com.ar;10000;5;5;'Educación secundaria (en curso)';Obrero;1;1;'Rykestr 0581';'500 555-0119';'0-1 Km.';Centro;46;1
+245;Diana;Ramos;1/10/1974 00:00;C;F;diana16@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';1;0;'6466 Appia Ct.';'500 555-0117';'1-2 Km.';Centro;38;1
+260;Kelsey;Rai;25/5/1969 00:00;S;F;kelsey16@mineriadedatos.com.ar;40000;0;0;'Estudios de postgrado';Administrativo;1;0;'6265 Greendell Rd.';'500 555-0130';'0-1 Km.';Centro;43;1
+197;Robin;Gill;23/12/1965 00:00;C;F;robin10@mineriadedatos.com.ar;20000;2;2;'Educación secundaria';Obrero;0;1;'28  rue de Fontfroide';'500 555-0166';'0-1 Km.';Centro;47;1
+536;Bryce;Sanders;10/7/1967 00:00;S;M;bryce3@mineriadedatos.com.ar;40000;0;0;Licenciatura;Profesional;0;1;'1870 Blue Ridge Dr.';449-555-0174;'2-5 Km.';Norte;45;1
+314;Alexander;Brown;5/3/1936 00:00;S;M;alexander6@mineriadedatos.com.ar;90000;4;0;Licenciatura;Gestión;1;2;'8160 Clayburn Rd.';760-555-0113;'5-10 Km.';Norte;77;1
+40;Katelyn;Richardson;17/10/1955 00:00;S;F;katelyn8@mineriadedatos.com.ar;80000;2;0;'Educación secundaria';'Obrero especializado';0;2;'5493 Gonzalez Ct';'500 555-0155';'1-2 Km.';Sur;57;1
+41;Kristi;Malhotra;25/11/1973 00:00;S;F;kristi21@mineriadedatos.com.ar;70000;0;0;'Estudios universitarios (en curso)';Profesional;1;2;'4605 Springvale Court';380-555-0148;'5-10 Km.';Norte;39;1
+372;Luke;Jenkins;26/4/1962 00:00;C;M;luke25@mineriadedatos.com.ar;160000;1;2;Licenciatura;Gestión;0;3;'3309 Clay Way';307-555-0136;'2-5 Km.';Norte;51;1
+54;Emily;Wilson;11/3/1956 00:00;C;F;emily7@mineriadedatos.com.ar;70000;3;2;'Estudios universitarios (en curso)';Profesional;1;0;'5444 Bellord Ct.';145-555-0153;'5-10 Km.';Norte;57;1
+298;Elijah;Patterson;3/7/1956 00:00;S;M;elijah14@mineriadedatos.com.ar;90000;2;1;'Estudios universitarios (en curso)';Profesional;1;0;'5437 Spring Hill Road';114-555-0158;'5-10 Km.';Norte;56;1
+224;Xavier;Edwards;13/7/1968 00:00;C;M;xavier41@mineriadedatos.com.ar;40000;0;0;'Estudios de postgrado';Administrativo;1;0;'48  rue Montcalm';'500 555-0141';'0-1 Km.';Centro;44;1
+133;Jocelyn;Washington;6/11/1958 00:00;C;F;jocelyn14@mineriadedatos.com.ar;30000;1;0;'Estudios de postgrado';Administrativo;1;0;'Postfach 22 99 99';'500 555-0114';'0-1 Km.';Centro;54;1
+21;Emily;Anderson;22/11/1961 00:00;C;F;emily10@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'1639 Atchinson Stage Ct.';'500 555-0192';'5-10 Km.';Sur;51;1
+147;Lacey;Zhou;27/11/1965 00:00;S;F;lacey21@mineriadedatos.com.ar;20000;2;2;'Educación secundaria';Obrero;1;1;'Buergermeister-ulrich-str 7500';'500 555-0140';'0-1 Km.';Centro;47;1
+119;Cory;Kapoor;18/4/1967 00:00;C;M;cory19@mineriadedatos.com.ar;40000;0;0;Licenciatura;Administrativo;1;0;'Am Gallberg 24';'500 555-0114';'0-1 Km.';Centro;46;1
+626;Katelyn;Hernandez;20/9/1933 00:00;C;F;katelyn42@mineriadedatos.com.ar;70000;4;0;'Estudios de postgrado';Gestión;1;2;'7496 Deerfield Dr.';249-555-0116;'5-10 Km.';Norte;79;1
+8;Lacey;Sun;24/2/1972 00:00;S;F;lacey25@mineriadedatos.com.ar;80000;0;0;Licenciatura;Profesional;1;3;'2540 Waterview Place';'500 555-0159';'10+ Km.';Sur;41;1
+29;Veronica;Gonzalez;12/7/1946 00:00;C;F;veronica20@mineriadedatos.com.ar;40000;2;0;Licenciatura;Gestión;1;2;'8518 Bayberry Dr.';'500 555-0162';'5-10 Km.';Sur;66;1
+236;Brian;Sanchez;15/10/1963 00:00;C;M;brian29@mineriadedatos.com.ar;40000;1;0;Licenciatura;'Obrero especializado';1;0;'8290 N. 39th Street';'500 555-0132';'0-1 Km.';Centro;49;1
+339;Alexis;Martinez;25/9/1957 00:00;C;F;alexis14@mineriadedatos.com.ar;70000;2;0;'Educación secundaria (en curso)';'Obrero especializado';1;2;'3783 Dartmouth Way';837-555-0194;'5-10 Km.';Norte;55;1
+119;Leonard;She;26/2/1957 00:00;C;M;leonard1@mineriadedatos.com.ar;130000;2;4;'Estudios universitarios (en curso)';Profesional;1;2;'Am Gallberg 22';'500 555-0172';'0-1 Km.';Centro;56;1
+635;Mary;Scott;10/10/1968 00:00;C;F;mary27@mineriadedatos.com.ar;100000;3;0;Licenciatura;Gestión;1;3;'8632 River Ash Court';199-555-0163;'1-2 Km.';Norte;44;1
+265;Michele;Perez;24/10/1968 00:00;C;F;michele34@mineriadedatos.com.ar;40000;0;0;Licenciatura;Administrativo;1;0;'6939 Hilltop Dr.';'500 555-0137';'0-1 Km.';Centro;44;1
+37;Diane;Romero;9/10/1969 00:00;C;F;diane14@mineriadedatos.com.ar;90000;2;0;Licenciatura;Profesional;1;0;'5070 Via Alta';'500 555-0182';'0-1 Km.';Sur;43;1
+22;Danny;Vazquez;13/7/1965 00:00;S;M;danny15@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;1;1;'9012 F St.';'500 555-0183';'5-10 Km.';Sur;47;1
+5;Shawna;Shan;9/6/1976 00:00;S;F;shawna11@mineriadedatos.com.ar;10000;1;1;'Educación secundaria';Obrero;1;0;'4480 N. Lanky Lane';'500 555-0170';'2-5 Km.';Sur;36;1
+634;Marcus;Barnes;24/8/1953 00:00;C;M;marcus52@mineriadedatos.com.ar;30000;1;0;Licenciatura;'Obrero especializado';1;1;'7861 Silverado Dr.';890-555-0111;'1-2 Km.';Norte;59;1
+369;Brooke;Murphy;13/2/1970 00:00;C;F;brooke13@mineriadedatos.com.ar;80000;2;0;'Estudios de postgrado';Profesional;1;0;'182 Perry Way';125-555-0164;'0-1 Km.';Norte;43;1
+243;Savannah;Morris;17/5/1953 00:00;C;F;savannah17@mineriadedatos.com.ar;80000;4;2;'Estudios universitarios (en curso)';Profesional;0;1;'7650 Central Blvd';'500 555-0193';'2-5 Km.';Centro;60;1
+248;Micheal;Rubio;10/4/1969 00:00;C;M;micheal17@mineriadedatos.com.ar;40000;0;0;'Estudios de postgrado';'Obrero especializado';1;0;'360 Vista Way';'500 555-0199';'0-1 Km.';Centro;44;1
+26;Omar;Huang;18/3/1971 00:00;C;M;omar6@mineriadedatos.com.ar;100000;0;5;'Educación secundaria';Gestión;1;3;'6214 Terranova Drive';'500 555-0198';'10+ Km.';Sur;42;1
+8;Derek;Nara;21/7/1961 00:00;S;M;derek15@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'7144 Augustine Drive';'500 555-0119';'5-10 Km.';Sur;51;1
+352;Marcus;Adams;13/11/1978 00:00;S;M;marcus34@mineriadedatos.com.ar;70000;0;0;'Estudios universitarios (en curso)';'Obrero especializado';1;2;'9246 Westminster Pl';687-555-0170;'5-10 Km.';Norte;34;1
+361;Amanda;Morgan;4/3/1956 00:00;C;F;amanda4@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'683 Larch Ct.';740-555-0139;'1-2 Km.';Norte;57;1
+34;Willie;Chande;15/12/1967 00:00;S;M;willie34@mineriadedatos.com.ar;60000;2;2;Licenciatura;Profesional;1;1;'4998 Clayburn Road';'500 555-0181';'2-5 Km.';Sur;45;1
+634;David;Griffin;6/12/1970 00:00;C;M;david54@mineriadedatos.com.ar;70000;3;0;'Estudios de postgrado';Profesional;1;0;'8869 C Olivera Rd';954-555-0144;'2-5 Km.';Norte;42;1
+314;Ian;Morris;10/4/1968 00:00;S;M;ian85@mineriadedatos.com.ar;80000;0;0;Licenciatura;Gestión;1;1;'2371 Deerfield Dr.';364-555-0127;'1-2 Km.';Norte;45;1
+7;Brandi;Hernandez;15/6/1971 00:00;S;F;brandi4@mineriadedatos.com.ar;100000;0;5;'Educación secundaria';Gestión;1;4;'1617 Cunningham Way';'500 555-0187';'10+ Km.';Sur;41;1
+638;Jason;Li;10/10/1955 00:00;C;M;jason24@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'7527 Brook Way';952-555-0172;'0-1 Km.';Norte;57;1
+69;Jasmine;Diaz;6/9/1969 00:00;C;F;jasmine61@mineriadedatos.com.ar;70000;5;0;'Estudios de postgrado';Profesional;1;0;'7427 Terra Catalina';253-555-0162;'0-1 Km.';Norte;43;1
+58;Christian;Wilson;2/10/1970 00:00;C;M;christian37@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';1;1;'410 Cardinet Drive';202-555-0153;'2-5 Km.';Norte;42;1
+302;Edwin;Xu;19/11/1956 00:00;C;M;edwin27@mineriadedatos.com.ar;70000;3;0;'Estudios universitarios (en curso)';Profesional;0;2;'3396 El Dorado Way';766-555-0140;'5-10 Km.';Norte;56;1
+331;Charles;Reed;15/5/1957 00:00;C;M;charles68@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'7974 Seal Way';667-555-0141;'0-1 Km.';Norte;56;1
+548;Michelle;Howard;5/3/1970 00:00;C;F;michelle12@mineriadedatos.com.ar;40000;1;1;Licenciatura;'Obrero especializado';1;1;'4440 Keywood Ct';665-555-0143;'0-1 Km.';Norte;43;1
+198;Derek;Anand;22/2/1969 00:00;C;M;derek20@mineriadedatos.com.ar;30000;0;0;Licenciatura;Administrativo;1;0;'1680  boulevard du Montparnasse';'500 555-0130';'0-1 Km.';Centro;44;1
+252;Frank;Serrano;16/2/1971 00:00;S;M;frank24@mineriadedatos.com.ar;30000;0;0;'Educación secundaria';Obrero;0;1;'6745 Salem St';'500 555-0155';'2-5 Km.';Centro;42;1
+352;Lucas;Robinson;4/2/1977 00:00;S;M;lucas32@mineriadedatos.com.ar;70000;0;0;'Estudios universitarios (en curso)';'Obrero especializado';1;2;'9589 Eastgate Avenue';178-555-0194;'5-10 Km.';Norte;36;1
+49;Hunter;Moore;3/7/1956 00:00;C;M;hunter67@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'4429 Deermeadow Way';179-555-0116;'0-1 Km.';Norte;56;1
+33;Jared;Brooks;19/3/1961 00:00;C;M;jared3@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'2263 Terra Granada';'500 555-0124';'5-10 Km.';Sur;52;1
+222;Claudia;Ma;13/4/1963 00:00;S;F;claudia14@mineriadedatos.com.ar;30000;2;2;'Estudios universitarios (en curso)';Administrativo;1;0;'222  rue de Cambrai';'500 555-0167';'0-1 Km.';Centro;50;1
+25;Devon;Shen;13/3/1972 00:00;C;M;devon1@mineriadedatos.com.ar;90000;0;0;Licenciatura;Profesional;1;3;'3275 Corrinne Court';'500 555-0132';'10+ Km.';Sur;41;1
+53;Julian;Flores;9/9/1968 00:00;S;M;julian14@mineriadedatos.com.ar;80000;0;0;Licenciatura;Gestión;1;1;'4194 Baywood Drive';494-555-0138;'1-2 Km.';Norte;44;1
+626;Kayla;Griffin;23/8/1955 00:00;C;F;kayla45@mineriadedatos.com.ar;80000;3;2;'Estudios universitarios (en curso)';Profesional;1;1;'1026 Mt. Wilson Pl.';175-555-0156;'5-10 Km.';Norte;57;1
+33;Deborah;Kumar;15/8/1962 00:00;C;F;deborah12@mineriadedatos.com.ar;60000;1;0;Licenciatura;Profesional;1;1;'1798 Norfolk Rd';'500 555-0164';'0-1 Km.';Sur;50;1
+13;Jason;Campbell;2/11/1973 00:00;C;M;jason36@mineriadedatos.com.ar;90000;0;0;Licenciatura;Profesional;1;3;'9371 Jacqueline Way';'500 555-0124';'10+ Km.';Sur;39;1
+23;Dawn;He;20/11/1978 00:00;C;F;dawn20@mineriadedatos.com.ar;20000;0;0;Licenciatura;Administrativo;1;0;'536 Beech Ct.';'500 555-0125';'0-1 Km.';Sur;34;1
+18;Roger;Zhang;12/9/1972 00:00;C;M;roger5@mineriadedatos.com.ar;100000;0;5;'Educación secundaria';Gestión;1;2;'1715 Leed Court West';'500 555-0132';'10+ Km.';Sur;40;1
+322;Eduardo;Bailey;15/2/1958 00:00;C;M;eduardo83@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'9457 Mendocino Dr.';617-555-0175;'1-2 Km.';Norte;55;1
+226;Wayne;Jai;26/8/1955 00:00;C;M;wayne13@mineriadedatos.com.ar;90000;2;1;'Educación secundaria';Profesional;1;2;'225  rue Marbeuf';'500 555-0151';'10+ Km.';Centro;57;1
+38;Derek;Shan;18/4/1955 00:00;S;M;derek9@mineriadedatos.com.ar;80000;2;0;'Educación secundaria';'Obrero especializado';0;2;'7168 Belmont';'500 555-0148';'1-2 Km.';Sur;58;1
+302;Drew;Kumar;9/10/1954 00:00;C;M;drew8@mineriadedatos.com.ar;30000;1;0;'Educación secundaria';Administrativo;1;1;'8852 Lacorso Dr.';776-555-0195;'5-10 Km.';Norte;58;1
+223;Chelsea;Madan;28/8/1970 00:00;C;F;chelsea8@mineriadedatos.com.ar;30000;0;0;Licenciatura;Administrativo;1;0;'115  quai Paul Doumer';'500 555-0186';'0-1 Km.';Centro;42;1
+626;Brittany;Diaz;21/10/1965 00:00;C;F;brittany20@mineriadedatos.com.ar;80000;3;3;Licenciatura;'Obrero especializado';1;2;'2973 Tanager Road';753-555-0176;'2-5 Km.';Norte;47;1
+335;Megan;Kelly;12/5/1972 00:00;S;F;megan48@mineriadedatos.com.ar;70000;1;0;'Estudios de postgrado';Profesional;0;0;'9906 Oak Grove Road';119-555-0176;'0-1 Km.';Norte;41;1
+3;Meredith;Romero;23/5/1979 00:00;S;F;meredith32@mineriadedatos.com.ar;10000;0;0;'Estudios universitarios (en curso)';Obrero;1;1;'8335 West Hookston Road';'500 555-0187';'2-5 Km.';Sur;33;1
+542;Alyssa;Davis;13/11/1951 00:00;S;F;alyssa4@mineriadedatos.com.ar;70000;2;1;'Educación secundaria';Profesional;1;2;'711 Sweetwater Drive';178-555-0113;'10+ Km.';Norte;61;1
+155;Jack;Campbell;24/3/1955 00:00;C;M;jack42@mineriadedatos.com.ar;10000;2;0;'Estudios universitarios (en curso)';Obrero;1;0;'Erlenweg 5194';'500 555-0113';'1-2 Km.';Centro;58;1
+301;Cindy;Sanchez;16/9/1961 00:00;C;F;cindy19@mineriadedatos.com.ar;110000;1;3;Licenciatura;Gestión;1;3;'7062 Starflower Drive';198-555-0118;'2-5 Km.';Norte;51;1
+238;Megan;Stewart;15/4/1954 00:00;C;F;megan27@mineriadedatos.com.ar;80000;4;2;'Estudios universitarios (en curso)';Profesional;0;1;'8192 Seagull Court';'500 555-0116';'2-5 Km.';Centro;59;1
+5;Kellie;Navarro;3/8/1975 00:00;C;F;kellie8@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;1;2;'1164 Augustine Drive';'500 555-0157';'10+ Km.';Sur;37;1
+310;Meredith;Browning;16/9/1967 00:00;S;F;meredith39@mineriadedatos.com.ar;60000;0;0;'Estudios de postgrado';Profesional;0;1;'6453 Sur';240-555-0117;'2-5 Km.';Norte;45;1
+311;Warren;Nara;20/11/1959 00:00;S;M;warren6@mineriadedatos.com.ar;80000;4;0;'Estudios de postgrado';Profesional;1;0;'6973 Elena';373-555-0111;'0-1 Km.';Norte;53;1
+385;Gabriel;Collins;5/3/1969 00:00;C;M;gabriel32@mineriadedatos.com.ar;80000;3;0;'Estudios de postgrado';Profesional;1;0;'1040 Northridge Road';562-555-0115;'0-1 Km.';Norte;44;1
+315;Jack;Jai;3/5/1970 00:00;C;M;jack33@mineriadedatos.com.ar;70000;4;0;'Estudios de postgrado';Profesional;1;0;'1174 Ayers Rd';436-555-0167;'2-5 Km.';Norte;43;1
+307;Thomas;Jai;19/2/1969 00:00;C;M;thomas35@mineriadedatos.com.ar;50000;2;2;Licenciatura;'Obrero especializado';1;0;'2743 Veale Ave';906-555-0113;'2-5 Km.';Norte;44;1
+314;Miguel;Patterson;15/6/1954 00:00;S;M;miguel57@mineriadedatos.com.ar;70000;2;0;'Educación secundaria (en curso)';'Obrero especializado';1;2;'5133 Serrana Ct.';113-555-0189;'5-10 Km.';Norte;58;1
+6;Jeffery;Lu;5/7/1971 00:00;S;M;jeffery12@mineriadedatos.com.ar;100000;0;5;'Educación secundaria';Gestión;1;3;'9644 55th St.';'500 555-0113';'10+ Km.';Sur;41;1
+206;Marie;Gill;28/8/1960 00:00;C;F;marie37@mineriadedatos.com.ar;30000;3;0;'Estudios de postgrado';Administrativo;1;0;'571  rue Malar';'500 555-0192';'0-1 Km.';Centro;52;1
+634;Caitlin;Peterson;2/2/1957 00:00;C;F;caitlin4@mineriadedatos.com.ar;70000;2;0;'Educación secundaria (en curso)';'Obrero especializado';1;2;'4220 Magnolia Ave';195-555-0150;'5-10 Km.';Norte;56;1
+131;Sebastian;Brooks;3/1/1954 00:00;C;M;sebastian2@mineriadedatos.com.ar;80000;4;2;'Estudios universitarios (en curso)';Profesional;1;1;'Altendorfer Straße 299';'500 555-0154';'10+ Km.';Centro;59;1
+241;Rafael;Wu;13/6/1972 00:00;S;M;rafael7@mineriadedatos.com.ar;40000;2;2;'Estudios universitarios (en curso)';Administrativo;1;0;'3200 Wren Ave.';'500 555-0123';'1-2 Km.';Centro;40;1
+17;Raquel;Alonso;1/3/1966 00:00;S;F;raquel5@mineriadedatos.com.ar;110000;0;0;'Estudios de postgrado';Gestión;0;3;'5474 Limewood Pl.';'500 555-0175';'1-2 Km.';Sur;47;1
+166;Shane;Kapoor;13/6/1963 00:00;C;M;shane5@mineriadedatos.com.ar;40000;1;0;Licenciatura;'Obrero especializado';1;0;'Kapellstr 4922';'500 555-0137';'0-1 Km.';Centro;49;1
+269;Raymond;Gonzalez;25/5/1971 00:00;S;M;raymond19@mineriadedatos.com.ar;30000;0;0;'Educación secundaria';Obrero;1;1;'3960 Seascape Circle';'500 555-0182';'2-5 Km.';Centro;41;1
+14;Peter;Deng;4/10/1979 00:00;S;M;peter9@mineriadedatos.com.ar;20000;0;0;Licenciatura;Administrativo;1;0;'7989 Pinehurst Court';'500 555-0135';'0-1 Km.';Sur;33;1
+548;Elijah;Henderson;15/6/1970 00:00;C;M;elijah8@mineriadedatos.com.ar;70000;3;0;'Estudios de postgrado';Profesional;0;0;'8682 Etcheverry Dr';684-555-0119;'0-1 Km.';Norte;42;1
+302;Raymond;Fernandez;9/8/1968 00:00;C;M;raymond16@mineriadedatos.com.ar;130000;1;0;'Estudios de postgrado';Gestión;1;3;'2914 St. George Dr.';189-555-0163;'0-1 Km.';Norte;44;1
+23;Evan;Edwards;4/9/1973 00:00;S;M;evan25@mineriadedatos.com.ar;100000;0;5;'Educación secundaria';Gestión;1;2;'4976 Singingwood Court';'500 555-0118';'10+ Km.';Sur;39;1
+307;Cristina;She;11/4/1973 00:00;S;F;cristina0@mineriadedatos.com.ar;70000;0;0;'Estudios universitarios (en curso)';Profesional;1;2;'719 Sycamore Drive';329-555-0150;'5-10 Km.';Norte;40;1
+49;Yolanda;Sharma;10/2/1973 00:00;S;F;yolanda8@mineriadedatos.com.ar;70000;0;0;'Estudios universitarios (en curso)';Profesional;0;2;'1819 Lilac Court';275-555-0186;'0-1 Km.';Norte;40;1
+641;Gabriel;Patterson;16/1/1954 00:00;C;M;gabriel7@mineriadedatos.com.ar;70000;2;0;'Educación secundaria (en curso)';'Obrero especializado';0;2;'7788 Olive St';115-555-0124;'1-2 Km.';Norte;59;1
+607;Mason;Green;28/11/1960 00:00;C;M;mason37@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'3909 Lavetta Way';654-555-0178;'2-5 Km.';Norte;52;1
+311;Morgan;Richardson;22/8/1958 00:00;S;F;morgan57@mineriadedatos.com.ar;60000;1;0;Licenciatura;Profesional;1;1;'8736 E. 62nd Street';559-555-0128;'2-5 Km.';Norte;54;1
+4;Lance;Sanz;26/3/1980 00:00;S;M;lance20@mineriadedatos.com.ar;10000;0;0;'Estudios universitarios (en curso)';Obrero;0;1;'8327 Roundhouse Place';'500 555-0136';'0-1 Km.';Sur;33;1
+155;Kari;Malhotra;19/6/1960 00:00;C;F;kari6@mineriadedatos.com.ar;30000;3;0;Licenciatura;Administrativo;1;0;'Postfach 8 11 55';'500 555-0116';'0-1 Km.';Centro;52;1
+205;Casey;She;9/6/1962 00:00;S;F;casey0@mineriadedatos.com.ar;30000;4;0;'Estudios de postgrado';Administrativo;1;0;'37  place de Fontenoy';'500 555-0154';'0-1 Km.';Centro;50;1
+4;Ebony;Hernandez;12/9/1943 00:00;C;F;ebony26@mineriadedatos.com.ar;40000;2;0;Licenciatura;Gestión;1;2;'7614 Inez Ave';'500 555-0120';'5-10 Km.';Sur;69;1
+638;Lauren;Wilson;3/3/1954 00:00;C;F;lauren25@mineriadedatos.com.ar;30000;1;0;'Educación secundaria';Administrativo;1;1;'9387 Oak Brook Place';937-555-0124;'5-10 Km.';Norte;59;1
+552;Eric;Hughes;27/4/1954 00:00;C;M;eric20@mineriadedatos.com.ar;30000;1;0;'Educación secundaria';Administrativo;1;1;'6645 Sunshine';504-555-0114;'2-5 Km.';Norte;59;1
+38;Adrienne;Martin;28/3/1975 00:00;S;F;adrienne0@mineriadedatos.com.ar;80000;0;0;Licenciatura;Profesional;1;2;'5188 Duke Way';'500 555-0124';'10+ Km.';Sur;38;1
+345;Jesse;Kelly;4/8/1972 00:00;C;M;jesse2@mineriadedatos.com.ar;70000;1;0;'Estudios de postgrado';Profesional;1;0;'8890 Limewood Pl.';847-555-0122;'2-5 Km.';Norte;40;1
+36;Clarence;Liu;24/11/1958 00:00;S;M;clarence40@mineriadedatos.com.ar;900000;0;0;'Estudios de postgrado';Gestión;1;3;'1726 Chestnut';'500 555-0118';'0-1 Km.';Sur;54;1
+40;Misty;Chander;17/4/1957 00:00;S;F;misty17@mineriadedatos.com.ar;70000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'2050 Glazier Dr';'500 555-0145';'5-10 Km.';Sur;56;1
+179;Julie;Pal;24/9/1965 00:00;S;F;julie17@mineriadedatos.com.ar;30000;2;2;'Estudios universitarios (en curso)';Administrativo;1;1;'2  rue des Vendangeurs';'500 555-0110';'0-1 Km.';Centro;47;1
+249;Troy;Patel;6/7/1964 00:00;C;M;troy3@mineriadedatos.com.ar;40000;1;0;Licenciatura;'Obrero especializado';1;0;'9443 Lacanda Ct.';'500 555-0153';'0-1 Km.';Centro;48;1
+36;Gail;Alexander;12/8/1968 00:00;S;F;gail5@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;1;'918 Park Lane';'500 555-0120';'5-10 Km.';Sur;44;1
+30;Kathleen;Gomez;21/7/1969 00:00;C;F;kathleen3@mineriadedatos.com.ar;100000;1;0;'Estudios de postgrado';Gestión;1;0;'4769 Detroit Avenue';'500 555-0157';'2-5 Km.';Sur;43;1
+547;Ethan;Shan;11/5/1954 00:00;C;M;ethan27@mineriadedatos.com.ar;80000;2;0;'Educación secundaria (en curso)';'Obrero especializado';1;2;'9551 Jones Rd';168-555-0113;'5-10 Km.';Norte;59;1
+53;Abigail;Thompson;3/6/1963 00:00;C;F;abigail56@mineriadedatos.com.ar;60000;3;2;'Estudios de postgrado';Profesional;1;0;'6738 Court Street';792-555-0194;'2-5 Km.';Norte;49;1
+329;Brianna;Russell;23/4/1935 00:00;C;F;brianna65@mineriadedatos.com.ar;120000;1;3;'Estudios de postgrado';Gestión;1;4;'9558 Orchard View Ave.';623-555-0192;'2-5 Km.';Norte;78;1
+244;Kristi;Hernandez;14/1/1968 00:00;S;F;kristi0@mineriadedatos.com.ar;40000;0;0;'Estudios de postgrado';Administrativo;0;0;'4443 Virginia Lane';'500 555-0182';'0-1 Km.';Centro;45;1
+301;Allison;Richardson;4/8/1957 00:00;C;F;allison8@mineriadedatos.com.ar;40000;1;0;'Estudios universitarios (en curso)';Administrativo;1;1;'4344 Azoras Cir';618-555-0124;'0-1 Km.';Norte;55;1
+69;Jasmine;Davis;5/10/1969 01:00;S;F;jasmine5@mineriadedatos.com.ar;70000;5;0;'Estudios de postgrado';Profesional;1;0;'9892 N. Spoonwood Ct.';540-555-0181;'2-5 Km.';Norte;43;1
+322;Victoria;Bryant;26/3/1973 00:00;C;F;victoria64@mineriadedatos.com.ar;40000;1;0;'Estudios de postgrado';'Obrero especializado';1;0;'4822 Center Street';230-555-0189;'0-1 Km.';Norte;40;1
+236;Joanna;Hernandez;4/4/1963 00:00;C;F;joanna2@mineriadedatos.com.ar;40000;1;0;Licenciatura;'Obrero especializado';1;0;'5738 Bent Tree Lane';'500 555-0175';'0-1 Km.';Centro;50;1
+20;Candice;Liu;28/5/1965 00:00;S;F;candice11@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;1;1;'7835 Rio Blanco Dr.';'500 555-0147';'5-10 Km.';Sur;47;1
+13;Bethany;Goel;7/2/1956 00:00;S;F;bethany0@mineriadedatos.com.ar;80000;2;0;'Educación secundaria';'Obrero especializado';0;2;'1474 Bentley Ct.';'500 555-0172';'1-2 Km.';Sur;57;1
+339;Jennifer;Diaz;13/6/1968 00:00;S;F;jennifer95@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;1;'2099 San Jose';117-555-0118;'0-1 Km.';Norte;44;1
+15;Arthur;Chandra;7/1/1956 00:00;C;M;arthur4@mineriadedatos.com.ar;70000;2;0;'Educación secundaria';'Obrero especializado';0;2;'1874 Orchid Ct';'500 555-0196';'1-2 Km.';Sur;57;1
+32;Shawna;Andersen;3/7/1969 00:00;C;F;shawna14@mineriadedatos.com.ar;90000;1;0;'Estudios de postgrado';Gestión;1;0;'5165 Cambridge Drive';'500 555-0149';'0-1 Km.';Sur;43;1
+153;Virginia;Fernandez;3/11/1968 00:00;C;F;virginia18@mineriadedatos.com.ar;40000;0;0;'Estudios de postgrado';Administrativo;1;0;'Krönerweg 9679';'500 555-0116';'0-1 Km.';Centro;44;1
+238;Savannah;Gray;14/12/1971 00:00;S;F;savannah4@mineriadedatos.com.ar;30000;0;0;'Educación secundaria';Obrero;1;1;'9617 Pheasant Ct';'500 555-0190';'2-5 Km.';Centro;41;1
+27;Harold;Raman;13/9/1979 00:00;C;M;harold9@mineriadedatos.com.ar;20000;0;0;Licenciatura;Administrativo;0;0;'9930 Clinton Dr';'500 555-0152';'0-1 Km.';Sur;33;1
+183;Derek;Tang;9/2/1966 00:00;S;M;derek4@mineriadedatos.com.ar;20000;2;2;'Educación secundaria';Obrero;1;0;'421  rue Léo Delibes';'500 555-0195';'0-1 Km.';Centro;47;1
+633;Sydney;Flores;22/8/1953 00:00;C;F;sydney34@mineriadedatos.com.ar;70000;3;0;'Estudios de postgrado';Gestión;1;2;'7948 Rambling Lane';621-555-0147;'5-10 Km.';Norte;59;1
+298;Andy;Hernandez;28/12/1961 00:00;S;M;andy8@mineriadedatos.com.ar;110000;1;3;Licenciatura;Gestión;1;3;'5485 Wee Donegal';922-555-0148;'5-10 Km.';Norte;51;1
+230;Kate;Raje;5/7/1968 00:00;C;F;kate11@mineriadedatos.com.ar;30000;1;1;Licenciatura;Administrativo;1;0;'16 Woodside Court';'500 555-0182';'2-5 Km.';Centro;44;1
+273;Audrey;Gutierrez;21/8/1963 00:00;C;F;audrey12@mineriadedatos.com.ar;40000;1;0;Licenciatura;'Obrero especializado';1;0;'5271 Sierra Road';'500 555-0141';'0-1 Km.';Centro;49;1
+22;Carolyn;Mehta;3/3/1968 00:00;C;F;carolyn13@mineriadedatos.com.ar;60000;2;2;Licenciatura;Profesional;0;1;'4644 Rossmor Parkway';'500 555-0123';'0-1 Km.';Sur;45;1
+26;Kyle;Green;22/4/1956 00:00;C;M;kyle42@mineriadedatos.com.ar;80000;2;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'7980 Firestone Drive';'500 555-0189';'5-10 Km.';Sur;57;1
+134;Mindy;Luo;3/9/1954 00:00;C;F;mindy10@mineriadedatos.com.ar;10000;2;0;'Estudios universitarios (en curso)';Obrero;1;1;'Brunnenstr 7566';'500 555-0194';'2-5 Km.';Centro;58;1
+18;Brandy;Garcia;14/10/1969 00:00;S;F;brandy11@mineriadedatos.com.ar;130000;1;0;'Estudios de postgrado';Gestión;0;1;'7420 Lilac Circle';'500 555-0118';'2-5 Km.';Sur;43;1
+374;Richard;Bryant;12/9/1969 00:00;C;M;richard73@mineriadedatos.com.ar;80000;3;0;'Estudios de postgrado';Profesional;1;0;'292 Shangri-la Rd.';642-555-0119;'0-1 Km.';Norte;43;1
+242;Renee;Jimenez;21/6/1967 00:00;S;F;renee5@mineriadedatos.com.ar;10000;3;3;'Educación secundaria (en curso)';Obrero;1;1;'2941 Jill Ave';'500 555-0140';'0-1 Km.';Centro;45;1
+302;Hailey;Torres;15/6/1954 00:00;C;F;hailey13@mineriadedatos.com.ar;30000;1;0;'Educación secundaria';Administrativo;1;1;'7308 Star Tree Court';926-555-0159;'2-5 Km.';Norte;58;1
+536;Lawrence;Hernandez;24/8/1958 00:00;S;M;lawrence1@mineriadedatos.com.ar;40000;2;0;'Estudios universitarios (en curso)';Administrativo;1;1;'4865 A St.';197-555-0118;'1-2 Km.';Norte;54;1
+192;Kathryn;Xie;19/11/1967 00:00;C;F;kathryn3@mineriadedatos.com.ar;40000;0;0;Licenciatura;Administrativo;1;0;'14  rue de Cambrai';'500 555-0135';'0-1 Km.';Centro;45;1
+29;Kristi;Chapman;11/6/1960 00:00;S;F;kristi18@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'1312 Creekside Dr.';'500 555-0132';'5-10 Km.';Sur;52;1
+2;Jill;Ortega;27/12/1967 00:00;C;F;jill30@mineriadedatos.com.ar;90000;2;0;Licenciatura;Profesional;1;0;'2824 Meadowvale Court';'500 555-0199';'2-5 Km.';Sur;45;1
+18;Neil;Suarez;22/8/1953 00:00;C;M;neil18@mineriadedatos.com.ar;40000;2;0;Licenciatura;Gestión;1;1;'9967 Malibu Place';'500 555-0187';'0-1 Km.';Sur;59;1
+314;John;Brown;10/6/1956 00:00;C;M;john42@mineriadedatos.com.ar;70000;3;2;'Estudios universitarios (en curso)';Profesional;1;1;'1283 Cowell Rd.';186-555-0112;'5-10 Km.';Norte;56;1
+3;Heather;Lin;15/4/1976 00:00;C;F;heather7@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;1;3;'4890 Heron Ct';'500 555-0116';'10+ Km.';Sur;37;1
+609;Hector;Hernandez;24/7/1956 00:00;C;M;hector2@mineriadedatos.com.ar;80000;2;0;'Educación secundaria (en curso)';'Obrero especializado';1;2;'9204 Lexington Road';914-555-0151;'5-10 Km.';Norte;56;1
+23;Destiny;Jones;11/5/1954 00:00;S;F;destiny3@mineriadedatos.com.ar;80000;2;0;'Estudios universitarios (en curso)';'Obrero especializado';1;2;'P. O. Box # 9257';'500 555-0154';'5-10 Km.';Sur;59;1
+310;April;Luo;9/9/1935 00:00;C;F;april5@mineriadedatos.com.ar;80000;4;0;'Estudios de postgrado';Gestión;1;2;'4575 Shannondale Drive';223-555-0162;'1-2 Km.';Norte;77;1
+536;Cara;Wu;1/7/1956 00:00;S;F;cara3@mineriadedatos.com.ar;70000;3;0;'Estudios universitarios (en curso)';Profesional;0;2;'415 Courthouse Drive';833-555-0143;'0-1 Km.';Norte;56;1
+55;Haley;Hernandez;17/8/1973 00:00;S;F;haley53@mineriadedatos.com.ar;50000;0;0;'Estudios de postgrado';'Obrero especializado';1;0;'1671 Via Del Verdes';120-555-0112;'0-1 Km.';Norte;39;1
+299;Sheila;Gutierrez;10/6/1961 00:00;C;F;sheila11@mineriadedatos.com.ar;110000;1;3;Licenciatura;Gestión;1;3;'3023 Adria Drive';551-555-0114;'2-5 Km.';Norte;51;1
+361;Gavin;Hughes;18/4/1956 00:00;S;M;gavin11@mineriadedatos.com.ar;80000;2;0;'Educación secundaria (en curso)';'Obrero especializado';0;2;'1597 Apple Dr.';774-555-0177;'1-2 Km.';Norte;57;1
+307;Katherine;Alexander;3/3/1957 00:00;C;F;katherine45@mineriadedatos.com.ar;90000;2;0;'Estudios universitarios (en curso)';Profesional;1;1;'3675 Q St.';638-555-0187;'2-5 Km.';Norte;56;1
+21;Carla;Rodriguez;11/7/1953 00:00;C;F;carla22@mineriadedatos.com.ar;40000;2;0;Licenciatura;Gestión;1;1;'7341 46th St.';'500 555-0167';'0-1 Km.';Sur;59;1
+276;Alan;Zeng;26/1/1970 00:00;S;M;alan26@mineriadedatos.com.ar;40000;2;2;'Estudios universitarios (en curso)';Administrativo;1;0;'6289 Duck Horn Court';'500 555-0117';'1-2 Km.';Centro;43;1
+337;Katherine;Patterson;11/4/1968 00:00;S;F;katherine36@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;1;'7306 Pastime Drive';670-555-0187;'0-1 Km.';Norte;45;1
+634;Brandon;Zhang;11/2/1962 00:00;C;M;brandon20@mineriadedatos.com.ar;60000;1;0;'Estudios universitarios (en curso)';'Obrero especializado';1;1;'8461 Everett Ct';822-555-0128;'2-5 Km.';Norte;51;1
+277;Bruce;Sara;4/7/1972 00:00;S;M;bruce9@mineriadedatos.com.ar;30000;0;0;'Educación secundaria';Obrero;0;1;'5237 Babel Lane';'500 555-0144';'1-2 Km.';Centro;40;1
+343;Benjamin;Taylor;9/7/1967 00:00;S;M;benjamin43@mineriadedatos.com.ar;60000;0;0;'Estudios de postgrado';Profesional;0;1;'2078 Jennifer Way';571-555-0135;'0-1 Km.';Norte;45;1
+329;Mariah;Russell;16/10/1967 00:00;S;F;mariah24@mineriadedatos.com.ar;40000;0;0;Licenciatura;Profesional;1;1;'2292 Springlake Drive';403-555-0138;'2-5 Km.';Norte;45;1
