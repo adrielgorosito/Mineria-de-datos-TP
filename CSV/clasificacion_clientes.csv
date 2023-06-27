@@ -1,0 +1,567 @@
+﻿IdCiudad;Nombre;Apellido;FechaNacimiento;EstadoCivil;Genero;Email;IngresoAnual;TotalHijos;CantHijosEnCasa;Educacion;Ocupacion;Propietario;CantAutomoviles;Direccion;Telefono;Distancia;Region;Edad;prediction(ComproBicicleta);$T-Bietápico;Tipo Bicicleta
+383;Marcus;Campbell;29364;S;M;marcus44@mineriadedatos.com.ar;100000;3;0;Licenciatura;GestiÃ³n;1;3;8819 Camino Norte;911-555-0178;2-5 Km.;Norte;32;1;Cluster-1;Basic
+311;Adriana;Malhotra;23856;C;F;adriana5@mineriadedatos.com.ar;80000;3;3;Licenciatura;Obrero especializado;1;3;1944 Serene Court;911-555-0122;10+ Km.;Norte;48;1;Cluster-2;Kinder y Sports
+32;Daisy;Navarro;20934;S;F;daisy6@mineriadedatos.com.ar;70000;2;0;EducaciÃ³n secundaria;Obrero especializado;0;2;7427 Grove Way;500 555-0120;1-2 Km.;Sur;56;1;Cluster-3;Basic
+553;Hunter;Li;21525;S;M;hunter21@mineriadedatos.com.ar;60000;1;0;Licenciatura;Profesional;1;1;2612 Berry Dr;402-555-0113;2-5 Km.;Norte;54;1;Cluster-1;Basic
+177;Ebony;Martinez;24020;S;F;ebony18@mineriadedatos.com.ar;20000;2;2;EducaciÃ³n secundaria;Obrero;1;0;Heideweg 1442;500 555-0165;0-1 Km.;Centro;47;1;Cluster-1;Basic
+244;Derrick;Moreno;26463;S;M;derrick6@mineriadedatos.com.ar;30000;0;0;EducaciÃ³n secundaria;Obrero;0;1;8942 Sierra Road;500 555-0195;1-2 Km.;Centro;40;1;Cluster-3;Basic
+162;Katie;Becker;26503;C;F;katie23@mineriadedatos.com.ar;40000;2;2;Estudios universitarios (en curso);Administrativo;1;0;Husemann StraÃŸe 2464;500 555-0140;1-2 Km.;Centro;40;1;Cluster-1;Basic
+307;Patricia;Rodriguez;23993;S;F;patricia21@mineriadedatos.com.ar;40000;0;0;Licenciatura;Profesional;1;1;417 Silver Oak Pl;152-555-0182;2-5 Km.;Norte;47;1;Cluster-1;Basic
+9;Jay;Martin;24740;C;M;jay29@mineriadedatos.com.ar;90000;4;4;Licenciatura;Profesional;1;0;8384 Potomac Drive;500 555-0160;0-1 Km.;Sur;45;1;Cluster-1;Basic
+39;Darryl;Liu;27540;S;M;darryl4@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;2;4404 Mildred Avenue;500 555-0157;5-10 Km.;Sur;37;1;Cluster-3;Basic
+209;Katelyn;Peterson;26684;S;F;katelyn3@mineriadedatos.com.ar;30000;0;0;Estudios universitarios (en curso);Administrativo;1;1;332  boulevard dÂ´Albi;500 555-0137;2-5 Km.;Centro;40;1;Cluster-1;Basic
+187;Bryan;Bell;24630;S;M;bryan14@mineriadedatos.com.ar;10000;3;3;EducaciÃ³n secundaria;Obrero;1;1;34  place Beaubernard;500 555-0171;0-1 Km.;Centro;45;1;Cluster-1;Basic
+23;Alexis;Long;28952;S;F;alexis32@mineriadedatos.com.ar;10000;1;1;EducaciÃ³n secundaria;Obrero;0;0;3376 Jacaranda Dr.;500 555-0174;1-2 Km.;Sur;34;1;Cluster-3;Basic
+133;Cynthia;Perez;20898;C;F;cynthia27@mineriadedatos.com.ar;130000;2;4;Estudios universitarios (en curso);Profesional;1;2;Im Himmelsweg 89;500 555-0142;0-1 Km.;Centro;56;1;Cluster-2;Kinder y Sports
+25;Seth;Campbell;25051;C;M;seth43@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;1;3639 Blackridge Drive;500 555-0180;0-1 Km.;Sur;44;1;Cluster-3;Basic
+369;Hannah;Price;27107;S;F;hannah23@mineriadedatos.com.ar;30000;0;0;Estudios universitarios (en curso);Obrero especializado;1;1;8586 D Kiska Ct.;657-555-0114;5-10 Km.;Norte;39;1;Cluster-1;Basic
+168;Meredith;Sai;22365;C;F;meredith4@mineriadedatos.com.ar;30000;4;0;Estudios de postgrado;Administrativo;1;0;Parkstr 4852;500 555-0158;0-1 Km.;Centro;52;1;Cluster-1;Basic
+634;Luke;Hernandez;22832;C;M;luke47@mineriadedatos.com.ar;70000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;5749 Elkwood Dr.;367-555-0120;2-5 Km.;Norte;50;1;Cluster-1;Basic
+22;Dana;Diaz;26024;C;F;dana19@mineriadedatos.com.ar;160000;4;5;EducaciÃ³n secundaria (en curso);GestiÃ³n;0;4;2241 Concord Place;500 555-0194;10+ Km.;Sur;42;1;Cluster-2;Kinder y Sports
+18;Cesar;Kapoor;20848;C;M;cesar1@mineriadedatos.com.ar;70000;2;0;EducaciÃ³n secundaria;Obrero especializado;1;2;6387 Scenic Avenue;500 555-0118;5-10 Km.;Sur;56;1;Cluster-1;Basic
+301;Clinton;Serrano;24082;C;M;clinton13@mineriadedatos.com.ar;110000;2;2;Licenciatura;GestiÃ³n;1;3;7700 Meaham Drive;158-555-0197;2-5 Km.;Norte;47;1;Cluster-2;Kinder y Sports
+22;Lacey;Pal;20136;S;F;lacey2@mineriadedatos.com.ar;80000;2;0;Estudios universitarios (en curso);Obrero especializado;0;2;6890 Highland Road;500 555-0197;1-2 Km.;Sur;58;1;Cluster-3;Basic
+245;Randall;Torres;23667;C;M;randall13@mineriadedatos.com.ar;40000;1;0;Licenciatura;Obrero especializado;1;0;2319 Hilltop Dr.;500 555-0160;0-1 Km.;Centro;48;1;Cluster-1;Basic
+50;Edward;Foster;25042;C;M;edward64@mineriadedatos.com.ar;90000;4;4;Licenciatura;GestiÃ³n;1;1;2106 Chilpancingo Pkwy.;829-555-0111;0-1 Km.;Norte;44;1;Cluster-2;Kinder y Sports
+20;Latoya;Nath;25639;S;F;latoya17@mineriadedatos.com.ar;90000;2;0;Licenciatura;Profesional;0;0;1362 Geary Road;500 555-0183;0-1 Km.;Sur;43;1;Cluster-3;Basic
+261;Sandra;Zhao;24294;C;F;sandra17@mineriadedatos.com.ar;40000;0;0;Licenciatura;Profesional;1;0;4698 G Street;500 555-0162;0-1 Km.;Centro;46;1;Cluster-1;Basic
+246;Kate;Jai;26445;S;F;kate9@mineriadedatos.com.ar;40000;2;2;Estudios universitarios (en curso);Administrativo;1;0;8307 Monument Blvd.;500 555-0150;0-1 Km.;Centro;40;1;Cluster-1;Basic
+322;Brianna;Moore;25254;C;F;brianna6@mineriadedatos.com.ar;50000;2;2;Licenciatura;Obrero especializado;1;0;2545 Crowe Place;590-555-0112;0-1 Km.;Norte;44;1;Cluster-1;Basic
+60;David;Powell;22377;C;M;david41@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;6774 Alier Drive;205-555-0184;2-5 Km.;Norte;52;1;Cluster-1;Basic
+7;Carrie;Munoz;27858;C;F;carrie7@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;1;3;5558 Kaitlin Pl.;500 555-0120;10+ Km.;Sur;37;1;Cluster-1;Basic
+70;Amanda;Collins;21626;C;F;amanda46@mineriadedatos.com.ar;550000;4;0;Estudios de postgrado;Obrero especializado;1;0;9663 East 38th St;806-555-0151;1-2 Km.;Norte;54;1;Cluster-2;Kinder y Sports
+185;Ruben;Chandra;25994;C;M;ruben2@mineriadedatos.com.ar;30000;0;0;EducaciÃ³n secundaria;Obrero;0;1;Midi-Couleurs;500 555-0180;1-2 Km.;Centro;42;1;Cluster-3;Basic
+312;Abigail;Jenkins;25308;S;F;abigail32@mineriadedatos.com.ar;50000;2;2;Licenciatura;Obrero especializado;0;0;4838 Second Street;135-555-0132;0-1 Km.;Norte;44;1;Cluster-3;Basic
+260;Jay;Sanz;21832;S;M;jay50@mineriadedatos.com.ar;30000;3;0;Estudios de postgrado;Administrativo;1;0;5591 Garcia Ranch Road;500 555-0159;0-1 Km.;Centro;53;1;Cluster-1;Basic
+34;Robin;Carlson;20664;C;F;robin14@mineriadedatos.com.ar;80000;2;0;EducaciÃ³n secundaria;Obrero especializado;1;2;4579 Glenside Drive;500 555-0170;5-10 Km.;Sur;56;1;Cluster-1;Basic
+31;Colin;Xu;22082;S;M;colin13@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;5133 Serrana Ct.;500 555-0179;5-10 Km.;Sur;52;1;Cluster-1;Basic
+641;Tyler;Robinson;25864;C;M;tyler16@mineriadedatos.com.ar;70000;3;0;Estudios de postgrado;Profesional;1;0;8069 Vine Hill Way;936-555-0175;2-5 Km.;Norte;42;1;Cluster-1;Basic
+151;Marvin;Browning;24039;C;M;marvin16@mineriadedatos.com.ar;40000;1;0;Licenciatura;Obrero especializado;1;0;Buergermeister-ulrich-str 098;500 555-0155;0-1 Km.;Centro;47;1;Cluster-1;Basic
+644;Brianna;Alexander;13959;C;F;brianna64@mineriadedatos.com.ar;90000;5;0;Licenciatura;GestiÃ³n;1;2;6608 Calle Verde Dr.;242-555-0137;5-10 Km.;Norte;75;1;Cluster-1;Basic
+40;Glenn;Wu;14715;C;M;glenn7@mineriadedatos.com.ar;40000;2;0;Licenciatura;GestiÃ³n;0;2;5934 Warmcastle Ct.;500 555-0127;0-1 Km.;Sur;73;1;Cluster-3;Basic
+300;Jada;Collins;24722;S;F;jada15@mineriadedatos.com.ar;70000;2;2;Licenciatura;Obrero especializado;1;1;1978 Medina Dr.;169-555-0194;2-5 Km.;Norte;45;1;Cluster-1;Basic
+254;Cindy;Garcia;16171;C;F;cindy15@mineriadedatos.com.ar;130000;3;4;Licenciatura;GestiÃ³n;1;4;1775 Chocolate Court;500 555-0178;0-1 Km.;Centro;69;1;Cluster-2;Kinder y Sports
+20;Meagan;Raman;26624;S;F;meagan12@mineriadedatos.com.ar;90000;0;0;Licenciatura;Profesional;1;3;5640 Icicle Way;500 555-0151;10+ Km.;Sur;40;1;Cluster-1;Basic
+36;Jarrod;Suri;23365;S;M;jarrod0@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;2;7265 Mt. Dell Dr.;500 555-0128;0-1 Km.;Sur;49;1;Cluster-3;Basic
+49;Kristi;Ramos;26724;C;F;kristi13@mineriadedatos.com.ar;70000;0;0;Estudios universitarios (en curso);Profesional;1;2;4594 Springer Court;187-555-0112;5-10 Km.;Norte;40;1;Cluster-1;Basic
+24;Sheena;Pal;22303;S;F;sheena10@mineriadedatos.com.ar;60000;1;0;Licenciatura;Profesional;1;1;4399 Price Lane;500 555-0169;5-10 Km.;Sur;52;1;Cluster-1;Basic
+383;David;Long;20775;C;M;david42@mineriadedatos.com.ar;80000;2;0;EducaciÃ³n secundaria (en curso);Obrero especializado;1;2;1180 Rhea Ct;415-555-0123;5-10 Km.;Norte;56;1;Cluster-1;Basic
+329;Taylor;Richardson;21936;C;F;taylor12@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;6369 Ellis Street;545-555-0144;2-5 Km.;Norte;53;1;Cluster-1;Basic
+623;Alyssa;Bailey;20915;C;F;alyssa33@mineriadedatos.com.ar;70000;2;0;EducaciÃ³n secundaria (en curso);Obrero especializado;1;2;8811 Lombardy Lane;715-555-0165;5-10 Km.;Norte;56;1;Cluster-1;Basic
+124;Brandy;Malhotra;26464;C;F;brandy0@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;1;1;Heiderplatz 789;500 555-0121;1-2 Km.;Centro;40;1;Cluster-1;Basic
+31;Marshall;She;25321;C;M;marshall21@mineriadedatos.com.ar;110000;1;0;Estudios de postgrado;GestiÃ³n;1;1;3140 Park Tree Ct;500 555-0120;5-10 Km.;Sur;44;1;Cluster-1;Basic
+13;Randy;Zheng;28935;C;M;randy22@mineriadedatos.com.ar;10000;0;0;Estudios universitarios (en curso);Obrero;0;1;4798 San Benito Dr.;500 555-0182;0-1 Km.;Sur;34;1;Cluster-3;Basic
+18;Luke;Foster;26524;C;M;luke5@mineriadedatos.com.ar;100000;0;5;EducaciÃ³n secundaria;GestiÃ³n;1;3;2024 Belle Dr;500 555-0115;10+ Km.;Sur;40;1;Cluster-2;Kinder y Sports
+10;Cristina;Tang;21499;C;F;cristina4@mineriadedatos.com.ar;100000;4;0;Licenciatura;GestiÃ³n;1;2;7223 Brush Creek Court;500 555-0188;0-1 Km.;Sur;54;1;Cluster-1;Basic
+300;Seth;Anderson;22422;C;M;seth10@mineriadedatos.com.ar;110000;1;3;Licenciatura;GestiÃ³n;1;3;8922 Lindley Ct.;485-555-0124;5-10 Km.;Norte;52;1;Cluster-2;Kinder y Sports
+361;Dalton;Washington;24420;C;M;dalton59@mineriadedatos.com.ar;70000;4;0;Estudios de postgrado;Profesional;1;0;4575 Pinehurst Court;914-555-0114;0-1 Km.;Norte;46;1;Cluster-1;Basic
+315;Xavier;Ramirez;25984;S;M;xavier73@mineriadedatos.com.ar;70000;3;0;Estudios de postgrado;Profesional;0;0;4451 Argonne Dr.;436-555-0119;0-1 Km.;Norte;42;1;Cluster-3;Basic
+24;Terry;Lal;22903;C;M;terry12@mineriadedatos.com.ar;60000;1;0;Licenciatura;Profesional;1;1;2241 V St.;500 555-0172;0-1 Km.;Sur;50;1;Cluster-1;Basic
+17;Jay;Arthur;26309;S;M;jay13@mineriadedatos.com.ar;120000;0;5;EducaciÃ³n secundaria (en curso);Profesional;1;4;5898 Mt. Dell;500 555-0169;10+ Km.;Sur;41;1;Cluster-2;Kinder y Sports
+241;Riley;Hayes;22810;S;F;riley19@mineriadedatos.com.ar;30000;1;0;Estudios universitarios (en curso);Administrativo;1;1;4766 Palm Ave;500 555-0110;2-5 Km.;Centro;50;1;Cluster-1;Basic
+59;Kayla;Flores;27168;S;F;kayla36@mineriadedatos.com.ar;50000;0;0;Estudios de postgrado;Obrero especializado;1;0;1956 Sequoia Dr.;797-555-0199;1-2 Km.;Norte;39;1;Cluster-1;Basic
+51;Kaylee;Phillips;22703;C;F;kaylee27@mineriadedatos.com.ar;70000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;531 Northridge Drive;745-555-0127;0-1 Km.;Norte;51;1;Cluster-1;Basic
+374;Megan;Moore;25259;C;F;megan11@mineriadedatos.com.ar;80000;3;0;Estudios de postgrado;Profesional;0;0;4612 Merriewood Drive;838-555-0114;0-1 Km.;Norte;44;1;Cluster-3;Basic
+25;Adrian;Watson;25706;S;M;adrian2@mineriadedatos.com.ar;90000;0;0;Licenciatura;Profesional;0;4;3205 Sierra Drive;500 555-0143;10+ Km.;Sur;43;1;Cluster-3;Basic
+38;Bob;Alan;26033;S;M;bob6@mineriadedatos.com.ar;100000;0;5;EducaciÃ³n secundaria;GestiÃ³n;1;4;2371 Deerfield Dr.;500 555-0179;10+ Km.;Sur;42;1;Cluster-2;Kinder y Sports
+2;Bryant;Perez;28146;S;M;bryant20@mineriadedatos.com.ar;20000;0;0;Estudios universitarios (en curso);Obrero;0;0;1502 Marion Ct.;500 555-0189;0-1 Km.;Sur;36;1;Cluster-3;Basic
+612;Linda;Hernandez;26726;C;F;linda18@mineriadedatos.com.ar;70000;0;0;Estudios universitarios (en curso);Profesional;1;2;582 Ofarrell Dr;591-555-0144;5-10 Km.;Norte;40;1;Cluster-1;Basic
+274;Kristen;Ye;23417;S;F;kristen8@mineriadedatos.com.ar;20000;3;3;EducaciÃ³n secundaria;Obrero;1;0;579 Meager Dr.;500 555-0146;0-1 Km.;Centro;49;1;Cluster-1;Basic
+190;Ramon;Zhao;26073;S;M;ramon10@mineriadedatos.com.ar;40000;2;2;Estudios universitarios (en curso);Administrativo;1;1;1234  rue Ste-HonorÃ©;500 555-0192;1-2 Km.;Centro;42;1;Cluster-1;Basic
+644;Hunter;Johnson;22254;C;M;hunter60@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;1958 Weaver Court;436-555-0161;2-5 Km.;Norte;52;1;Cluster-1;Basic
+355;Brittany;Foster;26393;C;F;brittany14@mineriadedatos.com.ar;70000;2;0;Estudios de postgrado;Profesional;1;0;2546 Woodchuck Pl;442-555-0178;2-5 Km.;Norte;41;1;Cluster-1;Basic
+39;Jason;Butler;20355;S;M;jason11@mineriadedatos.com.ar;80000;2;0;EducaciÃ³n secundaria;Obrero especializado;1;2;3608 Sinclair Avenue;500 555-0130;5-10 Km.;Sur;57;1;Cluster-1;Basic
+218;Misty;Yuan;25833;S;F;misty8@mineriadedatos.com.ar;30000;0;0;Licenciatura;Administrativo;1;0;11  rue du DÃ©part;500 555-0182;0-1 Km.;Centro;42;1;Cluster-1;Basic
+372;Maria;Ross;20962;C;F;maria27@mineriadedatos.com.ar;70000;2;0;EducaciÃ³n secundaria (en curso);Obrero especializado;1;2;7134 Oakwood Cir;669-555-0171;5-10 Km.;Norte;56;1;Cluster-1;Basic
+115;Alvin;Xu;22352;C;M;alvin12@mineriadedatos.com.ar;30000;4;0;Estudios de postgrado;Administrativo;1;0;Rehstr 1346;500 555-0115;0-1 Km.;Centro;52;1;Cluster-1;Basic
+211;Alvin;Liu;25853;C;M;alvin5@mineriadedatos.com.ar;30000;0;0;Licenciatura;Administrativo;0;0;4775 Imperial Dr.;500 555-0111;0-1 Km.;Centro;42;1;Cluster-3;Basic
+648;Austin;Flores;25212;C;M;austin8@mineriadedatos.com.ar;50000;2;2;Licenciatura;Obrero especializado;1;0;6940 Hilltop Dr;690-555-0141;2-5 Km.;Norte;44;1;Cluster-1;Basic
+627;Marcus;Brooks;22721;S;M;marcus75@mineriadedatos.com.ar;100000;1;2;Estudios universitarios (en curso);Profesional;0;3;7008 Buckingham Dr.;134-555-0197;1-2 Km.;Norte;51;1;Cluster-3;Basic
+26;Jon;Yang;24205;C;M;jon24@mineriadedatos.com.ar;90000;2;0;Licenciatura;Profesional;1;0;3761 N. 14th St;500 555-0162;1-2 Km.;Sur;47;1;Cluster-1;Basic
+52;Timothy;Morgan;22561;C;M;timothy14@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;3605 Sinclair Ave.;209-555-0183;2-5 Km.;Norte;51;1;Cluster-1;Basic
+177;Damien;He;23117;C;M;damien14@mineriadedatos.com.ar;20000;3;3;EducaciÃ³n secundaria;Obrero;1;1;Hellweg 4244;500 555-0141;0-1 Km.;Centro;50;1;Cluster-1;Basic
+374;Connor;Hernandez;20369;C;M;connor45@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;9340 Long Brook Way;141-555-0193;1-2 Km.;Norte;57;1;Cluster-1;Basic
+616;Miguel;Miller;21367;C;M;miguel5@mineriadedatos.com.ar;80000;5;4;Estudios de postgrado;Profesional;1;0;4293 Concord Ct.;397-555-0155;0-1 Km.;Norte;54;1;Cluster-1;Basic
+347;Kayla;Harrison;26821;C;F;kayla14@mineriadedatos.com.ar;40000;1;0;Estudios de postgrado;Obrero especializado;1;0;5966 El Molino Dr.;116-555-0154;1-2 Km.;Norte;39;1;Cluster-1;Basic
+246;Terrance;Jordan;21790;C;M;terrance1@mineriadedatos.com.ar;20000;2;0;Estudios universitarios (en curso);Obrero;1;1;112 Kathleen Drive;500 555-0145;0-1 Km.;Centro;53;1;Cluster-1;Basic
+10;Philip;Rubio;27876;S;M;philip20@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;2;3586 Everett Court;500 555-0147;10+ Km.;Sur;37;1;Cluster-3;Basic
+607;Abigail;Peterson;20867;C;F;abigail19@mineriadedatos.com.ar;70000;2;0;EducaciÃ³n secundaria (en curso);Obrero especializado;1;2;3886 Valencia Place;751-555-0198;5-10 Km.;Norte;56;1;Cluster-1;Basic
+635;Anna;Price;24980;S;F;anna25@mineriadedatos.com.ar;60000;2;2;Licenciatura;Obrero especializado;0;0;3884 Beauty Street;398-555-0123;0-1 Km.;Norte;45;1;Cluster-3;Basic
+203;Micheal;Suarez;24418;S;M;micheal15@mineriadedatos.com.ar;20000;1;1;EducaciÃ³n secundaria;Obrero;1;1;44  rue Saint Denis;500 555-0182;2-5 Km.;Centro;46;1;Cluster-1;Basic
+13;Monique;Navarro;19639;C;F;monique6@mineriadedatos.com.ar;40000;2;0;Licenciatura;GestiÃ³n;1;1;8486 Hazelwood Lane;500 555-0114;0-1 Km.;Sur;59;1;Cluster-1;Basic
+178;Tabitha;Jimenez;20343;C;F;tabitha25@mineriadedatos.com.ar;130000;3;4;Estudios universitarios (en curso);Profesional;1;3;Helsenbergbogen 6;500 555-0146;0-1 Km.;Centro;57;1;Cluster-2;Kinder y Sports
+239;Theodore;Vazquez;20221;C;M;theodore15@mineriadedatos.com.ar;130000;3;4;Estudios universitarios (en curso);Profesional;1;3;7490 Sharon Dr;500 555-0126;0-1 Km.;Centro;58;1;Cluster-2;Kinder y Sports
+23;Miguel;Wright;27967;S;M;miguel28@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;2;3070 Sahara Drive;500 555-0159;5-10 Km.;Sur;36;1;Cluster-3;Basic
+5;Lori;Moreno;23320;S;F;lori9@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;2;792 Myrtle Drive;500 555-0192;0-1 Km.;Sur;49;1;Cluster-3;Basic
+278;Alberto;Romero;24091;C;M;alberto10@mineriadedatos.com.ar;40000;1;0;Licenciatura;Obrero especializado;1;0;2348 Fruitwood;500 555-0133;0-1 Km.;Centro;47;1;Cluster-1;Basic
+310;Barry;Garcia;18495;S;M;barry15@mineriadedatos.com.ar;60000;2;1;Estudios universitarios (en curso);Profesional;0;1;3831 Golden Gate Way;774-555-0124;2-5 Km.;Norte;62;1;Cluster-3;Basic
+536;Audrey;Gill;19553;C;F;audrey15@mineriadedatos.com.ar;30000;1;0;Licenciatura;Obrero especializado;1;1;5989 Concord Ave;208-555-0186;1-2 Km.;Norte;59;1;Cluster-1;Basic
+312;Isaac;Ward;19126;S;M;isaac12@mineriadedatos.com.ar;70000;2;1;EducaciÃ³n secundaria (en curso);Obrero especializado;1;3;8380 Toyon Dr.;272-555-0189;10+ Km.;Norte;61;1;Cluster-1;Basic
+314;Hunter;Rodriguez;20032;C;M;hunter53@mineriadedatos.com.ar;80000;2;0;EducaciÃ³n secundaria (en curso);Obrero especializado;1;2;4343 Cook Street;996-555-0142;5-10 Km.;Norte;58;1;Cluster-1;Basic
+301;Heidi;Perez;24907;S;F;heidi24@mineriadedatos.com.ar;130000;1;0;Estudios de postgrado;GestiÃ³n;0;2;6110 Price Lane;904-555-0191;0-1 Km.;Norte;45;1;Cluster-3;Basic
+24;Marc;Alvarez;26164;C;M;marc8@mineriadedatos.com.ar;160000;5;5;EducaciÃ³n secundaria (en curso);GestiÃ³n;0;4;498 Willow Pass Rd;500 555-0181;10+ Km.;Sur;41;1;Cluster-2;Kinder y Sports
+20;Lacey;Li;21204;S;F;lacey15@mineriadedatos.com.ar;130000;0;0;Estudios de postgrado;GestiÃ³n;0;3;826 Coggins Dr.;500 555-0141;0-1 Km.;Sur;55;1;Cluster-3;Basic
+361;Kevin;Green;21224;C;M;kevin52@mineriadedatos.com.ar;60000;1;0;Licenciatura;Profesional;1;1;9475 Bellwood Dr.;147-555-0128;2-5 Km.;Norte;55;1;Cluster-1;Basic
+6;Kari;Sanz;28024;S;F;kari41@mineriadedatos.com.ar;80000;0;0;Licenciatura;Profesional;0;2;1884 Scottsdale Road;500 555-0142;10+ Km.;Sur;36;1;Cluster-3;Basic
+243;Gerald;Sai;21768;S;M;gerald35@mineriadedatos.com.ar;20000;2;0;Estudios universitarios (en curso);Obrero;1;1;7144 Flagstone Way;500 555-0182;2-5 Km.;Centro;53;1;Cluster-1;Basic
+361;Antonio;Price;20290;C;M;antonio0@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;4451 Carmel Dr.;652-555-0177;1-2 Km.;Norte;57;1;Cluster-1;Basic
+209;Stacey;Lu;23147;S;F;stacey12@mineriadedatos.com.ar;30000;3;3;Estudios universitarios (en curso);Administrativo;1;0;67  avenue de lÂ´ Union Centrale;500 555-0157;0-1 Km.;Centro;50;1;Cluster-1;Basic
+38;Edwin;Bhat;20877;S;M;edwin43@mineriadedatos.com.ar;80000;2;0;EducaciÃ³n secundaria;Profesional;0;2;4779 Scenic Dr.;500 555-0137;5-10 Km.;Sur;56;1;Cluster-3;Basic
+9;Lacey;Raje;25625;C;F;lacey4@mineriadedatos.com.ar;100000;0;5;EducaciÃ³n secundaria (en curso);Profesional;1;4;8986 Rubiem Ct;500 555-0115;10+ Km.;Sur;43;1;Cluster-2;Kinder y Sports
+345;Jose;Gonzalez;25632;C;M;jose44@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;1;0;3648 Willow Drive;655-555-0121;0-1 Km.;Norte;43;1;Cluster-1;Basic
+175;Daisy;Alonso;25671;C;F;daisy4@mineriadedatos.com.ar;40000;2;2;Estudios universitarios (en curso);Administrativo;1;0;Buergermeister-ulrich-str 4111;500 555-0126;1-2 Km.;Centro;43;1;Cluster-1;Basic
+263;Shawn;Deng;19604;C;M;shawn3@mineriadedatos.com.ar;150000;3;5;Licenciatura;GestiÃ³n;1;3;4678 Pelican Loop;500 555-0164;10+ Km.;Centro;59;1;Cluster-2;Kinder y Sports
+60;Ryan;Anderson;12408;C;M;ryan49@mineriadedatos.com.ar;50000;2;0;Estudios de postgrado;GestiÃ³n;1;2;9093 Gilardy Dr.;630-555-0121;5-10 Km.;Norte;79;1;Cluster-1;Basic
+20;Kristen;Hu;20624;S;F;kristen17@mineriadedatos.com.ar;80000;2;0;EducaciÃ³n secundaria;Obrero especializado;0;2;6049 Dalis Dr.;500 555-0112;1-2 Km.;Sur;56;1;Cluster-3;Basic
+226;Ricardo;Luo;20959;C;M;ricardo5@mineriadedatos.com.ar;100000;2;3;Estudios universitarios (en curso);Profesional;1;3;6  route de Marseille;500 555-0114;5-10 Km.;Centro;56;1;Cluster-2;Kinder y Sports
+69;Brandon;Perry;20377;S;M;brandon5@mineriadedatos.com.ar;90000;2;1;EducaciÃ³n secundaria;Profesional;1;1;384 Dayton Court;758-555-0120;10+ Km.;Norte;57;1;Cluster-1;Basic
+339;Lucas;Gonzalez;28722;S;M;lucas0@mineriadedatos.com.ar;60000;0;0;Estudios universitarios (en curso);Obrero especializado;1;2;304 Diver Way;213-555-0171;5-10 Km.;Norte;34;1;Cluster-1;Basic
+260;Tamara;Andersen;24275;C;F;tamara24@mineriadedatos.com.ar;40000;0;0;Licenciatura;Profesional;1;0;5047 Northwood Dr.;500 555-0133;0-1 Km.;Centro;46;1;Cluster-1;Basic
+211;Terrence;Anand;26036;S;M;terrence23@mineriadedatos.com.ar;40000;2;2;Estudios universitarios (en curso);Administrativo;1;1;9215  rue LÃ©o Delibes;500 555-0160;1-2 Km.;Centro;42;1;Cluster-1;Basic
+24;Katrina;Nara;26574;C;F;katrina15@mineriadedatos.com.ar;110000;0;5;EducaciÃ³n secundaria;GestiÃ³n;1;3;5828 E. 102nd Street;500 555-0135;10+ Km.;Sur;40;1;Cluster-2;Kinder y Sports
+310;Mariah;Coleman;24945;C;F;mariah10@mineriadedatos.com.ar;80000;0;0;Licenciatura;GestiÃ³n;0;1;9815 Marlboro Court;632-555-0154;0-1 Km.;Norte;45;1;Cluster-3;Basic
+536;Tamara;Nath;24363;S;F;tamara28@mineriadedatos.com.ar;70000;5;0;Estudios de postgrado;Profesional;1;0;4555 Hackney Lane;961-555-0131;2-5 Km.;Norte;46;1;Cluster-1;Basic
+314;Bryce;Peterson;25828;C;M;bryce5@mineriadedatos.com.ar;70000;4;0;Estudios de postgrado;Profesional;1;0;6451 Greenwood Pl.;492-555-0163;0-1 Km.;Norte;42;1;Cluster-1;Basic
+609;Jacquelyn;Saunders;21602;C;F;jacquelyn21@mineriadedatos.com.ar;80000;1;0;Estudios de postgrado;Profesional;1;0;1694 All Dr.;574-555-0154;0-1 Km.;Norte;54;1;Cluster-1;Basic
+199;Cesar;Garcia;25659;S;M;cesar14@mineriadedatos.com.ar;40000;2;2;Estudios universitarios (en curso);Administrativo;1;0;444  chaussÃ©e de Tournai;500 555-0119;1-2 Km.;Centro;43;1;Cluster-1;Basic
+211;Bradley;Nara;20756;C;M;bradley19@mineriadedatos.com.ar;20000;1;0;Licenciatura;Administrativo;1;0;2  avenue des Champs-ElysÃ©es;500 555-0174;0-1 Km.;Centro;56;1;Cluster-1;Basic
+307;Tamara;Chander;21757;C;F;tamara27@mineriadedatos.com.ar;80000;4;0;Estudios de postgrado;Profesional;1;0;6344 Dartmouth Way;112-555-0164;0-1 Km.;Norte;53;1;Cluster-1;Basic
+171;Roger;Sharma;24701;C;M;roger37@mineriadedatos.com.ar;40000;0;0;Licenciatura;Administrativo;1;0;Pflugstr 65;500 555-0174;0-1 Km.;Centro;45;1;Cluster-1;Basic
+326;Isabella;Jackson;27078;S;F;isabella67@mineriadedatos.com.ar;50000;0;0;Estudios universitarios (en curso);Obrero especializado;1;1;5028 Tanager Road;363-555-0165;5-10 Km.;Norte;39;1;Cluster-1;Basic
+147;Victor;Moreno;25196;S;M;victor8@mineriadedatos.com.ar;40000;0;0;Estudios de postgrado;Administrativo;1;0;Parkstr 42;500 555-0134;0-1 Km.;Centro;44;1;Cluster-1;Basic
+269;Wesley;Guo;27707;C;M;wesley17@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;1;0;9353 Kirkwood Dr.;500 555-0164;1-2 Km.;Centro;37;1;Cluster-1;Basic
+222;Candace;Perez;24882;C;F;candace19@mineriadedatos.com.ar;10000;3;3;EducaciÃ³n secundaria;Obrero;0;0;34  boulevard Tremblay;500 555-0124;0-1 Km.;Centro;45;1;Cluster-3;Basic
+36;Luis;Hill;20345;S;M;luis46@mineriadedatos.com.ar;80000;2;0;Estudios universitarios (en curso);Obrero especializado;1;2;5203 Foothill Way;500 555-0139;5-10 Km.;Sur;57;1;Cluster-1;Basic
+189;Noah;Long;22873;C;M;noah6@mineriadedatos.com.ar;30000;1;0;Estudios universitarios (en curso);Administrativo;1;1;1798 Norfolk Rd;500 555-0146;0-1 Km.;Centro;50;1;Cluster-1;Basic
+325;Marissa;Perry;24680;S;F;marissa5@mineriadedatos.com.ar;60000;0;0;Estudios de postgrado;Profesional;1;1;8021 Dallas Drive;162-555-0133;2-5 Km.;Norte;45;1;Cluster-1;Basic
+257;Molly;Srini;23171;S;F;molly8@mineriadedatos.com.ar;20000;3;3;EducaciÃ³n secundaria;Obrero;0;1;8066 Peach Place;500 555-0139;0-1 Km.;Centro;49;1;Cluster-3;Basic
+13;Roy;Suri;26025;C;M;roy0@mineriadedatos.com.ar;100000;0;5;EducaciÃ³n secundaria;GestiÃ³n;1;3;4557 Rolling Hill Way;500 555-0164;10+ Km.;Sur;42;1;Cluster-2;Kinder y Sports
+360;Jesse;Cook;25573;C;M;jesse22@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;1;1;2928 Harmony Way;213-555-0154;0-1 Km.;Norte;43;1;Cluster-1;Basic
+329;Don;Roessler;20523;C;M;don7@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;9737 Colt Ct.;316-555-0133;1-2 Km.;Norte;57;1;Cluster-1;Basic
+29;Brittney;Sun;29015;S;F;brittney12@mineriadedatos.com.ar;10000;1;1;EducaciÃ³n secundaria;Obrero;0;0;8856 Mt. Wilson Way;500 555-0155;1-2 Km.;Sur;33;1;Cluster-3;Basic
+209;Larry;Munoz;21135;C;M;larry9@mineriadedatos.com.ar;110000;2;4;Estudios universitarios (en curso);Profesional;1;3;Midi-Couleurs;500 555-0193;5-10 Km.;Centro;55;1;Cluster-2;Kinder y Sports
+616;Adam;Henderson;21424;C;M;adam3@mineriadedatos.com.ar;60000;1;0;Licenciatura;Profesional;1;1;9152 L St.;200-555-0144;0-1 Km.;Norte;54;1;Cluster-1;Basic
+135;Kelli;Sun;23169;C;F;kelli14@mineriadedatos.com.ar;40000;1;0;Licenciatura;Obrero especializado;1;0;Haberstr 46;500 555-0123;0-1 Km.;Centro;49;1;Cluster-1;Basic
+23;Julio;Serrano;29052;C;M;julio17@mineriadedatos.com.ar;20000;0;0;Licenciatura;Administrativo;1;0;1343 Prospect St;500 555-0143;0-1 Km.;Sur;33;1;Cluster-1;Basic
+26;Tyrone;Serrano;28704;S;M;tyrone15@mineriadedatos.com.ar;10000;0;0;Estudios universitarios (en curso);Obrero;1;1;3767 View Dr.;500 555-0176;2-5 Km.;Sur;34;1;Cluster-1;Basic
+274;Gregory;Goel;25178;S;M;gregory23@mineriadedatos.com.ar;30000;1;0;Licenciatura;Administrativo;0;0;1680 I St.;500 555-0152;0-1 Km.;Centro;44;1;Cluster-3;Basic
+170;Mitchell;Jai;25771;C;M;mitchell10@mineriadedatos.com.ar;30000;0;0;Licenciatura;Administrativo;1;0;Curieweg 5777;500 555-0113;0-1 Km.;Centro;42;1;Cluster-1;Basic
+200;Eddie;Serrano;19302;C;M;eddie16@mineriadedatos.com.ar;20000;2;0;Estudios universitarios (en curso);Obrero;1;1;81  cours Mirabeau;500 555-0186;2-5 Km.;Centro;60;1;Cluster-1;Basic
+300;Gary;Ramos;25494;C;M;gary28@mineriadedatos.com.ar;50000;2;2;Licenciatura;Obrero especializado;1;0;1342 Isla Bonita;880-555-0119;0-1 Km.;Norte;43;1;Cluster-1;Basic
+307;Barbara;Lu;22840;C;F;barbara21@mineriadedatos.com.ar;110000;1;3;Licenciatura;GestiÃ³n;1;2;9450 Almond Street;173-555-0168;5-10 Km.;Norte;50;1;Cluster-2;Kinder y Sports
+37;Regina;Arthur;27679;S;F;regina6@mineriadedatos.com.ar;90000;0;0;Licenciatura;Profesional;0;2;3796 Keller Ridge;500 555-0144;10+ Km.;Sur;37;1;Cluster-3;Basic
+335;Maria;Kelly;26857;S;F;maria21@mineriadedatos.com.ar;70000;0;0;Estudios universitarios (en curso);Profesional;0;2;3035 Blackfield Dr.;617-555-0184;0-1 Km.;Norte;39;1;Cluster-3;Basic
+3;Dustin;Sharma;20439;S;M;dustin9@mineriadedatos.com.ar;80000;2;0;EducaciÃ³n secundaria;Obrero especializado;0;2;4262 Monterey Ave.;500 555-0113;1-2 Km.;Sur;57;1;Cluster-3;Basic
+235;Lindsey;Tang;26342;S;F;lindsey4@mineriadedatos.com.ar;30000;0;0;EducaciÃ³n secundaria;Obrero;0;1;6200 Mt. Pisgah;500 555-0120;1-2 Km.;Centro;41;1;Cluster-3;Basic
+546;Maria;Rogers;19642;C;F;maria3@mineriadedatos.com.ar;30000;1;0;Estudios universitarios (en curso);Administrativo;1;1;7954 Monument Blvd;801-555-0117;2-5 Km.;Norte;59;1;Cluster-1;Basic
+31;Richard;Lee;28964;S;M;richard16@mineriadedatos.com.ar;10000;0;0;Estudios universitarios (en curso);Obrero;0;1;7757 O Ct;500 555-0130;0-1 Km.;Sur;34;1;Cluster-3;Basic
+150;Kristi;Saunders;25914;C;F;kristi16@mineriadedatos.com.ar;10000;2;2;EducaciÃ³n secundaria;Obrero;1;0;Zollstr 62;500 555-0187;0-1 Km.;Centro;42;1;Cluster-1;Basic
+644;Chase;Rogers;20402;S;M;chase20@mineriadedatos.com.ar;80000;2;0;EducaciÃ³n secundaria (en curso);Obrero especializado;0;2;1862 Court Lane;713-555-0135;1-2 Km.;Norte;57;1;Cluster-3;Basic
+120;Jon;Chander;21007;C;M;jon12@mineriadedatos.com.ar;130000;2;4;Estudios universitarios (en curso);Profesional;1;2;Auf Der Steige 123;500 555-0170;0-1 Km.;Centro;55;1;Cluster-2;Kinder y Sports
+3;Lori;Blanco;25690;C;F;lori16@mineriadedatos.com.ar;100000;0;5;EducaciÃ³n secundaria (en curso);Profesional;1;4;6966 Eaker Way;500 555-0118;10+ Km.;Sur;43;1;Cluster-2;Kinder y Sports
+249;Dominic;Madan;19870;S;M;dominic7@mineriadedatos.com.ar;130000;4;5;EducaciÃ³n secundaria;Profesional;0;1;9680 Hungry Road;500 555-0166;0-1 Km.;Centro;58;1;Cluster-2;Kinder y Sports
+13;Monique;Blanco;15985;S;F;monique12@mineriadedatos.com.ar;40000;2;0;Licenciatura;GestiÃ³n;1;2;6658 Rheem Blvd;500 555-0125;5-10 Km.;Sur;69;1;Cluster-1;Basic
+23;Alison;Kumar;22404;S;F;alison7@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;5847 W. Buchanan;500 555-0170;5-10 Km.;Sur;52;1;Cluster-1;Basic
+307;Hunter;Hernandez;19546;C;M;hunter44@mineriadedatos.com.ar;70000;3;0;Estudios de postgrado;GestiÃ³n;1;2;3861 Las Lomas Way;115-555-0196;5-10 Km.;Norte;59;1;Cluster-1;Basic
+170;Nicolas;Nara;25402;C;M;nicolas15@mineriadedatos.com.ar;40000;0;0;Estudios de postgrado;Administrativo;1;0;Galeriestr 6267;500 555-0174;0-1 Km.;Centro;43;1;Cluster-1;Basic
+68;Mya;Russell;17192;C;F;mya20@mineriadedatos.com.ar;40000;2;1;EducaciÃ³n secundaria;Profesional;0;2;3797 Mt. Wilson Way;891-555-0132;2-5 Km.;Norte;66;1;Cluster-3;Basic
+315;Jack;Flores;19068;S;M;jack12@mineriadedatos.com.ar;70000;2;1;EducaciÃ³n secundaria (en curso);Obrero especializado;1;2;279 Inverness Drive;737-555-0162;10+ Km.;Norte;61;1;Cluster-1;Basic
+232;Barry;Rana;23320;C;M;barry12@mineriadedatos.com.ar;40000;1;0;Licenciatura;Obrero especializado;1;0;8434 Kenmore;500 555-0127;0-1 Km.;Centro;49;1;Cluster-1;Basic
+335;Amanda;Sanders;22830;C;F;amanda20@mineriadedatos.com.ar;70000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;1456 Bouncing Road;231-555-0134;2-5 Km.;Norte;50;1;Cluster-1;Basic
+279;Jessica;Patterson;21315;S;F;jessica35@mineriadedatos.com.ar;170000;2;3;Licenciatura;GestiÃ³n;0;2;2681 Woodside Way;500 555-0117;0-1 Km.;Centro;55;1;Cluster-2;Kinder y Sports
+133;Bailey;King;21819;C;F;bailey39@mineriadedatos.com.ar;20000;2;0;Estudios universitarios (en curso);Obrero;1;1;Marketplatz 5492;500 555-0183;0-1 Km.;Centro;53;1;Cluster-1;Basic
+154;Brandi;Carlson;23441;S;F;brandi17@mineriadedatos.com.ar;20000;3;3;EducaciÃ³n secundaria;Obrero;1;0;Buergermeister-ulrich-str 5;500 555-0120;0-1 Km.;Centro;49;1;Cluster-1;Basic
+129;Bradley;Tang;25461;S;M;bradley6@mineriadedatos.com.ar;40000;0;0;Estudios de postgrado;Administrativo;0;0;Haberstr 77;500 555-0197;0-1 Km.;Centro;43;1;Cluster-3;Basic
+11;Ann;Martinez;21035;S;F;ann22@mineriadedatos.com.ar;80000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;8794 Seagull Court;500 555-0189;5-10 Km.;Sur;55;1;Cluster-1;Basic
+553;Shelby;Richardson;19794;C;F;shelby10@mineriadedatos.com.ar;30000;1;0;EducaciÃ³n secundaria;Administrativo;1;1;8403 Reality Drive;927-555-0154;5-10 Km.;Norte;59;1;Cluster-1;Basic
+307;Edgar;Patel;13476;C;M;edgar3@mineriadedatos.com.ar;70000;4;0;Estudios de postgrado;GestiÃ³n;1;2;1639 Atchinson Stage Ct.;529-555-0113;5-10 Km.;Norte;76;1;Cluster-1;Basic
+16;Colin;Zhu;25856;C;M;colin15@mineriadedatos.com.ar;90000;0;0;Licenciatura;Profesional;0;4;3788 Bahia Vista Court;500 555-0114;10+ Km.;Sur;42;1;Cluster-3;Basic
+154;Philip;Moreno;26073;S;M;philip6@mineriadedatos.com.ar;30000;0;0;EducaciÃ³n secundaria;Obrero;0;1;Im Himmelsweg 98;500 555-0135;2-5 Km.;Centro;42;1;Cluster-3;Basic
+28;Tasha;Shan;21848;S;F;tasha11@mineriadedatos.com.ar;130000;0;1;Estudios de postgrado;GestiÃ³n;0;3;2552 Palm Ave;500 555-0149;0-1 Km.;Sur;53;1;Cluster-3;Basic
+273;Carla;Martinez;16805;C;F;carla20@mineriadedatos.com.ar;170000;4;4;Licenciatura;GestiÃ³n;1;3;55 St. George Dr.;500 555-0150;0-1 Km.;Centro;67;1;Cluster-2;Kinder y Sports
+121;David;Jenkins;21890;C;M;david39@mineriadedatos.com.ar;20000;2;0;Estudios universitarios (en curso);Obrero;1;1;Kalkweg 4425;500 555-0162;0-1 Km.;Centro;53;1;Cluster-1;Basic
+24;Toni;Rodriguez;20993;S;F;toni20@mineriadedatos.com.ar;70000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;5007 Castle Rock Rd.;500 555-0114;5-10 Km.;Sur;55;1;Cluster-1;Basic
+273;Linda;Carlson;21813;C;F;linda33@mineriadedatos.com.ar;30000;0;0;Licenciatura;Administrativo;1;0;6696 Adria Drive;500 555-0140;0-1 Km.;Centro;53;1;Cluster-1;Basic
+325;Isabella;Johnson;22302;C;F;isabella58@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;2251 Temple Drive;941-555-0186;2-5 Km.;Norte;52;1;Cluster-1;Basic
+31;Michele;Xie;28220;S;F;michele3@mineriadedatos.com.ar;10000;1;1;EducaciÃ³n secundaria;Obrero;0;0;4951 Coralie Drive;500 555-0140;1-2 Km.;Sur;36;1;Cluster-3;Basic
+5;Katie;Kumar;28012;C;F;katie10@mineriadedatos.com.ar;80000;0;0;Licenciatura;Profesional;1;2;1463 Lincoln Dr;500 555-0140;10+ Km.;Sur;36;1;Cluster-1;Basic
+337;Janet;Scott;19589;S;F;janet33@mineriadedatos.com.ar;70000;3;0;Estudios de postgrado;GestiÃ³n;1;2;2616 Northridge Drive;422-555-0144;5-10 Km.;Norte;59;1;Cluster-1;Basic
+542;Allison;Campbell;22415;C;F;allison29@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;45 Landing Terrace;735-555-0181;2-5 Km.;Norte;52;1;Cluster-1;Basic
+638;Rebecca;Mitchell;19991;C;F;rebecca13@mineriadedatos.com.ar;30000;1;0;EducaciÃ³n secundaria;Obrero;1;1;9809 St. Germain Lane;337-555-0114;5-10 Km.;Norte;58;1;Cluster-1;Basic
+20;Jessie;Ortega;24894;C;F;jessie41@mineriadedatos.com.ar;60000;2;2;Licenciatura;Profesional;1;1;230 Daisy Way;500 555-0131;0-1 Km.;Sur;45;1;Cluster-1;Basic
+315;Allison;Howard;21352;C;F;allison10@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;8788 Green Leaf Drive;548-555-0110;0-1 Km.;Norte;54;1;Cluster-1;Basic
+374;Samantha;Davis;23514;C;F;samantha6@mineriadedatos.com.ar;160000;1;1;Licenciatura;GestiÃ³n;1;3;5972 Boxwood Dr.;805-555-0198;0-1 Km.;Norte;49;1;Cluster-2;Kinder y Sports
+23;Tabitha;Prasad;22831;C;F;tabitha7@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;5778 Hames Dr.;500 555-0130;5-10 Km.;Sur;50;1;Cluster-1;Basic
+301;Shannon;Huang;19780;C;F;shannon6@mineriadedatos.com.ar;30000;1;0;EducaciÃ³n secundaria;Administrativo;1;1;4679 Duke Way;458-555-0116;2-5 Km.;Norte;59;1;Cluster-1;Basic
+262;Morgan;Thompson;22438;S;F;morgan37@mineriadedatos.com.ar;30000;3;0;Estudios de postgrado;Administrativo;1;0;9173 Jill Ave;500 555-0111;0-1 Km.;Centro;51;1;Cluster-1;Basic
+120;Claudia;Zhao;25116;S;F;claudia9@mineriadedatos.com.ar;40000;0;0;Estudios de postgrado;Administrativo;1;0;LÃ¼tzowplatz 5928;500 555-0141;0-1 Km.;Centro;44;1;Cluster-1;Basic
+20;Suzanne;Sun;27647;C;F;suzanne14@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;1;2;7023 Stallion Way;500 555-0157;10+ Km.;Sur;37;1;Cluster-1;Basic
+212;Paula;Navarro;26777;S;F;paula13@mineriadedatos.com.ar;30000;0;0;EducaciÃ³n secundaria;Obrero;0;1;6  route de Marseille;500 555-0137;2-5 Km.;Centro;40;1;Cluster-3;Basic
+632;Kelly;Foster;20670;C;F;kelly21@mineriadedatos.com.ar;70000;3;0;Estudios universitarios (en curso);Profesional;0;2;920 Broadway;847-555-0163;5-10 Km.;Norte;56;1;Cluster-3;Basic
+221;Willie;He;24588;C;M;willie17@mineriadedatos.com.ar;20000;1;1;Estudios universitarios (en curso);Obrero;1;1;11  rue du Puits Dixme;500 555-0159;2-5 Km.;Centro;46;1;Cluster-1;Basic
+612;Grant;She;24971;S;M;grant2@mineriadedatos.com.ar;70000;2;2;Licenciatura;Obrero especializado;0;1;5234 Martindale;588-555-0164;0-1 Km.;Norte;45;1;Cluster-3;Basic
+150;Nelson;Serrano;25013;S;M;nelson15@mineriadedatos.com.ar;40000;0;0;Estudios de postgrado;Administrativo;0;0;Conesweg 9;500 555-0172;0-1 Km.;Centro;44;1;Cluster-3;Basic
+221;Grace;Bell;26156;S;F;grace30@mineriadedatos.com.ar;30000;0;0;EducaciÃ³n secundaria;Obrero;0;1;81  route de Marseille;500 555-0118;2-5 Km.;Centro;41;1;Cluster-3;Basic
+7;Manuel;Fernandez;29231;S;M;manuel14@mineriadedatos.com.ar;10000;0;0;Estudios universitarios (en curso);Obrero;1;1;251 Ravenwood Dr.;500 555-0117;1-2 Km.;Sur;33;1;Cluster-1;Basic
+36;Edwin;Zhang;22762;S;M;edwin0@mineriadedatos.com.ar;70000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;5993 Baywood Drive;500 555-0118;5-10 Km.;Sur;51;1;Cluster-1;Basic
+51;Nathan;Hughes;18863;C;M;nathan7@mineriadedatos.com.ar;70000;2;1;EducaciÃ³n secundaria;Profesional;1;2;1771 Coastal Blvd.;334-555-0173;10+ Km.;Norte;61;1;Cluster-1;Basic
+237;Kendra;Sanz;22021;S;F;kendra20@mineriadedatos.com.ar;30000;3;0;Licenciatura;Administrativo;1;0;9525 Akyn Rock Dr.;500 555-0160;0-1 Km.;Centro;53;1;Cluster-1;Basic
+215;Andres;Jai;20398;C;M;andres8@mineriadedatos.com.ar;90000;2;1;EducaciÃ³n secundaria;Profesional;1;2;625  rue Basse-du-Rocher;500 555-0169;2-5 Km.;Centro;57;1;Cluster-1;Basic
+241;Shawn;Nara;27693;C;M;shawn18@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;1;0;5497 Brandywine Way;500 555-0170;1-2 Km.;Centro;37;1;Cluster-1;Basic
+334;Victoria;Walker;24437;C;F;victoria22@mineriadedatos.com.ar;130000;0;1;Estudios de postgrado;GestiÃ³n;1;3;5961 Crowe Pl.;465-555-0152;0-1 Km.;Norte;46;1;Cluster-2;Kinder y Sports
+161;Adrian;Morris;19954;C;M;adrian19@mineriadedatos.com.ar;80000;3;2;Estudios universitarios (en curso);Profesional;1;1;Bundesallee 6234;500 555-0146;2-5 Km.;Centro;58;1;Cluster-1;Basic
+547;Seth;Bell;21110;C;M;seth85@mineriadedatos.com.ar;70000;2;0;EducaciÃ³n secundaria (en curso);Obrero especializado;1;2;5445 Tice Valley Blvd.;737-555-0162;5-10 Km.;Norte;55;1;Cluster-1;Basic
+352;Connor;Griffin;20340;C;M;connor15@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;400 Matterhorn Court;526-555-0175;1-2 Km.;Norte;57;1;Cluster-1;Basic
+607;Angela;Long;19777;S;F;angela12@mineriadedatos.com.ar;70000;2;0;EducaciÃ³n secundaria (en curso);Obrero especializado;0;2;1727 The Trees Drive;308-555-0112;1-2 Km.;Norte;59;1;Cluster-3;Basic
+4;Luke;Kumar;29255;C;M;luke17@mineriadedatos.com.ar;10000;0;0;Estudios universitarios (en curso);Obrero;1;1;4882 Darlene Drive;500 555-0117;2-5 Km.;Sur;33;1;Cluster-1;Basic
+254;Gerald;Madan;22439;S;M;gerald37@mineriadedatos.com.ar;30000;3;0;Estudios de postgrado;Administrativo;1;0;109 Clayton Road;500 555-0120;0-1 Km.;Centro;51;1;Cluster-1;Basic
+220;Taylor;Henderson;19864;S;F;taylor30@mineriadedatos.com.ar;90000;4;2;EducaciÃ³n secundaria;Profesional;1;1;253  rue Lamarck;500 555-0179;10+ Km.;Centro;59;1;Cluster-1;Basic
+251;Gerald;Gomez;22538;S;M;gerald9@mineriadedatos.com.ar;30000;3;0;Estudios de postgrado;Administrativo;1;0;5900 May Rd;500 555-0132;0-1 Km.;Centro;51;1;Cluster-1;Basic
+32;Jimmy;Moreno;17157;C;M;jimmy9@mineriadedatos.com.ar;30000;2;0;Estudios universitarios (en curso);Administrativo;1;2;6385 Mark Twain;500 555-0146;1-2 Km.;Sur;66;1;Cluster-1;Basic
+641;Garrett;Murphy;24768;S;M;garrett19@mineriadedatos.com.ar;40000;0;0;Licenciatura;Profesional;0;1;9186 West Boyd Rd.;344-555-0111;2-5 Km.;Norte;45;1;Cluster-3;Basic
+311;Russell;Jai;26156;C;M;russell14@mineriadedatos.com.ar;70000;3;0;Estudios de postgrado;Profesional;1;0;2728 River Ash Court;797-555-0152;0-1 Km.;Norte;41;1;Cluster-1;Basic
+644;Maria;Phillips;14476;S;F;maria49@mineriadedatos.com.ar;70000;5;0;Estudios de postgrado;GestiÃ³n;1;2;2650 Portside Ct;275-555-0132;10+ Km.;Norte;73;1;Cluster-1;Basic
+26;Brooke;James;21111;C;F;brooke8@mineriadedatos.com.ar;70000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;6140 Scenic Drive;500 555-0127;5-10 Km.;Sur;55;1;Cluster-1;Basic
+192;Keith;Xie;25458;S;M;keith5@mineriadedatos.com.ar;30000;0;0;Licenciatura;Administrativo;0;0;15  rue Basse-du-Rocher;500 555-0148;0-1 Km.;Centro;43;1;Cluster-3;Basic
+618;Anna;Thomas;22776;C;F;anna48@mineriadedatos.com.ar;70000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;6189 Kirkwood Ct.;323-555-0116;0-1 Km.;Norte;51;1;Cluster-1;Basic
+644;Blake;Moore;24644;C;M;blake7@mineriadedatos.com.ar;70000;2;2;Licenciatura;Obrero especializado;1;1;1245 Clay Road;485-555-0144;2-5 Km.;Norte;45;1;Cluster-1;Basic
+258;Alvin;Luo;17984;C;M;alvin28@mineriadedatos.com.ar;160000;4;5;EducaciÃ³n secundaria;GestiÃ³n;1;4;2860 Mt. Tank Circle;500 555-0113;0-1 Km.;Centro;64;1;Cluster-2;Kinder y Sports
+300;Beth;Sanz;22829;C;F;beth22@mineriadedatos.com.ar;110000;1;3;Licenciatura;GestiÃ³n;1;2;7207 St. Andrews Way;570-555-0136;1-2 Km.;Norte;50;1;Cluster-2;Kinder y Sports
+17;Karl;Rai;15862;C;M;karl18@mineriadedatos.com.ar;60000;2;0;Estudios de postgrado;GestiÃ³n;0;1;9436 Oakmead;500 555-0175;1-2 Km.;Sur;69;1;Cluster-3;Basic
+9;Gloria;Alvarez;23249;S;F;gloria6@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;2;8373 Endriss;500 555-0142;5-10 Km.;Sur;49;1;Cluster-3;Basic
+298;Jessie;Vazquez;20525;S;F;jessie33@mineriadedatos.com.ar;90000;2;1;Estudios universitarios (en curso);Profesional;1;1;6483 Crystal Ave.;773-555-0121;5-10 Km.;Norte;57;1;Cluster-1;Basic
+623;Christina;Reed;25648;C;F;christina19@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;1;1;9206 Listing Ct.;972-555-0157;0-1 Km.;Norte;43;1;Cluster-1;Basic
+135;Ricky;Torres;26080;S;M;ricky12@mineriadedatos.com.ar;30000;0;0;EducaciÃ³n secundaria;Obrero;0;1;Postfach 66 16 16;500 555-0145;2-5 Km.;Centro;41;1;Cluster-3;Basic
+32;Willie;Deng;28258;C;M;willie21@mineriadedatos.com.ar;10000;1;1;EducaciÃ³n secundaria;Obrero;0;0;5990 Curletto Drive;500 555-0143;1-2 Km.;Sur;36;1;Cluster-3;Basic
+146;Clinton;Alonso;27015;C;M;clinton5@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;1;1;HÃ¼ttenstr 8095;500 555-0165;0-1 Km.;Centro;39;1;Cluster-1;Basic
+218;Heather;Zhu;22139;C;F;heather13@mineriadedatos.com.ar;30000;3;0;Estudios de postgrado;Administrativo;1;0;51  rue Henri Gagnon;500 555-0199;0-1 Km.;Centro;52;1;Cluster-1;Basic
+159;Crystal;Zhang;26751;C;F;crystal2@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;1;1;Postfach 99 92 92;500 555-0133;1-2 Km.;Centro;40;1;Cluster-1;Basic
+307;Sophia;Turner;24251;C;F;sophia3@mineriadedatos.com.ar;80000;0;0;Estudios de postgrado;Obrero especializado;1;0;1646 Seal Way;340-555-0188;1-2 Km.;Norte;46;1;Cluster-1;Basic
+69;Natalie;Hill;25321;C;F;natalie65@mineriadedatos.com.ar;60000;2;2;Licenciatura;Obrero especializado;1;0;1397 Paradiso Ct.;894-555-0196;2-5 Km.;Norte;44;1;Cluster-1;Basic
+255;Dawn;Wu;25904;S;F;dawn8@mineriadedatos.com.ar;40000;2;2;Estudios universitarios (en curso);Administrativo;1;0;6344 St Paul Way;500 555-0139;1-2 Km.;Centro;42;1;Cluster-1;Basic
+212;Cindy;Weber;25486;S;F;cindy4@mineriadedatos.com.ar;40000;0;0;Estudios de postgrado;Administrativo;1;0;8344  rue de la Centenaire;500 555-0169;0-1 Km.;Centro;43;1;Cluster-1;Basic
+234;Brett;Sanchez;21863;C;M;brett20@mineriadedatos.com.ar;30000;0;0;Licenciatura;Administrativo;1;0;3260 Fountainhead Court;500 555-0122;0-1 Km.;Centro;53;1;Cluster-1;Basic
+299;Neil;Carlson;21480;C;M;neil17@mineriadedatos.com.ar;40000;2;0;Estudios universitarios (en curso);Administrativo;1;1;4496 Stroer Lane;296-555-0176;0-1 Km.;Norte;54;1;Cluster-1;Basic
+257;Kelsey;Kennedy;19829;S;F;kelsey7@mineriadedatos.com.ar;10000;2;0;Estudios universitarios (en curso);Obrero;0;1;7660 Willow Creek Ct.;500 555-0140;0-1 Km.;Centro;59;1;Cluster-3;Basic
+183;Alejandro;Ma;20180;S;M;alejandro19@mineriadedatos.com.ar;90000;2;1;EducaciÃ³n secundaria;Profesional;1;2;1010  impasse Notre-Dame;500 555-0117;10+ Km.;Centro;58;1;Cluster-1;Basic
+211;Erik;Sanz;25122;C;M;erik20@mineriadedatos.com.ar;40000;0;0;Estudios de postgrado;Administrativo;1;0;22  rue du DÃ©part;500 555-0128;0-1 Km.;Centro;44;1;Cluster-1;Basic
+232;Shawna;Jai;21877;C;F;shawna12@mineriadedatos.com.ar;20000;2;0;Estudios universitarios (en curso);Obrero;1;1;5253 Big Canyon Rd.;500 555-0177;0-1 Km.;Centro;53;1;Cluster-1;Basic
+19;Kristine;Sandberg;29165;S;F;kristine21@mineriadedatos.com.ar;10000;0;0;Estudios universitarios (en curso);Obrero;0;1;6141 Race Road;500 555-0182;0-1 Km.;Sur;33;1;Cluster-3;Basic
+64;Arianna;Flores;26839;C;F;arianna10@mineriadedatos.com.ar;40000;0;0;Estudios de postgrado;Obrero especializado;1;0;4082 Shell Ct;580-555-0124;1-2 Km.;Norte;39;1;Cluster-1;Basic
+616;Jack;Mitchell;17951;C;M;jack47@mineriadedatos.com.ar;1000000;2;1;Estudios universitarios (en curso);Profesional;0;2;4160 Saranap;449-555-0192;2-5 Km.;Norte;64;1;Cluster-2;Kinder y Sports
+176;Raymond;Sam;26332;S;M;raymond1@mineriadedatos.com.ar;30000;0;0;EducaciÃ³n secundaria;Obrero;1;1;Kalkweg 43;313-555-0100;2-5 Km.;Centro;41;1;Cluster-1;Basic
+325;Katherine;Coleman;26714;C;F;katherine31@mineriadedatos.com.ar;40000;1;0;Estudios de postgrado;Obrero especializado;1;0;8120 E Lane;204-555-0163;0-1 Km.;Norte;40;1;Cluster-1;Basic
+310;Brendan;Lal;26856;S;M;brendan7@mineriadedatos.com.ar;40000;1;0;Estudios de postgrado;Obrero especializado;1;0;651 Bridgeview St;660-555-0111;1-2 Km.;Norte;39;1;Cluster-1;Basic
+161;Zachary;Martinez;19613;C;M;zachary48@mineriadedatos.com.ar;120000;3;5;Licenciatura;GestiÃ³n;1;2;Herzogstr 4662;500 555-0190;10+ Km.;Centro;59;1;Cluster-2;Kinder y Sports
+31;Savannah;Scott;16965;C;F;savannah36@mineriadedatos.com.ar;30000;2;0;Estudios universitarios (en curso);Administrativo;0;2;7061 Eaker Way;500 555-0128;5-10 Km.;Sur;66;1;Cluster-3;Basic
+239;Jake;Wu;25496;S;M;jake7@mineriadedatos.com.ar;40000;0;0;Estudios de postgrado;Administrativo;0;0;7522 Santa Ana Drive;500 555-0122;0-1 Km.;Centro;43;1;Cluster-3;Basic
+358;Riley;Stewart;22023;C;F;riley40@mineriadedatos.com.ar;160000;1;3;Estudios universitarios (en curso);Profesional;0;3;2369 Teak St.;618-555-0117;2-5 Km.;Norte;53;1;Cluster-2;Kinder y Sports
+299;Raymond;Suri;23149;C;M;raymond2@mineriadedatos.com.ar;100000;0;2;Estudios universitarios (en curso);Profesional;1;2;8245 Pinehurst Court;585-555-0180;2-5 Km.;Norte;50;1;Cluster-1;Basic
+37;Raymond;Arthur;24281;C;M;raymond8@mineriadedatos.com.ar;100000;0;0;Estudios de postgrado;GestiÃ³n;1;0;5643 Palms Dr.;500 555-0164;2-5 Km.;Sur;46;1;Cluster-1;Basic
+10;Carla;Sanchez;24799;C;F;carla23@mineriadedatos.com.ar;90000;4;4;Licenciatura;Profesional;1;0;8830 Versailles Pl;500 555-0121;0-1 Km.;Sur;45;1;Cluster-1;Basic
+237;Andres;Raje;27341;C;M;andres11@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;1;0;6296 Elmonte Drive;500 555-0183;1-2 Km.;Centro;38;1;Cluster-1;Basic
+37;Ernest;Zhao;25117.04167;S;M;ernest10@mineriadedatos.com.ar;60000;2;2;Licenciatura;Profesional;0;1;1162 Relief Valley Ct;500 555-0174;0-1 Km.;Sur;44;1;Cluster-3;Basic
+302;Samuel;Simmons;26711;C;M;samuel14@mineriadedatos.com.ar;40000;1;0;Estudios de postgrado;Obrero especializado;1;0;7318 Lavene Way;991-555-0133;0-1 Km.;Norte;40;1;Cluster-1;Basic
+191;Terrence;Deng;24156;S;M;terrence2@mineriadedatos.com.ar;30000;2;2;Estudios universitarios (en curso);Obrero;1;0;995  rue de Courtaboeuf;500 555-0158;0-1 Km.;Centro;47;1;Cluster-1;Basic
+310;Dylan;Bryant;24879;S;M;dylan17@mineriadedatos.com.ar;60000;0;0;Licenciatura;Profesional;0;1;4645 Mehaffey Way;161-555-0181;2-5 Km.;Norte;45;1;Cluster-3;Basic
+230;Drew;Yuan;26214;S;M;drew7@mineriadedatos.com.ar;30000;0;0;EducaciÃ³n secundaria;Obrero;0;1;4684 Frigate Ct.;500 555-0185;2-5 Km.;Centro;41;1;Cluster-3;Basic
+34;Barbara;Nara;26039;C;F;barbara45@mineriadedatos.com.ar;120000;0;5;EducaciÃ³n secundaria (en curso);GestiÃ³n;1;4;7933 Ashwood Dr;500 555-0144;10+ Km.;Sur;42;1;Cluster-2;Kinder y Sports
+229;Jacquelyn;Blanco;20273;C;F;jacquelyn16@mineriadedatos.com.ar;130000;3;4;Estudios universitarios (en curso);Profesional;0;3;3894 Dennis Circle;500 555-0116;5-10 Km.;Centro;57;1;Cluster-2;Kinder y Sports
+12;Carolyn;Torres;14600;C;F;carolyn32@mineriadedatos.com.ar;40000;2;0;Licenciatura;GestiÃ³n;0;2;8439 Rio Grande Drive;500 555-0150;0-1 Km.;Sur;73;1;Cluster-3;Basic
+17;Jay;Browning;17199;S;M;jay45@mineriadedatos.com.ar;30000;2;0;Estudios universitarios (en curso);Administrativo;0;2;4001 Camino Solano;500 555-0168;1-2 Km.;Sur;66;1;Cluster-3;Basic
+27;Aimee;Zheng;20169;S;F;aimee14@mineriadedatos.com.ar;80000;2;0;Estudios universitarios (en curso);Obrero especializado;0;2;994 Counting Drive;500 555-0116;1-2 Km.;Sur;58;1;Cluster-3;Basic
+49;Lucas;Martin;19556;C;M;lucas28@mineriadedatos.com.ar;70000;3;0;Estudios de postgrado;GestiÃ³n;1;2;191 Trail Way;434-555-0192;5-10 Km.;Norte;59;1;Cluster-1;Basic
+355;Natalie;Coleman;26920;C;F;natalie28@mineriadedatos.com.ar;40000;1;0;Estudios de postgrado;Obrero especializado;1;0;5300 Turning Dr.;184-555-0115;0-1 Km.;Norte;39;1;Cluster-1;Basic
+35;Lucas;Foster;28766;S;M;lucas64@mineriadedatos.com.ar;10000;0;0;Estudios universitarios (en curso);Obrero;1;1;8831 Versailles Pl.;500 555-0176;2-5 Km.;Sur;34;1;Cluster-1;Basic
+338;Alexa;Stewart;25802;C;F;alexa21@mineriadedatos.com.ar;70000;4;0;Estudios de postgrado;Profesional;0;0;9534 Hartnell Court;776-555-0128;0-1 Km.;Norte;42;1;Cluster-3;Basic
+19;Felicia;Gomez;25878;C;F;felicia1@mineriadedatos.com.ar;120000;0;5;EducaciÃ³n secundaria (en curso);Profesional;1;4;9790 Berrellesa St.;500 555-0151;10+ Km.;Sur;42;1;Cluster-2;Kinder y Sports
+361;Sean;Morris;20127;C;M;sean26@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;6603 Jennifer Way;951-555-0193;1-2 Km.;Norte;58;1;Cluster-1;Basic
+27;Damien;Liang;17223;C;M;damien13@mineriadedatos.com.ar;30000;2;0;Estudios universitarios (en curso);Administrativo;0;2;1691 Boxer Blvd.;500 555-0163;5-10 Km.;Sur;66;1;Cluster-3;Basic
+38;Kristopher;Suri;26801;C;M;kristopher0@mineriadedatos.com.ar;80000;0;0;Licenciatura;Profesional;1;3;4088 Millfield Place;500 555-0178;10+ Km.;Sur;40;1;Cluster-1;Basic
+231;Sydney;Perry;23824;C;F;sydney30@mineriadedatos.com.ar;40000;1;0;Licenciatura;Obrero especializado;1;0;7307 Corte Segundo;500 555-0169;0-1 Km.;Centro;48;1;Cluster-1;Basic
+360;Tristan;Wood;22767;C;M;tristan2@mineriadedatos.com.ar;70000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;4580 Duck Horn Court;756-555-0133;2-5 Km.;Norte;51;1;Cluster-1;Basic
+10;Jessie;Rubio;28016;S;F;jessie40@mineriadedatos.com.ar;10000;1;1;EducaciÃ³n secundaria;Obrero;0;0;3883 Pheasant Ct.;500 555-0113;1-2 Km.;Sur;36;1;Cluster-3;Basic
+53;Eduardo;Henderson;25144;C;M;eduardo49@mineriadedatos.com.ar;90000;4;4;Licenciatura;GestiÃ³n;1;1;9754 Olivera;911-555-0117;0-1 Km.;Norte;44;1;Cluster-2;Kinder y Sports
+240;Trisha;Sun;25368;S;F;trisha8@mineriadedatos.com.ar;30000;1;0;Licenciatura;Administrativo;1;0;2877  rue des Ecoles;500 555-0165;0-1 Km.;Centro;43;1;Cluster-1;Basic
+553;Mariah;Flores;12678;C;F;mariah17@mineriadedatos.com.ar;60000;2;0;Estudios de postgrado;GestiÃ³n;1;2;8574 Hillview Drive;861-555-0128;5-10 Km.;Norte;78;1;Cluster-1;Basic
+641;Sarah;Griffin;21301;C;F;sarah45@mineriadedatos.com.ar;60000;1;0;Licenciatura;Profesional;1;1;4341 Lagoon Court;307-555-0166;0-1 Km.;Norte;55;1;Cluster-1;Basic
+360;Maria;Young;22503;C;F;maria65@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;631 Elliott Dr.;125-555-0197;0-1 Km.;Norte;51;1;Cluster-1;Basic
+205;Stacey;Hee;25720;S;F;stacey20@mineriadedatos.com.ar;40000;2;2;Estudios universitarios (en curso);Administrativo;1;0;61  rue de Fontfroide;500 555-0113;1-2 Km.;Centro;42;1;Cluster-1;Basic
+339;Thomas;Lopez;20258;C;M;thomas57@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;8574 Hidden Oak Ct.;429-555-0115;0-1 Km.;Norte;57;1;Cluster-1;Basic
+260;Grant;Shan;27335;C;M;grant12@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;0;0;5566 Banyan Circle;500 555-0157;0-1 Km.;Centro;38;1;Cluster-3;Basic
+302;Ian;Howard;19892;S;M;ian78@mineriadedatos.com.ar;70000;2;0;EducaciÃ³n secundaria (en curso);Obrero especializado;0;2;3001 Hanson Lane;535-555-0131;1-2 Km.;Norte;58;1;Cluster-3;Basic
+298;Ashley;Rodriguez;23273;C;F;ashley21@mineriadedatos.com.ar;100000;0;2;Estudios universitarios (en curso);Profesional;1;2;1480 Shoenic;804-555-0168;2-5 Km.;Norte;49;1;Cluster-1;Basic
+265;Natalie;Alexander;25177;C;F;natalie41@mineriadedatos.com.ar;30000;1;0;Licenciatura;Administrativo;1;0;6928 N. 8th Street;500 555-0183;1-2 Km.;Centro;44;1;Cluster-1;Basic
+641;Haley;Gray;26311;C;F;haley15@mineriadedatos.com.ar;80000;0;0;Licenciatura;GestiÃ³n;1;1;6885 Amending Drive;676-555-0155;1-2 Km.;Norte;41;1;Cluster-1;Basic
+322;James;Jones;24944;S;M;james78@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;1;1141 Hale Court;145-555-0141;0-1 Km.;Norte;45;1;Cluster-3;Basic
+185;Leah;Liang;23539;S;F;leah13@mineriadedatos.com.ar;10000;3;2;EducaciÃ³n secundaria (en curso);Obrero;1;2;99  avenue Reille;500 555-0139;0-1 Km.;Centro;48;1;Cluster-1;Basic
+611;Isaiah;Watson;24981;C;M;isaiah0@mineriadedatos.com.ar;70000;2;2;Licenciatura;Obrero especializado;1;1;7223 Vinewood Dr.;385-555-0110;2-5 Km.;Norte;44;1;Cluster-1;Basic
+272;Lydia;Subram;27235;C;F;lydia12@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;1;0;2575 Garcia;500 555-0139;1-2 Km.;Centro;38;1;Cluster-1;Basic
+334;Katelyn;Sanchez;22511;C;F;katelyn26@mineriadedatos.com.ar;130000;1;3;Licenciatura;GestiÃ³n;1;3;8869 Climbing Vine Court;395-555-0150;2-5 Km.;Norte;51;1;Cluster-2;Kinder y Sports
+267;Hector;Diaz;23903;S;M;hector1@mineriadedatos.com.ar;20000;2;2;EducaciÃ³n secundaria;Obrero;0;0;7128 Joan Ave.;500 555-0132;0-1 Km.;Centro;47;1;Cluster-3;Basic
+36;Ebony;Carlson;25346;C;F;ebony39@mineriadedatos.com.ar;120000;1;0;Estudios de postgrado;GestiÃ³n;1;0;1387 Dias Circle;500 555-0113;0-1 Km.;Sur;43;1;Cluster-1;Basic
+265;Emma;Morris;24068;C;F;emma26@mineriadedatos.com.ar;40000;1;0;Licenciatura;Obrero especializado;1;0;6999 Salem St.;500 555-0182;0-1 Km.;Centro;47;1;Cluster-1;Basic
+18;Evelyn;Rodriguez;24118;S;F;evelyn20@mineriadedatos.com.ar;110000;0;0;Estudios de postgrado;GestiÃ³n;0;3;9236 Hanson Lane;500 555-0122;0-1 Km.;Sur;47;1;Cluster-3;Basic
+147;Jared;Ward;21816;S;M;jared6@mineriadedatos.com.ar;20000;2;0;Estudios universitarios (en curso);Obrero;0;1;Erftplatz 876;500 555-0135;2-5 Km.;Centro;53;1;Cluster-3;Basic
+28;Melinda;Suarez;24971;S;F;melinda14@mineriadedatos.com.ar;60000;2;2;Licenciatura;Profesional;0;1;3823 Birch Bark Dr;500 555-0132;0-1 Km.;Sur;45;1;Cluster-3;Basic
+49;Jerome;Navarro;20165;C;M;jerome8@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;9537 Ridgewood Drive;934-555-0191;1-2 Km.;Norte;58;1;Cluster-1;Basic
+631;Michelle;James;21108;S;F;michelle9@mineriadedatos.com.ar;80000;2;0;EducaciÃ³n secundaria (en curso);Obrero especializado;0;2;9772 Mountain View Drive;471-555-0167;1-2 Km.;Norte;55;1;Cluster-3;Basic
+252;Alvin;Zhao;23989;C;M;alvin10@mineriadedatos.com.ar;40000;1;0;Licenciatura;Obrero especializado;1;0;1312 Garland Dr.;500 555-0175;0-1 Km.;Centro;47;1;Cluster-1;Basic
+359;Kimberly;Stewart;19763;C;F;kimberly24@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;6289 Via Del Verdes;732-555-0139;0-1 Km.;Norte;59;1;Cluster-1;Basic
+11;Cristina;Nara;21058;S;F;cristina15@mineriadedatos.com.ar;70000;2;0;EducaciÃ³n secundaria;Profesional;0;2;7128 Paris Lane;500 555-0196;1-2 Km.;Sur;55;1;Cluster-3;Basic
+298;Rebecca;Evans;19765;C;F;rebecca4@mineriadedatos.com.ar;70000;3;1;EducaciÃ³n secundaria;Profesional;1;0;6154 Cleveland Rd;280-555-0162;5-10 Km.;Norte;59;1;Cluster-1;Basic
+34;Russell;Chander;16932;C;M;russell18@mineriadedatos.com.ar;40000;2;0;Licenciatura;GestiÃ³n;1;2;8547 Lyon Circle;500 555-0115;5-10 Km.;Sur;67;1;Cluster-1;Basic
+22;Troy;Suri;28224;C;M;troy0@mineriadedatos.com.ar;20000;0;0;Estudios universitarios (en curso);Obrero;1;0;5948 Seeno St.;500 555-0152;0-1 Km.;Sur;36;1;Cluster-1;Basic
+15;Gloria;Serrano;27176;S;F;gloria17@mineriadedatos.com.ar;90000;0;0;Licenciatura;Profesional;0;3;9687 Maywood Ln.;500 555-0133;10+ Km.;Sur;38;1;Cluster-3;Basic
+361;Elizabeth;Garcia;20822;C;F;elizabeth20@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;7807 Pine Creek Way;183-555-0159;1-2 Km.;Norte;56;1;Cluster-1;Basic
+358;Devin;Turner;23925;C;M;devin37@mineriadedatos.com.ar;130000;1;2;Estudios de postgrado;GestiÃ³n;1;0;6374 Las Palmas;859-555-0119;0-1 Km.;Norte;47;1;Cluster-1;Basic
+331;Zachary;Hayes;12855;C;M;zachary21@mineriadedatos.com.ar;120000;1;3;Estudios de postgrado;GestiÃ³n;1;4;8455 Mt. Davidson Court;713-555-0192;2-5 Km.;Norte;78;1;Cluster-2;Kinder y Sports
+614;Noah;Williams;26452;S;M;noah58@mineriadedatos.com.ar;70000;0;0;Estudios universitarios (en curso);Obrero especializado;1;2;8100 Contra Loma Blvd.;477-555-0174;5-10 Km.;Norte;40;1;Cluster-1;Basic
+11;Laura;Zheng;23209;S;F;laura25@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;2;4428 Jones Rd.;500 555-0110;0-1 Km.;Sur;49;1;Cluster-3;Basic
+552;Riley;Cox;24645;S;F;riley30@mineriadedatos.com.ar;60000;0;0;Estudios de postgrado;Profesional;0;1;9002 Kathleen Drive;842-555-0194;0-1 Km.;Norte;45;1;Cluster-3;Basic
+132;Rebekah;Munoz;24339;S;F;rebekah27@mineriadedatos.com.ar;40000;0;0;Licenciatura;Profesional;1;0;3229 Mark Twain Dr.;500 555-0116;0-1 Km.;Centro;46;1;Cluster-1;Basic
+51;Victoria;Butler;20677;C;F;victoria61@mineriadedatos.com.ar;80000;3;0;Estudios universitarios (en curso);Profesional;0;2;5423 Morengo Ct.;108-555-0122;2-5 Km.;Norte;56;1;Cluster-3;Basic
+20;Ricky;Martin;27741;S;M;ricky0@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;1;3;2912 Guadalupe;500 555-0133;10+ Km.;Sur;37;1;Cluster-1;Basic
+33;Louis;Ma;27311;S;M;louis10@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;3;9593 Singingwood Court;500 555-0180;10+ Km.;Sur;38;1;Cluster-3;Basic
+6;Levi;Sanchez;15778;S;M;levi18@mineriadedatos.com.ar;40000;2;0;Licenciatura;GestiÃ³n;1;2;7226 Casa Real;500 555-0117;5-10 Km.;Sur;70;1;Cluster-1;Basic
+31;Ian;Martinez;29030;C;M;ian15@mineriadedatos.com.ar;10000;1;1;EducaciÃ³n secundaria;Obrero;1;0;6422 Vista Diablo;500 555-0140;2-5 Km.;Sur;33;1;Cluster-1;Basic
+63;Emily;Davis;25439;S;F;emily5@mineriadedatos.com.ar;60000;2;2;Licenciatura;Obrero especializado;0;0;7326 Kenmore;512-555-0123;0-1 Km.;Norte;43;1;Cluster-3;Basic
+343;Catherine;Brooks;22725;C;F;catherine2@mineriadedatos.com.ar;70000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;6866 Concord Blvd.;310-555-0159;2-5 Km.;Norte;51;1;Cluster-1;Basic
+547;Mackenzie;Cox;24656;C;F;mackenzie9@mineriadedatos.com.ar;110000;0;1;Estudios de postgrado;GestiÃ³n;1;0;6191 Story Lane;199-555-0157;5-10 Km.;Norte;45;1;Cluster-1;Basic
+265;Marshall;Lin;21517;C;M;marshall7@mineriadedatos.com.ar;150000;1;3;Estudios universitarios (en curso);Profesional;0;3;7070 W. Watson Court;500 555-0198;5-10 Km.;Centro;54;1;Cluster-2;Kinder y Sports
+372;Hunter;Lewis;26402;S;M;hunter54@mineriadedatos.com.ar;80000;0;0;Licenciatura;GestiÃ³n;0;1;4302 Oakleaf Ct.;197-555-0167;0-1 Km.;Norte;41;1;Cluster-3;Basic
+337;Jeremiah;King;26552;S;M;jeremiah14@mineriadedatos.com.ar;70000;1;0;Estudios de postgrado;Profesional;1;0;2741 Orangewood Dr.;698-555-0158;2-5 Km.;Norte;40;1;Cluster-1;Basic
+168;Cheryl;Martin;22679;C;F;cheryl2@mineriadedatos.com.ar;40000;1;0;Licenciatura;Obrero especializado;1;1;Haberstr 328;500 555-0143;0-1 Km.;Centro;51;1;Cluster-1;Basic
+372;Natalie;Morris;20345;C;F;natalie2@mineriadedatos.com.ar;80000;3;2;Estudios universitarios (en curso);Profesional;1;1;3159 C Wharton Way;479-555-0144;5-10 Km.;Norte;57;1;Cluster-1;Basic
+62;Caitlin;Murphy;21148;C;F;caitlin12@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;2318 Pleasant Circle;377-555-0119;0-1 Km.;Norte;55;1;Cluster-1;Basic
+322;Morgan;Murphy;25287;S;F;morgan53@mineriadedatos.com.ar;60000;2;2;Licenciatura;Obrero especializado;0;0;6681 Pestana Way;216-555-0146;0-1 Km.;Norte;44;1;Cluster-3;Basic
+176;Shaun;Deng;25092;S;M;shaun3@mineriadedatos.com.ar;10000;3;3;EducaciÃ³n secundaria;Obrero;1;0;Haberstr 41;500 555-0172;0-1 Km.;Centro;44;1;Cluster-1;Basic
+39;Arturo;Gao;24279;S;M;arturo16@mineriadedatos.com.ar;90000;2;0;Licenciatura;Profesional;1;0;4351 Charlotte Ave.;500 555-0195;1-2 Km.;Sur;46;1;Cluster-1;Basic
+183;Deanna;Madan;24551;S;F;deanna11@mineriadedatos.com.ar;20000;1;1;EducaciÃ³n secundaria;Obrero;0;1;3  rue Jean Mermoz;500 555-0177;0-1 Km.;Centro;46;1;Cluster-3;Basic
+609;Donna;Anand;24902;C;F;donna20@mineriadedatos.com.ar;70000;2;2;Licenciatura;Obrero especializado;1;1;1865 Scenic Ct.;784-555-0134;2-5 Km.;Norte;45;1;Cluster-1;Basic
+385;Angela;Patterson;24216;S;F;angela13@mineriadedatos.com.ar;70000;4;0;Estudios de postgrado;Profesional;1;0;3477 Mt. Washington Way;435-555-0136;2-5 Km.;Norte;47;1;Cluster-1;Basic
+35;Devin;Gonzalez;20414;S;M;devin31@mineriadedatos.com.ar;80000;2;0;EducaciÃ³n secundaria;Obrero especializado;1;2;9618 San Rafael;500 555-0110;5-10 Km.;Sur;57;1;Cluster-1;Basic
+189;Fernando;Collins;24754;S;M;fernando43@mineriadedatos.com.ar;40000;0;0;Licenciatura;Administrativo;1;0;821  rue des Rosiers;500 555-0169;0-1 Km.;Centro;45;1;Cluster-1;Basic
+33;AlÃ­cia;Anand;20601;S;F;alÃ­cia18@mineriadedatos.com.ar;80000;2;0;EducaciÃ³n secundaria;Obrero especializado;0;2;2176 Apollo Way;500 555-0159;1-2 Km.;Sur;56;1;Cluster-3;Basic
+644;Ariana;Peterson;20432;C;F;ariana4@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;9052 Blue Ridge Dr;298-555-0145;0-1 Km.;Norte;57;1;Cluster-1;Basic
+60;Rachel;Garcia;21435;C;F;rachel19@mineriadedatos.com.ar;80000;5;0;Estudios de postgrado;Profesional;1;0;8403 Esperanza;429-555-0199;0-1 Km.;Norte;54;1;Cluster-1;Basic
+53;Morgan;Turner;24404;C;F;morgan3@mineriadedatos.com.ar;70000;0;0;Estudios de postgrado;Profesional;1;0;6091 Bluefish Lane;856-555-0168;2-5 Km.;Norte;46;1;Cluster-1;Basic
+14;Alejandro;Kumar;22100;C;M;alejandro34@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;1689 Boxwood Ln.;500 555-0133;0-1 Km.;Sur;52;1;Cluster-1;Basic
+369;Elizabeth;Coleman;28713;C;F;elizabeth35@mineriadedatos.com.ar;70000;0;0;Estudios universitarios (en curso);Obrero especializado;0;2;7546 Gonzalez Ct.;400-555-0120;0-1 Km.;Norte;34;1;Cluster-3;Basic
+238;Theodore;Moreno;24889;S;M;theodore7@mineriadedatos.com.ar;10000;3;3;EducaciÃ³n secundaria;Obrero;1;0;8381 Lake Place;500 555-0184;0-1 Km.;Centro;45;1;Cluster-1;Basic
+18;Cindy;Raman;25320;C;F;cindy12@mineriadedatos.com.ar;90000;1;0;Estudios de postgrado;GestiÃ³n;0;0;7947 Stillman Court;500 555-0182;0-1 Km.;Sur;44;1;Cluster-3;Basic
+33;Jerry;Chande;14770;C;M;jerry16@mineriadedatos.com.ar;30000;2;0;Estudios universitarios (en curso);Administrativo;0;2;9950 Edward Ave;500 555-0167;0-1 Km.;Sur;72;1;Cluster-3;Basic
+609;Isabella;Moore;22274;C;F;isabella63@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;2972 East Lake Court;207-555-0183;2-5 Km.;Norte;52;1;Cluster-1;Basic
+276;Marie;Sai;17464;C;F;marie10@mineriadedatos.com.ar;160000;5;5;EducaciÃ³n secundaria (en curso);Profesional;0;4;4616 Sutcliffe Pl;500 555-0115;10+ Km.;Centro;65;1;Cluster-2;Kinder y Sports
+15;Monica;Martinez;29146;C;F;monica17@mineriadedatos.com.ar;20000;0;0;Licenciatura;Administrativo;1;0;9018 Vallet Crest Drive;500 555-0162;0-1 Km.;Sur;33;1;Cluster-1;Basic
+10;Latoya;She;24921;C;F;latoya0@mineriadedatos.com.ar;60000;2;2;Licenciatura;Profesional;1;1;2681 Black Walnut Ct.;500 555-0166;0-1 Km.;Sur;45;1;Cluster-1;Basic
+618;Justin;Zhang;24729;S;M;justin21@mineriadedatos.com.ar;40000;0;0;Licenciatura;Profesional;0;1;4250 Park Tree Ct;431-555-0179;2-5 Km.;Norte;45;1;Cluster-3;Basic
+355;Rachel;Foster;16517;S;F;rachel64@mineriadedatos.com.ar;30000;2;1;EducaciÃ³n secundaria (en curso);Obrero especializado;1;3;6615 Winterglenn Way;525-555-0184;10+ Km.;Norte;68;1;Cluster-1;Basic
+171;Katherine;Edwards;26252;S;F;katherine50@mineriadedatos.com.ar;40000;2;2;Estudios universitarios (en curso);Administrativo;1;1;Zollstr 62;500 555-0172;1-2 Km.;Centro;41;1;Cluster-1;Basic
+310;Erik;Suarez;24435;S;M;erik19@mineriadedatos.com.ar;120000;2;2;Licenciatura;GestiÃ³n;0;3;1157 Chilpancingo Pk.;177-555-0168;0-1 Km.;Norte;46;1;Cluster-3;Basic
+27;Sergio;Rodriguez;20705;C;M;sergio20@mineriadedatos.com.ar;70000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;6140 Mt. Whitney Way;500 555-0119;5-10 Km.;Sur;56;1;Cluster-1;Basic
+6;Carly;Nath;25814;C;F;carly16@mineriadedatos.com.ar;100000;0;5;EducaciÃ³n secundaria (en curso);Profesional;1;4;5884 Madhatter Circle;500 555-0145;10+ Km.;Sur;42;1;Cluster-2;Kinder y Sports
+3;Michele;Gonzalez;20967;S;F;michele32@mineriadedatos.com.ar;70000;2;0;EducaciÃ³n secundaria;Profesional;1;2;2748 Anyway St.;500 555-0119;5-10 Km.;Sur;55;1;Cluster-1;Basic
+235;Erick;Vance;26721;C;M;erick3@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;1;1;5265 Evergreen Ct;500 555-0177;1-2 Km.;Centro;40;1;Cluster-1;Basic
+348;Jacob;Martinez;19560;C;M;jacob13@mineriadedatos.com.ar;30000;1;0;Licenciatura;Obrero especializado;1;1;551 Rainier Dr;983-555-0120;2-5 Km.;Norte;59;1;Cluster-1;Basic
+256;Alejandro;Xie;16121;S;M;alejandro29@mineriadedatos.com.ar;160000;3;4;Licenciatura;GestiÃ³n;0;3;1374 Boatwright Dr.;500 555-0137;5-10 Km.;Centro;69;1;Cluster-2;Kinder y Sports
+246;Cassie;Sharma;27245;C;F;cassie8@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;1;0;7281 Running Springs Rd.;500 555-0195;1-2 Km.;Centro;38;1;Cluster-1;Basic
+33;Patricia;Saunders;24875;C;F;patricia14@mineriadedatos.com.ar;60000;2;2;Licenciatura;Profesional;1;1;4908 Chickpea Ct.;500 555-0186;0-1 Km.;Sur;45;1;Cluster-1;Basic
+648;Nathan;Ross;25776;C;M;nathan0@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;1;1;316 Rambling Rose Ave;171-555-0176;2-5 Km.;Norte;42;1;Cluster-1;Basic
+302;Keith;Raji;25593;C;M;keith25@mineriadedatos.com.ar;70000;4;0;Estudios de postgrado;Profesional;1;0;7248 Holiday Hills Dr.;207-555-0133;0-1 Km.;Norte;43;1;Cluster-1;Basic
+626;Maria;Morgan;23872;S;F;maria6@mineriadedatos.com.ar;80000;3;3;Licenciatura;Obrero especializado;1;2;2187 S. Rising Ave;997-555-0135;2-5 Km.;Norte;48;1;Cluster-2;Kinder y Sports
+352;Alex;Parker;22532;C;M;alex26@mineriadedatos.com.ar;130000;1;3;Licenciatura;GestiÃ³n;1;3;7581 Alaska Dr.;613-555-0123;0-1 Km.;Norte;51;1;Cluster-2;Kinder y Sports
+30;Krystal;Liu;28695;C;F;krystal4@mineriadedatos.com.ar;20000;0;0;Licenciatura;Administrativo;1;0;7468 Franklin Canyon Road;500 555-0163;0-1 Km.;Sur;34;1;Cluster-1;Basic
+52;Xavier;Mitchell;25047;C;M;xavier34@mineriadedatos.com.ar;80000;0;0;Licenciatura;GestiÃ³n;0;1;7834 Roux Court;939-555-0178;0-1 Km.;Norte;44;1;Cluster-3;Basic
+175;Carol;Cooper;22134;C;F;carol26@mineriadedatos.com.ar;30000;3;0;Licenciatura;Administrativo;1;0;Alderweg 6246;500 555-0146;0-1 Km.;Centro;52;1;Cluster-1;Basic
+334;Abigail;Rodriguez;23267;C;F;abigail61@mineriadedatos.com.ar;60000;3;2;Estudios de postgrado;Profesional;1;0;7633 Stonehedge Dr.;771-555-0162;0-1 Km.;Norte;49;1;Cluster-1;Basic
+38;Erica;Chen;20522;S;F;erica2@mineriadedatos.com.ar;70000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;793 Crawford Street;500 555-0158;5-10 Km.;Sur;57;1;Cluster-1;Basic
+221;Crystal;Lin;24942;S;F;crystal10@mineriadedatos.com.ar;10000;3;3;EducaciÃ³n secundaria;Obrero;1;0;2  avenue des Champs-ElysÃ©es;500 555-0113;0-1 Km.;Centro;45;1;Cluster-1;Basic
+43;Oscar;Hayes;19246;C;M;oscar8@mineriadedatos.com.ar;70000;2;1;EducaciÃ³n secundaria (en curso);Obrero especializado;1;2;5897 Scottsdale Rd.;150-555-0146;10+ Km.;Norte;60;1;Cluster-1;Basic
+24;Rebekah;Ramos;25994;S;F;rebekah37@mineriadedatos.com.ar;100000;0;5;EducaciÃ³n secundaria;GestiÃ³n;1;4;Erlenweg 6664;500 555-0165;10+ Km.;Sur;42;1;Cluster-2;Kinder y Sports
+536;Abigail;Kelly;22747;C;F;abigail23@mineriadedatos.com.ar;70000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;896 Southdale;137-555-0115;0-1 Km.;Norte;51;1;Cluster-1;Basic
+359;Isaac;Bailey;19666;S;M;isaac15@mineriadedatos.com.ar;70000;3;0;Estudios de postgrado;GestiÃ³n;1;2;82 Mt. Dell Dr.;356-555-0182;5-10 Km.;Norte;59;1;Cluster-1;Basic
+383;Emma;Cooper;19939;C;F;emma35@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;2258 Pablo Neruda;418-555-0139;0-1 Km.;Norte;58;1;Cluster-1;Basic
+238;Tammy;Gonzalez;22750;C;F;tammy19@mineriadedatos.com.ar;40000;1;0;Licenciatura;Obrero especializado;1;0;2421 Norse Drive;500 555-0142;0-1 Km.;Centro;51;1;Cluster-1;Basic
+219;Bianca;Huang;21350;C;F;bianca5@mineriadedatos.com.ar;30000;1;0;Licenciatura;Administrativo;1;0;6058 Foothill Way;500 555-0139;0-1 Km.;Centro;54;1;Cluster-1;Basic
+19;Fernando;Nelson;28388;S;M;fernando34@mineriadedatos.com.ar;10000;1;1;EducaciÃ³n secundaria;Obrero;1;0;4147 Alamo Court;500 555-0167;2-5 Km.;Sur;35;1;Cluster-1;Basic
+32;Kathleen;Jimenez;25410;C;F;kathleen7@mineriadedatos.com.ar;90000;1;0;Estudios de postgrado;GestiÃ³n;1;0;1955 Montgomery Ave;500 555-0156;0-1 Km.;Sur;43;1;Cluster-1;Basic
+4;Marcus;Henderson;22476;C;M;marcus54@mineriadedatos.com.ar;60000;1;0;Licenciatura;Profesional;1;1;5979 La Corte Bonita;500 555-0150;5-10 Km.;Sur;51;1;Cluster-1;Basic
+648;Dalton;White;26852;C;M;dalton12@mineriadedatos.com.ar;50000;1;0;Estudios de postgrado;Obrero especializado;1;0;6384 Euclid Ave.;609-555-0146;0-1 Km.;Norte;39;1;Cluster-1;Basic
+338;Jasmine;Thompson;20609;C;F;jasmine13@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;5834 Vloching Circle;943-555-0196;0-1 Km.;Norte;56;1;Cluster-1;Basic
+28;Summer;Sai;26707;C;F;summer4@mineriadedatos.com.ar;110000;0;5;Estudios universitarios (en curso);GestiÃ³n;0;3;2929 Marie Dr.;500 555-0148;10+ Km.;Sur;40;1;Cluster-2;Kinder y Sports
+299;Joanna;Moreno;24647;S;F;joanna5@mineriadedatos.com.ar;60000;0;0;Estudios de postgrado;Profesional;1;1;2393 Brook Hollow Ct.;256-555-0155;2-5 Km.;Norte;45;1;Cluster-1;Basic
+29;Jaime;Navarro;24642;C;F;jaime11@mineriadedatos.com.ar;90000;2;2;Licenciatura;Profesional;1;0;6034 Bell Dr.;500 555-0176;0-1 Km.;Sur;45;1;Cluster-1;Basic
+546;Sarah;Jones;22599;C;F;sarah5@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;2935 Pine Creek Way;585-555-0177;0-1 Km.;Norte;51;1;Cluster-1;Basic
+205;Brendan;Kumar;25083;C;M;brendan6@mineriadedatos.com.ar;40000;0;0;Estudios de postgrado;Administrativo;1;0;401  avenue Reille;500 555-0119;0-1 Km.;Centro;44;1;Cluster-1;Basic
+29;Gloria;Diaz;15952;C;F;gloria5@mineriadedatos.com.ar;40000;2;0;Licenciatura;GestiÃ³n;0;2;7770 Mota Dr.;500 555-0157;0-1 Km.;Sur;69;1;Cluster-3;Basic
+36;Lisa;Wu;21047;C;F;lisa10@mineriadedatos.com.ar;70000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;8426 Easley Dr.;500 555-0127;5-10 Km.;Sur;55;1;Cluster-1;Basic
+337;Noah;Green;24883;S;M;noah40@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;1;1825 Village Pl.;335-555-0173;2-5 Km.;Norte;45;1;Cluster-3;Basic
+626;Gabrielle;Lopez;19595;S;F;gabrielle63@mineriadedatos.com.ar;70000;3;0;Estudios de postgrado;GestiÃ³n;0;2;8619 Parkside Dr.;783-555-0174;1-2 Km.;Norte;59;1;Cluster-3;Basic
+36;Evan;Parker;22012;S;M;evan23@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;7113 Eastgate Ave.;500 555-0131;5-10 Km.;Sur;53;1;Cluster-1;Basic
+242;Clayton;Lu;16124;C;M;clayton10@mineriadedatos.com.ar;130000;3;4;Licenciatura;GestiÃ³n;1;4;5927 Mt. Hood Circle;500 555-0193;0-1 Km.;Centro;69;1;Cluster-2;Kinder y Sports
+18;Kathleen;Alonso;22414;C;F;kathleen10@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;8425 W. Hookston Road;500 555-0113;5-10 Km.;Sur;52;1;Cluster-1;Basic
+163;Douglas;Prasad;23488;S;M;douglas13@mineriadedatos.com.ar;20000;3;3;EducaciÃ³n secundaria;Obrero;1;0;Platz des Landtags 505;500 555-0153;0-1 Km.;Centro;49;1;Cluster-1;Basic
+211;Gary;Alvarez;26751;S;M;gary15@mineriadedatos.com.ar;30000;0;0;EducaciÃ³n secundaria;Obrero;0;1;81  route de Marseille;500 555-0182;2-5 Km.;Centro;40;1;Cluster-3;Basic
+24;Linda;Serrano;20266;S;F;linda31@mineriadedatos.com.ar;80000;2;0;EducaciÃ³n secundaria;Obrero especializado;1;2;9808 Shaw Rd.;500 555-0130;5-10 Km.;Sur;57;1;Cluster-1;Basic
+118;Donna;Chander;26870;C;F;donna14@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;1;1;Postfach 8 11 99;500 555-0172;1-2 Km.;Centro;39;1;Cluster-1;Basic
+276;Lisa;Zhu;21807;C;F;lisa17@mineriadedatos.com.ar;30000;3;0;Estudios de postgrado;Administrativo;1;0;3359 Northwood Dr;500 555-0175;0-1 Km.;Centro;53;1;Cluster-1;Basic
+612;Thomas;Anderson;26445;C;M;thomas71@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;1;0;8307 Monument Blvd.;315-555-0121;0-1 Km.;Norte;40;1;Cluster-1;Basic
+138;Kendra;Romero;24294;S;F;kendra9@mineriadedatos.com.ar;10000;5;5;EducaciÃ³n secundaria (en curso);Obrero;1;1;Rykestr 0581;500 555-0119;0-1 Km.;Centro;46;1;Cluster-2;Kinder y Sports
+245;Diana;Ramos;27303;C;F;diana16@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;1;0;6466 Appia Ct.;500 555-0117;1-2 Km.;Centro;38;1;Cluster-1;Basic
+260;Kelsey;Rai;25348;S;F;kelsey16@mineriadedatos.com.ar;40000;0;0;Estudios de postgrado;Administrativo;1;0;6265 Greendell Rd.;500 555-0130;0-1 Km.;Centro;43;1;Cluster-1;Basic
+197;Robin;Gill;24099;C;F;robin10@mineriadedatos.com.ar;20000;2;2;EducaciÃ³n secundaria;Obrero;0;1;28  rue de Fontfroide;500 555-0166;0-1 Km.;Centro;47;1;Cluster-3;Basic
+536;Bryce;Sanders;24663;S;M;bryce3@mineriadedatos.com.ar;40000;0;0;Licenciatura;Profesional;0;1;1870 Blue Ridge Dr.;449-555-0174;2-5 Km.;Norte;45;1;Cluster-3;Basic
+314;Alexander;Brown;13214;S;M;alexander6@mineriadedatos.com.ar;90000;4;0;Licenciatura;GestiÃ³n;1;2;8160 Clayburn Rd.;760-555-0113;5-10 Km.;Norte;77;1;Cluster-1;Basic
+40;Katelyn;Richardson;20379;S;F;katelyn8@mineriadedatos.com.ar;80000;2;0;EducaciÃ³n secundaria;Obrero especializado;0;2;5493 Gonzalez Ct;500 555-0155;1-2 Km.;Sur;57;1;Cluster-3;Basic
+41;Kristi;Malhotra;26993;S;F;kristi21@mineriadedatos.com.ar;70000;0;0;Estudios universitarios (en curso);Profesional;1;2;4605 Springvale Court;380-555-0148;5-10 Km.;Norte;39;1;Cluster-1;Basic
+372;Luke;Jenkins;22762;C;M;luke25@mineriadedatos.com.ar;160000;1;2;Licenciatura;GestiÃ³n;0;3;3309 Clay Way;307-555-0136;2-5 Km.;Norte;51;1;Cluster-2;Kinder y Sports
+54;Emily;Wilson;20525;C;F;emily7@mineriadedatos.com.ar;70000;3;2;Estudios universitarios (en curso);Profesional;1;0;5444 Bellord Ct.;145-555-0153;5-10 Km.;Norte;57;1;Cluster-1;Basic
+298;Elijah;Patterson;20639;S;M;elijah14@mineriadedatos.com.ar;90000;2;1;Estudios universitarios (en curso);Profesional;1;0;5437 Spring Hill Road;114-555-0158;5-10 Km.;Norte;56;1;Cluster-1;Basic
+224;Xavier;Edwards;25032;C;M;xavier41@mineriadedatos.com.ar;40000;0;0;Estudios de postgrado;Administrativo;1;0;48  rue Montcalm;500 555-0141;0-1 Km.;Centro;44;1;Cluster-1;Basic
+133;Jocelyn;Washington;21495;C;F;jocelyn14@mineriadedatos.com.ar;30000;1;0;Estudios de postgrado;Administrativo;1;0;Postfach 22 99 99;500 555-0114;0-1 Km.;Centro;54;1;Cluster-1;Basic
+21;Emily;Anderson;22607;C;F;emily10@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;1639 Atchinson Stage Ct.;500 555-0192;5-10 Km.;Sur;51;1;Cluster-1;Basic
+147;Lacey;Zhou;24073;S;F;lacey21@mineriadedatos.com.ar;20000;2;2;EducaciÃ³n secundaria;Obrero;1;1;Buergermeister-ulrich-str 7500;500 555-0140;0-1 Km.;Centro;47;1;Cluster-1;Basic
+119;Cory;Kapoor;24580;C;M;cory19@mineriadedatos.com.ar;40000;0;0;Licenciatura;Administrativo;1;0;Am Gallberg 24;500 555-0114;0-1 Km.;Centro;46;1;Cluster-1;Basic
+626;Katelyn;Hernandez;12317;C;F;katelyn42@mineriadedatos.com.ar;70000;4;0;Estudios de postgrado;GestiÃ³n;1;2;7496 Deerfield Dr.;249-555-0116;5-10 Km.;Norte;79;1;Cluster-1;Basic
+8;Lacey;Sun;26353;S;F;lacey25@mineriadedatos.com.ar;80000;0;0;Licenciatura;Profesional;1;3;2540 Waterview Place;500 555-0159;10+ Km.;Sur;41;1;Cluster-1;Basic
+29;Veronica;Gonzalez;16995;C;F;veronica20@mineriadedatos.com.ar;40000;2;0;Licenciatura;GestiÃ³n;1;2;8518 Bayberry Dr.;500 555-0162;5-10 Km.;Sur;66;1;Cluster-1;Basic
+236;Brian;Sanchez;23299;C;M;brian29@mineriadedatos.com.ar;40000;1;0;Licenciatura;Obrero especializado;1;0;8290 N. 39th Street;500 555-0132;0-1 Km.;Centro;49;1;Cluster-1;Basic
+339;Alexis;Martinez;21088;C;F;alexis14@mineriadedatos.com.ar;70000;2;0;EducaciÃ³n secundaria (en curso);Obrero especializado;1;2;3783 Dartmouth Way;837-555-0194;5-10 Km.;Norte;55;1;Cluster-1;Basic
+119;Leonard;She;20877;C;M;leonard1@mineriadedatos.com.ar;130000;2;4;Estudios universitarios (en curso);Profesional;1;2;Am Gallberg 22;500 555-0172;0-1 Km.;Centro;56;1;Cluster-2;Kinder y Sports
+635;Mary;Scott;25121;C;F;mary27@mineriadedatos.com.ar;100000;3;0;Licenciatura;GestiÃ³n;1;3;8632 River Ash Court;199-555-0163;1-2 Km.;Norte;44;1;Cluster-1;Basic
+265;Michele;Perez;25135;C;F;michele34@mineriadedatos.com.ar;40000;0;0;Licenciatura;Administrativo;1;0;6939 Hilltop Dr.;500 555-0137;0-1 Km.;Centro;44;1;Cluster-1;Basic
+37;Diane;Romero;25485;C;F;diane14@mineriadedatos.com.ar;90000;2;0;Licenciatura;Profesional;1;0;5070 Via Alta;500 555-0182;0-1 Km.;Sur;43;1;Cluster-1;Basic
+22;Danny;Vazquez;23936;S;M;danny15@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;1;1;9012 F St.;500 555-0183;5-10 Km.;Sur;47;1;Cluster-1;Basic
+5;Shawna;Shan;27920;S;F;shawna11@mineriadedatos.com.ar;10000;1;1;EducaciÃ³n secundaria;Obrero;1;0;4480 N. Lanky Lane;500 555-0170;2-5 Km.;Sur;36;1;Cluster-1;Basic
+634;Marcus;Barnes;19595;C;M;marcus52@mineriadedatos.com.ar;30000;1;0;Licenciatura;Obrero especializado;1;1;7861 Silverado Dr.;890-555-0111;1-2 Km.;Norte;59;1;Cluster-1;Basic
+369;Brooke;Murphy;25612;C;F;brooke13@mineriadedatos.com.ar;80000;2;0;Estudios de postgrado;Profesional;1;0;182 Perry Way;125-555-0164;0-1 Km.;Norte;43;1;Cluster-1;Basic
+243;Savannah;Morris;19496;C;F;savannah17@mineriadedatos.com.ar;80000;4;2;Estudios universitarios (en curso);Profesional;0;1;7650 Central Blvd;500 555-0193;2-5 Km.;Centro;60;1;Cluster-3;Basic
+248;Micheal;Rubio;25303;C;M;micheal17@mineriadedatos.com.ar;40000;0;0;Estudios de postgrado;Obrero especializado;1;0;360 Vista Way;500 555-0199;0-1 Km.;Centro;44;1;Cluster-1;Basic
+26;Omar;Huang;26010;C;M;omar6@mineriadedatos.com.ar;100000;0;5;EducaciÃ³n secundaria;GestiÃ³n;1;3;6214 Terranova Drive;500 555-0198;10+ Km.;Sur;42;1;Cluster-2;Kinder y Sports
+8;Derek;Nara;22483;S;M;derek15@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;7144 Augustine Drive;500 555-0119;5-10 Km.;Sur;51;1;Cluster-1;Basic
+352;Marcus;Adams;28807;S;M;marcus34@mineriadedatos.com.ar;70000;0;0;Estudios universitarios (en curso);Obrero especializado;1;2;9246 Westminster Pl;687-555-0170;5-10 Km.;Norte;34;1;Cluster-1;Basic
+361;Amanda;Morgan;20518;C;F;amanda4@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;683 Larch Ct.;740-555-0139;1-2 Km.;Norte;57;1;Cluster-1;Basic
+34;Willie;Chande;24821;S;M;willie34@mineriadedatos.com.ar;60000;2;2;Licenciatura;Profesional;1;1;4998 Clayburn Road;500 555-0181;2-5 Km.;Sur;45;1;Cluster-1;Basic
+634;David;Griffin;25908;C;M;david54@mineriadedatos.com.ar;70000;3;0;Estudios de postgrado;Profesional;1;0;8869 C Olivera Rd;954-555-0144;2-5 Km.;Norte;42;1;Cluster-1;Basic
+314;Ian;Morris;24938;S;M;ian85@mineriadedatos.com.ar;80000;0;0;Licenciatura;GestiÃ³n;1;1;2371 Deerfield Dr.;364-555-0127;1-2 Km.;Norte;45;1;Cluster-1;Basic
+7;Brandi;Hernandez;26099;S;F;brandi4@mineriadedatos.com.ar;100000;0;5;EducaciÃ³n secundaria;GestiÃ³n;1;4;1617 Cunningham Way;500 555-0187;10+ Km.;Sur;41;1;Cluster-2;Kinder y Sports
+638;Jason;Li;20372;C;M;jason24@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;7527 Brook Way;952-555-0172;0-1 Km.;Norte;57;1;Cluster-1;Basic
+69;Jasmine;Diaz;25452;C;F;jasmine61@mineriadedatos.com.ar;70000;5;0;Estudios de postgrado;Profesional;1;0;7427 Terra Catalina;253-555-0162;0-1 Km.;Norte;43;1;Cluster-1;Basic
+58;Christian;Wilson;25843;C;M;christian37@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;1;1;410 Cardinet Drive;202-555-0153;2-5 Km.;Norte;42;1;Cluster-1;Basic
+302;Edwin;Xu;20778;C;M;edwin27@mineriadedatos.com.ar;70000;3;0;Estudios universitarios (en curso);Profesional;0;2;3396 El Dorado Way;766-555-0140;5-10 Km.;Norte;56;1;Cluster-3;Basic
+331;Charles;Reed;20955;C;M;charles68@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;7974 Seal Way;667-555-0141;0-1 Km.;Norte;56;1;Cluster-1;Basic
+548;Michelle;Howard;25632;C;F;michelle12@mineriadedatos.com.ar;40000;1;1;Licenciatura;Obrero especializado;1;1;4440 Keywood Ct;665-555-0143;0-1 Km.;Norte;43;1;Cluster-1;Basic
+198;Derek;Anand;25256;C;M;derek20@mineriadedatos.com.ar;30000;0;0;Licenciatura;Administrativo;1;0;1680  boulevard du Montparnasse;500 555-0130;0-1 Km.;Centro;44;1;Cluster-1;Basic
+252;Frank;Serrano;25980;S;M;frank24@mineriadedatos.com.ar;30000;0;0;EducaciÃ³n secundaria;Obrero;0;1;6745 Salem St;500 555-0155;2-5 Km.;Centro;42;1;Cluster-3;Basic
+352;Lucas;Robinson;28160;S;M;lucas32@mineriadedatos.com.ar;70000;0;0;Estudios universitarios (en curso);Obrero especializado;1;2;9589 Eastgate Avenue;178-555-0194;5-10 Km.;Norte;36;1;Cluster-1;Basic
+49;Hunter;Moore;20639;C;M;hunter67@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;4429 Deermeadow Way;179-555-0116;0-1 Km.;Norte;56;1;Cluster-1;Basic
+33;Jared;Brooks;22359;C;M;jared3@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;2263 Terra Granada;500 555-0124;5-10 Km.;Sur;52;1;Cluster-1;Basic
+222;Claudia;Ma;23114;S;F;claudia14@mineriadedatos.com.ar;30000;2;2;Estudios universitarios (en curso);Administrativo;1;0;222  rue de Cambrai;500 555-0167;0-1 Km.;Centro;50;1;Cluster-1;Basic
+25;Devon;Shen;26371;C;M;devon1@mineriadedatos.com.ar;90000;0;0;Licenciatura;Profesional;1;3;3275 Corrinne Court;500 555-0132;10+ Km.;Sur;41;1;Cluster-1;Basic
+53;Julian;Flores;25090;S;M;julian14@mineriadedatos.com.ar;80000;0;0;Licenciatura;GestiÃ³n;1;1;4194 Baywood Drive;494-555-0138;1-2 Km.;Norte;44;1;Cluster-1;Basic
+626;Kayla;Griffin;20324;C;F;kayla45@mineriadedatos.com.ar;80000;3;2;Estudios universitarios (en curso);Profesional;1;1;1026 Mt. Wilson Pl.;175-555-0156;5-10 Km.;Norte;57;1;Cluster-1;Basic
+33;Deborah;Kumar;22873;C;F;deborah12@mineriadedatos.com.ar;60000;1;0;Licenciatura;Profesional;1;1;1798 Norfolk Rd;500 555-0164;0-1 Km.;Sur;50;1;Cluster-1;Basic
+13;Jason;Campbell;26970;C;M;jason36@mineriadedatos.com.ar;90000;0;0;Licenciatura;Profesional;1;3;9371 Jacqueline Way;500 555-0124;10+ Km.;Sur;39;1;Cluster-1;Basic
+23;Dawn;He;28814;C;F;dawn20@mineriadedatos.com.ar;20000;0;0;Licenciatura;Administrativo;1;0;536 Beech Ct.;500 555-0125;0-1 Km.;Sur;34;1;Cluster-1;Basic
+18;Roger;Zhang;26554;C;M;roger5@mineriadedatos.com.ar;100000;0;5;EducaciÃ³n secundaria;GestiÃ³n;1;2;1715 Leed Court West;500 555-0132;10+ Km.;Sur;40;1;Cluster-2;Kinder y Sports
+322;Eduardo;Bailey;21231;C;M;eduardo83@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;9457 Mendocino Dr.;617-555-0175;1-2 Km.;Norte;55;1;Cluster-1;Basic
+226;Wayne;Jai;20327;C;M;wayne13@mineriadedatos.com.ar;90000;2;1;EducaciÃ³n secundaria;Profesional;1;2;225  rue Marbeuf;500 555-0151;10+ Km.;Centro;57;1;Cluster-1;Basic
+38;Derek;Shan;20197;S;M;derek9@mineriadedatos.com.ar;80000;2;0;EducaciÃ³n secundaria;Obrero especializado;0;2;7168 Belmont;500 555-0148;1-2 Km.;Sur;58;1;Cluster-3;Basic
+302;Drew;Kumar;20006;C;M;drew8@mineriadedatos.com.ar;30000;1;0;EducaciÃ³n secundaria;Administrativo;1;1;8852 Lacorso Dr.;776-555-0195;5-10 Km.;Norte;58;1;Cluster-1;Basic
+223;Chelsea;Madan;25808;C;F;chelsea8@mineriadedatos.com.ar;30000;0;0;Licenciatura;Administrativo;1;0;115  quai Paul Doumer;500 555-0186;0-1 Km.;Centro;42;1;Cluster-1;Basic
+626;Brittany;Diaz;24036;C;F;brittany20@mineriadedatos.com.ar;80000;3;3;Licenciatura;Obrero especializado;1;2;2973 Tanager Road;753-555-0176;2-5 Km.;Norte;47;1;Cluster-2;Kinder y Sports
+335;Megan;Kelly;26431;S;F;megan48@mineriadedatos.com.ar;70000;1;0;Estudios de postgrado;Profesional;0;0;9906 Oak Grove Road;119-555-0176;0-1 Km.;Norte;41;1;Cluster-3;Basic
+3;Meredith;Romero;28998;S;F;meredith32@mineriadedatos.com.ar;10000;0;0;Estudios universitarios (en curso);Obrero;1;1;8335 West Hookston Road;500 555-0187;2-5 Km.;Sur;33;1;Cluster-1;Basic
+542;Alyssa;Davis;18945;S;F;alyssa4@mineriadedatos.com.ar;70000;2;1;EducaciÃ³n secundaria;Profesional;1;2;711 Sweetwater Drive;178-555-0113;10+ Km.;Norte;61;1;Cluster-1;Basic
+155;Jack;Campbell;20172;C;M;jack42@mineriadedatos.com.ar;10000;2;0;Estudios universitarios (en curso);Obrero;1;0;Erlenweg 5194;500 555-0113;1-2 Km.;Centro;58;1;Cluster-1;Basic
+301;Cindy;Sanchez;22540;C;F;cindy19@mineriadedatos.com.ar;110000;1;3;Licenciatura;GestiÃ³n;1;3;7062 Starflower Drive;198-555-0118;2-5 Km.;Norte;51;1;Cluster-2;Kinder y Sports
+238;Megan;Stewart;19829;C;F;megan27@mineriadedatos.com.ar;80000;4;2;Estudios universitarios (en curso);Profesional;0;1;8192 Seagull Court;500 555-0116;2-5 Km.;Centro;59;1;Cluster-3;Basic
+5;Kellie;Navarro;27609;C;F;kellie8@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;1;2;1164 Augustine Drive;500 555-0157;10+ Km.;Sur;37;1;Cluster-1;Basic
+310;Meredith;Browning;24731;S;F;meredith39@mineriadedatos.com.ar;60000;0;0;Estudios de postgrado;Profesional;0;1;6453 Sur;240-555-0117;2-5 Km.;Norte;45;1;Cluster-3;Basic
+311;Warren;Nara;21874;S;M;warren6@mineriadedatos.com.ar;80000;4;0;Estudios de postgrado;Profesional;1;0;6973 Elena;373-555-0111;0-1 Km.;Norte;53;1;Cluster-1;Basic
+385;Gabriel;Collins;25267;C;M;gabriel32@mineriadedatos.com.ar;80000;3;0;Estudios de postgrado;Profesional;1;0;1040 Northridge Road;562-555-0115;0-1 Km.;Norte;44;1;Cluster-1;Basic
+315;Jack;Jai;25691;C;M;jack33@mineriadedatos.com.ar;70000;4;0;Estudios de postgrado;Profesional;1;0;1174 Ayers Rd;436-555-0167;2-5 Km.;Norte;43;1;Cluster-1;Basic
+307;Thomas;Jai;25253;C;M;thomas35@mineriadedatos.com.ar;50000;2;2;Licenciatura;Obrero especializado;1;0;2743 Veale Ave;906-555-0113;2-5 Km.;Norte;44;1;Cluster-1;Basic
+314;Miguel;Patterson;19890;S;M;miguel57@mineriadedatos.com.ar;70000;2;0;EducaciÃ³n secundaria (en curso);Obrero especializado;1;2;5133 Serrana Ct.;113-555-0189;5-10 Km.;Norte;58;1;Cluster-1;Basic
+6;Jeffery;Lu;26119;S;M;jeffery12@mineriadedatos.com.ar;100000;0;5;EducaciÃ³n secundaria;GestiÃ³n;1;3;9644 55th St.;500 555-0113;10+ Km.;Sur;41;1;Cluster-2;Kinder y Sports
+206;Marie;Gill;22156;C;F;marie37@mineriadedatos.com.ar;30000;3;0;Estudios de postgrado;Administrativo;1;0;571  rue Malar;500 555-0192;0-1 Km.;Centro;52;1;Cluster-1;Basic
+634;Caitlin;Peterson;20853;C;F;caitlin4@mineriadedatos.com.ar;70000;2;0;EducaciÃ³n secundaria (en curso);Obrero especializado;1;2;4220 Magnolia Ave;195-555-0150;5-10 Km.;Norte;56;1;Cluster-1;Basic
+131;Sebastian;Brooks;19727;C;M;sebastian2@mineriadedatos.com.ar;80000;4;2;Estudios universitarios (en curso);Profesional;1;1;Altendorfer StraÃŸe 299;500 555-0154;10+ Km.;Centro;59;1;Cluster-1;Basic
+241;Rafael;Wu;26463;S;M;rafael7@mineriadedatos.com.ar;40000;2;2;Estudios universitarios (en curso);Administrativo;1;0;3200 Wren Ave.;500 555-0123;1-2 Km.;Centro;40;1;Cluster-1;Basic
+17;Raquel;Alonso;24167;S;F;raquel5@mineriadedatos.com.ar;110000;0;0;Estudios de postgrado;GestiÃ³n;0;3;5474 Limewood Pl.;500 555-0175;1-2 Km.;Sur;47;1;Cluster-3;Basic
+166;Shane;Kapoor;23175;C;M;shane5@mineriadedatos.com.ar;40000;1;0;Licenciatura;Obrero especializado;1;0;Kapellstr 4922;500 555-0137;0-1 Km.;Centro;49;1;Cluster-1;Basic
+269;Raymond;Gonzalez;26078;S;M;raymond19@mineriadedatos.com.ar;30000;0;0;EducaciÃ³n secundaria;Obrero;1;1;3960 Seascape Circle;500 555-0182;2-5 Km.;Centro;41;1;Cluster-1;Basic
+14;Peter;Deng;29132;S;M;peter9@mineriadedatos.com.ar;20000;0;0;Licenciatura;Administrativo;1;0;7989 Pinehurst Court;500 555-0135;0-1 Km.;Sur;33;1;Cluster-1;Basic
+548;Elijah;Henderson;25734;C;M;elijah8@mineriadedatos.com.ar;70000;3;0;Estudios de postgrado;Profesional;0;0;8682 Etcheverry Dr;684-555-0119;0-1 Km.;Norte;42;1;Cluster-3;Basic
+302;Raymond;Fernandez;25059;C;M;raymond16@mineriadedatos.com.ar;130000;1;0;Estudios de postgrado;GestiÃ³n;1;3;2914 St. George Dr.;189-555-0163;0-1 Km.;Norte;44;1;Cluster-1;Basic
+23;Evan;Edwards;26911;S;M;evan25@mineriadedatos.com.ar;100000;0;5;EducaciÃ³n secundaria;GestiÃ³n;1;2;4976 Singingwood Court;500 555-0118;10+ Km.;Sur;39;1;Cluster-2;Kinder y Sports
+307;Cristina;She;26765;S;F;cristina0@mineriadedatos.com.ar;70000;0;0;Estudios universitarios (en curso);Profesional;1;2;719 Sycamore Drive;329-555-0150;5-10 Km.;Norte;40;1;Cluster-1;Basic
+49;Yolanda;Sharma;26705;S;F;yolanda8@mineriadedatos.com.ar;70000;0;0;Estudios universitarios (en curso);Profesional;0;2;1819 Lilac Court;275-555-0186;0-1 Km.;Norte;40;1;Cluster-3;Basic
+641;Gabriel;Patterson;19740;C;M;gabriel7@mineriadedatos.com.ar;70000;2;0;EducaciÃ³n secundaria (en curso);Obrero especializado;0;2;7788 Olive St;115-555-0124;1-2 Km.;Norte;59;1;Cluster-3;Basic
+607;Mason;Green;22248;C;M;mason37@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;3909 Lavetta Way;654-555-0178;2-5 Km.;Norte;52;1;Cluster-1;Basic
+311;Morgan;Richardson;21419;S;F;morgan57@mineriadedatos.com.ar;60000;1;0;Licenciatura;Profesional;1;1;8736 E. 62nd Street;559-555-0128;2-5 Km.;Norte;54;1;Cluster-1;Basic
+4;Lance;Sanz;29306;S;M;lance20@mineriadedatos.com.ar;10000;0;0;Estudios universitarios (en curso);Obrero;0;1;8327 Roundhouse Place;500 555-0136;0-1 Km.;Sur;33;1;Cluster-3;Basic
+155;Kari;Malhotra;22086;C;F;kari6@mineriadedatos.com.ar;30000;3;0;Licenciatura;Administrativo;1;0;Postfach 8 11 55;500 555-0116;0-1 Km.;Centro;52;1;Cluster-1;Basic
+205;Casey;She;22806;S;F;casey0@mineriadedatos.com.ar;30000;4;0;Estudios de postgrado;Administrativo;1;0;37  place de Fontenoy;500 555-0154;0-1 Km.;Centro;50;1;Cluster-1;Basic
+4;Ebony;Hernandez;15961;C;F;ebony26@mineriadedatos.com.ar;40000;2;0;Licenciatura;GestiÃ³n;1;2;7614 Inez Ave;500 555-0120;5-10 Km.;Sur;69;1;Cluster-1;Basic
+638;Lauren;Wilson;19786;C;F;lauren25@mineriadedatos.com.ar;30000;1;0;EducaciÃ³n secundaria;Administrativo;1;1;9387 Oak Brook Place;937-555-0124;5-10 Km.;Norte;59;1;Cluster-1;Basic
+552;Eric;Hughes;19841;C;M;eric20@mineriadedatos.com.ar;30000;1;0;EducaciÃ³n secundaria;Administrativo;1;1;6645 Sunshine;504-555-0114;2-5 Km.;Norte;59;1;Cluster-1;Basic
+38;Adrienne;Martin;27481;S;F;adrienne0@mineriadedatos.com.ar;80000;0;0;Licenciatura;Profesional;1;2;5188 Duke Way;500 555-0124;10+ Km.;Sur;38;1;Cluster-1;Basic
+345;Jesse;Kelly;26515;C;M;jesse2@mineriadedatos.com.ar;70000;1;0;Estudios de postgrado;Profesional;1;0;8890 Limewood Pl.;847-555-0122;2-5 Km.;Norte;40;1;Cluster-1;Basic
+36;Clarence;Liu;21513;S;M;clarence40@mineriadedatos.com.ar;900000;0;0;Estudios de postgrado;GestiÃ³n;1;3;1726 Chestnut;500 555-0118;0-1 Km.;Sur;54;1;Cluster-2;Kinder y Sports
+40;Misty;Chander;20927;S;F;misty17@mineriadedatos.com.ar;70000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;2050 Glazier Dr;500 555-0145;5-10 Km.;Sur;56;1;Cluster-1;Basic
+179;Julie;Pal;24009;S;F;julie17@mineriadedatos.com.ar;30000;2;2;Estudios universitarios (en curso);Administrativo;1;1;2  rue des Vendangeurs;500 555-0110;0-1 Km.;Centro;47;1;Cluster-1;Basic
+249;Troy;Patel;23564;C;M;troy3@mineriadedatos.com.ar;40000;1;0;Licenciatura;Obrero especializado;1;0;9443 Lacanda Ct.;500 555-0153;0-1 Km.;Centro;48;1;Cluster-1;Basic
+36;Gail;Alexander;25062;S;F;gail5@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;1;918 Park Lane;500 555-0120;5-10 Km.;Sur;44;1;Cluster-3;Basic
+30;Kathleen;Gomez;25405;C;F;kathleen3@mineriadedatos.com.ar;100000;1;0;Estudios de postgrado;GestiÃ³n;1;0;4769 Detroit Avenue;500 555-0157;2-5 Km.;Sur;43;1;Cluster-1;Basic
+547;Ethan;Shan;19855;C;M;ethan27@mineriadedatos.com.ar;80000;2;0;EducaciÃ³n secundaria (en curso);Obrero especializado;1;2;9551 Jones Rd;168-555-0113;5-10 Km.;Norte;59;1;Cluster-1;Basic
+53;Abigail;Thompson;23165;C;F;abigail56@mineriadedatos.com.ar;60000;3;2;Estudios de postgrado;Profesional;1;0;6738 Court Street;792-555-0194;2-5 Km.;Norte;49;1;Cluster-1;Basic
+329;Brianna;Russell;12897;C;F;brianna65@mineriadedatos.com.ar;120000;1;3;Estudios de postgrado;GestiÃ³n;1;4;9558 Orchard View Ave.;623-555-0192;2-5 Km.;Norte;78;1;Cluster-2;Kinder y Sports
+244;Kristi;Hernandez;24851;S;F;kristi0@mineriadedatos.com.ar;40000;0;0;Estudios de postgrado;Administrativo;0;0;4443 Virginia Lane;500 555-0182;0-1 Km.;Centro;45;1;Cluster-3;Basic
+301;Allison;Richardson;21036;C;F;allison8@mineriadedatos.com.ar;40000;1;0;Estudios universitarios (en curso);Administrativo;1;1;4344 Azoras Cir;618-555-0124;0-1 Km.;Norte;55;1;Cluster-1;Basic
+69;Jasmine;Davis;25481.04167;S;F;jasmine5@mineriadedatos.com.ar;70000;5;0;Estudios de postgrado;Profesional;1;0;9892 N. Spoonwood Ct.;540-555-0181;2-5 Km.;Norte;43;1;Cluster-1;Basic
+322;Victoria;Bryant;26749;C;F;victoria64@mineriadedatos.com.ar;40000;1;0;Estudios de postgrado;Obrero especializado;1;0;4822 Center Street;230-555-0189;0-1 Km.;Norte;40;1;Cluster-1;Basic
+236;Joanna;Hernandez;23105;C;F;joanna2@mineriadedatos.com.ar;40000;1;0;Licenciatura;Obrero especializado;1;0;5738 Bent Tree Lane;500 555-0175;0-1 Km.;Centro;50;1;Cluster-1;Basic
+20;Candice;Liu;23890;S;F;candice11@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;1;1;7835 Rio Blanco Dr.;500 555-0147;5-10 Km.;Sur;47;1;Cluster-1;Basic
+13;Bethany;Goel;20492;S;F;bethany0@mineriadedatos.com.ar;80000;2;0;EducaciÃ³n secundaria;Obrero especializado;0;2;1474 Bentley Ct.;500 555-0172;1-2 Km.;Sur;57;1;Cluster-3;Basic
+339;Jennifer;Diaz;25002;S;F;jennifer95@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;1;2099 San Jose;117-555-0118;0-1 Km.;Norte;44;1;Cluster-3;Basic
+15;Arthur;Chandra;20461;C;M;arthur4@mineriadedatos.com.ar;70000;2;0;EducaciÃ³n secundaria;Obrero especializado;0;2;1874 Orchid Ct;500 555-0196;1-2 Km.;Sur;57;1;Cluster-3;Basic
+32;Shawna;Andersen;25387;C;F;shawna14@mineriadedatos.com.ar;90000;1;0;Estudios de postgrado;GestiÃ³n;1;0;5165 Cambridge Drive;500 555-0149;0-1 Km.;Sur;43;1;Cluster-1;Basic
+153;Virginia;Fernandez;25145;C;F;virginia18@mineriadedatos.com.ar;40000;0;0;Estudios de postgrado;Administrativo;1;0;KrÃ¶nerweg 9679;500 555-0116;0-1 Km.;Centro;44;1;Cluster-1;Basic
+238;Savannah;Gray;26281;S;F;savannah4@mineriadedatos.com.ar;30000;0;0;EducaciÃ³n secundaria;Obrero;1;1;9617 Pheasant Ct;500 555-0190;2-5 Km.;Centro;41;1;Cluster-1;Basic
+27;Harold;Raman;29111;C;M;harold9@mineriadedatos.com.ar;20000;0;0;Licenciatura;Administrativo;0;0;9930 Clinton Dr;500 555-0152;0-1 Km.;Sur;33;1;Cluster-3;Basic
+183;Derek;Tang;24147;S;M;derek4@mineriadedatos.com.ar;20000;2;2;EducaciÃ³n secundaria;Obrero;1;0;421  rue LÃ©o Delibes;500 555-0195;0-1 Km.;Centro;47;1;Cluster-1;Basic
+633;Sydney;Flores;19593;C;F;sydney34@mineriadedatos.com.ar;70000;3;0;Estudios de postgrado;GestiÃ³n;1;2;7948 Rambling Lane;621-555-0147;5-10 Km.;Norte;59;1;Cluster-1;Basic
+298;Andy;Hernandez;22643;S;M;andy8@mineriadedatos.com.ar;110000;1;3;Licenciatura;GestiÃ³n;1;3;5485 Wee Donegal;922-555-0148;5-10 Km.;Norte;51;1;Cluster-2;Kinder y Sports
+230;Kate;Raje;25024;C;F;kate11@mineriadedatos.com.ar;30000;1;1;Licenciatura;Administrativo;1;0;16 Woodside Court;500 555-0182;2-5 Km.;Centro;44;1;Cluster-1;Basic
+273;Audrey;Gutierrez;23244;C;F;audrey12@mineriadedatos.com.ar;40000;1;0;Licenciatura;Obrero especializado;1;0;5271 Sierra Road;500 555-0141;0-1 Km.;Centro;49;1;Cluster-1;Basic
+22;Carolyn;Mehta;24900;C;F;carolyn13@mineriadedatos.com.ar;60000;2;2;Licenciatura;Profesional;0;1;4644 Rossmor Parkway;500 555-0123;0-1 Km.;Sur;45;1;Cluster-3;Basic
+26;Kyle;Green;20567;C;M;kyle42@mineriadedatos.com.ar;80000;2;0;Estudios universitarios (en curso);Obrero especializado;1;1;7980 Firestone Drive;500 555-0189;5-10 Km.;Sur;57;1;Cluster-1;Basic
+134;Mindy;Luo;19970;C;F;mindy10@mineriadedatos.com.ar;10000;2;0;Estudios universitarios (en curso);Obrero;1;1;Brunnenstr 7566;500 555-0194;2-5 Km.;Centro;58;1;Cluster-1;Basic
+18;Brandy;Garcia;25490;S;F;brandy11@mineriadedatos.com.ar;130000;1;0;Estudios de postgrado;GestiÃ³n;0;1;7420 Lilac Circle;500 555-0118;2-5 Km.;Sur;43;1;Cluster-3;Basic
+374;Richard;Bryant;25458;C;M;richard73@mineriadedatos.com.ar;80000;3;0;Estudios de postgrado;Profesional;1;0;292 Shangri-la Rd.;642-555-0119;0-1 Km.;Norte;43;1;Cluster-1;Basic
+242;Renee;Jimenez;24644;S;F;renee5@mineriadedatos.com.ar;10000;3;3;EducaciÃ³n secundaria (en curso);Obrero;1;1;2941 Jill Ave;500 555-0140;0-1 Km.;Centro;45;1;Cluster-1;Basic
+302;Hailey;Torres;19890;C;F;hailey13@mineriadedatos.com.ar;30000;1;0;EducaciÃ³n secundaria;Administrativo;1;1;7308 Star Tree Court;926-555-0159;2-5 Km.;Norte;58;1;Cluster-1;Basic
+536;Lawrence;Hernandez;21421;S;M;lawrence1@mineriadedatos.com.ar;40000;2;0;Estudios universitarios (en curso);Administrativo;1;1;4865 A St.;197-555-0118;1-2 Km.;Norte;54;1;Cluster-1;Basic
+192;Kathryn;Xie;24795;C;F;kathryn3@mineriadedatos.com.ar;40000;0;0;Licenciatura;Administrativo;1;0;14  rue de Cambrai;500 555-0135;0-1 Km.;Centro;45;1;Cluster-1;Basic
+29;Kristi;Chapman;22078;S;F;kristi18@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;1312 Creekside Dr.;500 555-0132;5-10 Km.;Sur;52;1;Cluster-1;Basic
+2;Jill;Ortega;24833;C;F;jill30@mineriadedatos.com.ar;90000;2;0;Licenciatura;Profesional;1;0;2824 Meadowvale Court;500 555-0199;2-5 Km.;Sur;45;1;Cluster-1;Basic
+18;Neil;Suarez;19593;C;M;neil18@mineriadedatos.com.ar;40000;2;0;Licenciatura;GestiÃ³n;1;1;9967 Malibu Place;500 555-0187;0-1 Km.;Sur;59;1;Cluster-1;Basic
+314;John;Brown;20616;C;M;john42@mineriadedatos.com.ar;70000;3;2;Estudios universitarios (en curso);Profesional;1;1;1283 Cowell Rd.;186-555-0112;5-10 Km.;Norte;56;1;Cluster-1;Basic
+3;Heather;Lin;27865;C;F;heather7@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;1;3;4890 Heron Ct;500 555-0116;10+ Km.;Sur;37;1;Cluster-1;Basic
+609;Hector;Hernandez;20660;C;M;hector2@mineriadedatos.com.ar;80000;2;0;EducaciÃ³n secundaria (en curso);Obrero especializado;1;2;9204 Lexington Road;914-555-0151;5-10 Km.;Norte;56;1;Cluster-1;Basic
+23;Destiny;Jones;19855;S;F;destiny3@mineriadedatos.com.ar;80000;2;0;Estudios universitarios (en curso);Obrero especializado;1;2;P. O. Box # 9257;500 555-0154;5-10 Km.;Sur;59;1;Cluster-1;Basic
+310;April;Luo;13036;C;F;april5@mineriadedatos.com.ar;80000;4;0;Estudios de postgrado;GestiÃ³n;1;2;4575 Shannondale Drive;223-555-0162;1-2 Km.;Norte;77;1;Cluster-1;Basic
+536;Cara;Wu;20637;S;F;cara3@mineriadedatos.com.ar;70000;3;0;Estudios universitarios (en curso);Profesional;0;2;415 Courthouse Drive;833-555-0143;0-1 Km.;Norte;56;1;Cluster-3;Basic
+55;Haley;Hernandez;26893;S;F;haley53@mineriadedatos.com.ar;50000;0;0;Estudios de postgrado;Obrero especializado;1;0;1671 Via Del Verdes;120-555-0112;0-1 Km.;Norte;39;1;Cluster-1;Basic
+299;Sheila;Gutierrez;22442;C;F;sheila11@mineriadedatos.com.ar;110000;1;3;Licenciatura;GestiÃ³n;1;3;3023 Adria Drive;551-555-0114;2-5 Km.;Norte;51;1;Cluster-2;Kinder y Sports
+361;Gavin;Hughes;20563;S;M;gavin11@mineriadedatos.com.ar;80000;2;0;EducaciÃ³n secundaria (en curso);Obrero especializado;0;2;1597 Apple Dr.;774-555-0177;1-2 Km.;Norte;57;1;Cluster-3;Basic
+307;Katherine;Alexander;20882;C;F;katherine45@mineriadedatos.com.ar;90000;2;0;Estudios universitarios (en curso);Profesional;1;1;3675 Q St.;638-555-0187;2-5 Km.;Norte;56;1;Cluster-1;Basic
+21;Carla;Rodriguez;19551;C;F;carla22@mineriadedatos.com.ar;40000;2;0;Licenciatura;GestiÃ³n;1;1;7341 46th St.;500 555-0167;0-1 Km.;Sur;59;1;Cluster-1;Basic
+276;Alan;Zeng;25594;S;M;alan26@mineriadedatos.com.ar;40000;2;2;Estudios universitarios (en curso);Administrativo;1;0;6289 Duck Horn Court;500 555-0117;1-2 Km.;Centro;43;1;Cluster-1;Basic
+337;Katherine;Patterson;24939;S;F;katherine36@mineriadedatos.com.ar;70000;0;0;Licenciatura;Profesional;0;1;7306 Pastime Drive;670-555-0187;0-1 Km.;Norte;45;1;Cluster-3;Basic
+634;Brandon;Zhang;22688;C;M;brandon20@mineriadedatos.com.ar;60000;1;0;Estudios universitarios (en curso);Obrero especializado;1;1;8461 Everett Ct;822-555-0128;2-5 Km.;Norte;51;1;Cluster-1;Basic
+277;Bruce;Sara;26484;S;M;bruce9@mineriadedatos.com.ar;30000;0;0;EducaciÃ³n secundaria;Obrero;0;1;5237 Babel Lane;500 555-0144;1-2 Km.;Centro;40;1;Cluster-3;Basic
+343;Benjamin;Taylor;24662;S;M;benjamin43@mineriadedatos.com.ar;60000;0;0;Estudios de postgrado;Profesional;0;1;2078 Jennifer Way;571-555-0135;0-1 Km.;Norte;45;1;Cluster-3;Basic
+329;Mariah;Russell;24761;S;F;mariah24@mineriadedatos.com.ar;40000;0;0;Licenciatura;Profesional;1;1;2292 Springlake Drive;403-555-0138;2-5 Km.;Norte;45;1;Cluster-1;Basic
