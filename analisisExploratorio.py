@@ -2,8 +2,6 @@ import pandas as pd                 # Análisis de datos
 import numpy as np                  # Funciones matemáticas
 import matplotlib.pyplot as plt     # Gráficas
 import seaborn as sns               # Gráficas mejoradas
-import statsmodels.api as sm        # ?
-import pylab as py                  # ?
 
 # Importe de datos
 path = "CSV/clientes.csv"
@@ -41,43 +39,6 @@ ax[1, 0].set_title("Boxplot de TotalHijos")
 
 sns.boxplot(data=data, x="CantAutomoviles", ax=ax[1, 1], color="steelblue")
 ax[1, 1].set_title("Boxplot de CantAutomoviles")
-
-plt.show()
-
-
-
-# Matriz S para analizar si hay alguna relación con "ComproBicicletas"
-data_numeric = data.select_dtypes(include=['float64', 'int64'])     # Nuevo DataFrame con solo columnas numéricas
-print(data_numeric.corr())
-
-# Matriz R para analizar la relación de otra forma
-# Debido a que los datos varían mucho, no es muy recomendable ver esta matriz
-print(data_numeric.cov())
-
-
-
-# Gráficas de dispersión
-sns.set_style("whitegrid")
-fig, ax = plt.subplots(2, 3, figsize=(11, 6))
-plt.subplots_adjust(bottom=0.2, wspace=0.5, hspace=0.4)
-
-sns.scatterplot(data=data, x="Edad", y="IngresoAnual", ax=ax[0, 0], color="steelblue", hue="ComproBicicleta")
-ax[0, 0].set_title("Edad vs. IngresoAnual")
-
-sns.scatterplot(data=data, x="Edad", y="TotalHijos", ax=ax[0, 1], color="steelblue", hue="ComproBicicleta")
-ax[0, 1].set_title("Edad vs. TotalHijos")
-
-sns.scatterplot(data=data, x="Edad", y="CantAutomoviles", ax=ax[0, 2], color="steelblue", hue="ComproBicicleta")
-ax[0, 2].set_title("Edad vs. CantAutomoviles")
-
-sns.scatterplot(data=data, x="TotalHijos", y="IngresoAnual", ax=ax[1, 0], color="steelblue", hue="ComproBicicleta")
-ax[1, 0].set_title("TotalHijos vs. IngresoAnual")
-
-sns.scatterplot(data=data, x="TotalHijos", y="CantAutomoviles", ax=ax[1, 1], color="steelblue", hue="ComproBicicleta")
-ax[1, 1].set_title("TotalHijos vs. CantAutomoviles")
-
-sns.scatterplot(data=data, x="IngresoAnual", y="CantAutomoviles", ax=ax[1, 2], color="steelblue", hue="ComproBicicleta")
-ax[1, 2].set_title("IngresoAnual vs. CantAutomoviles")
 
 plt.show()
 
@@ -163,5 +124,52 @@ plt.show()
 
 
 
+# Matriz S para analizar si hay alguna relación con "ComproBicicletas"
+data_numeric = data.select_dtypes(include=['float64', 'int64'])     # Nuevo DataFrame con solo columnas numéricas
+# print(data_numeric.corr())
+
+# Matriz R para analizar la relación de otra forma
+# Debido a que los datos varían mucho, no es muy recomendable ver esta matriz
+print(data_numeric.cov())
+
+
+
+# Diagramas de dispersión estratificados
+sns.set_style("whitegrid")
+sns.scatterplot(data=data, x="Edad", y="IngresoAnual", color="steelblue", hue = "ComproBicicleta")
+plt.title("Gráfico de dispersión: Edad vs. IngresoAnual")
+plt.show()
+
+sns.set_style("whitegrid")
+sns.scatterplot(data=data, x="Edad", y="IngresoAnual", color="steelblue", hue = "TotalHijos")
+plt.title("Gráfico de dispersión: Edad vs. IngresoAnual")
+plt.show()
+
+sns.set_style("whitegrid")
+sns.scatterplot(data=data, x="Edad", y="IngresoAnual", color="steelblue", hue = "CantAutomoviles")
+plt.title("Gráfico de dispersión: Edad vs. IngresoAnual")
+plt.show()
+
+sns.set_style("whitegrid")
+sns.scatterplot(data=data, x="Edad", y="IngresoAnual", color="steelblue", hue = "Propietario")
+plt.title("Gráfico de dispersión: Edad vs. IngresoAnual")
+plt.show()
+
+
+
+# Diagramas de caja estratificados
+columns = [["TotalHijos", "IngresoAnual"], ["TotalHijos", "Edad"], 
+                   ["Propietario", "IngresoAnual"], ["Propietario", "CantAutomoviles"], ["Propietario", "Edad"], 
+                   ["CantAutomoviles", "IngresoAnual"], ["CantAutomoviles", "TotalHijos"], ["CantAutomoviles", "Edad"], 
+                   ["ComproBicicleta", "IngresoAnual"], ["ComproBicicleta", "TotalHijos"], ["ComproBicicleta", "CantAutomoviles"], ["ComproBicicleta", "Edad"]]
+
+for data in columns:
+    sns.set_palette("Paired")
+    sns.boxplot(data=data_numeric, x=data[0], y=data[1])
+    plt.title("Gráfico de dispersión de " + data[0] + " vs " + data[1])
+    plt.show()
+
+
+
 # Exportamos el CSV ya sin datos nulos
-data.to_csv('clientes_sin_nulos.csv', index=False)
+# data.to_csv('clientes_sin_nulos.csv', index=False)
